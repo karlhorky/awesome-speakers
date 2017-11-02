@@ -102,4 +102,4 @@ https://twitter.com/thefubhy
 
 1. Boris Cherny  
 Topics: TypeScript, React, Computer Science  
-https://github.com/bcherny
+https://twitter.com/bcherny
