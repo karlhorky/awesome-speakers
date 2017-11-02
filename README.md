@@ -101,5 +101,5 @@ https://twitter.com/thefubhy
 ## San Francisco
 
 1. Boris Cherny  
-Topics: TypeScript, React, Computer Science  
+Topics: TypeScript, React, Computer Science  
 https://twitter.com/bcherny
