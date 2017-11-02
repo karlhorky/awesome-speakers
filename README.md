@@ -28,6 +28,12 @@ https://twitter.com/hermagrini
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
 
+## Dublin
+
+1. Ingrid Epure  
+Topics: Security, Psychology  
+https://twitter.com/ingridepure
+
 ## Vienna
 
 1. Nik Graf  
