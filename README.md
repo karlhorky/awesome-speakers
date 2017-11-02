@@ -30,11 +30,39 @@ https://twitter.com/hermagrini
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
 
+## Bristol
+
+1. Ruth John  
+Topics: CSS Animations  
+https://twitter.com/Rumyra
+
+## Copenhagen
+
+1. Olga Dmitricenko  
+Topics: VR, Web Image Processing  
+https://twitter.com/enthusiasto
+
+2. Tereza Sokol  
+Topics: Elm, Visualizations  
+https://twitter.com/terezk_a
+
 ## Dublin
 
 1. Ingrid Epure  
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
+
+## Porto
+
+1. Sara Vieira  
+Topics: Styleguides, React  
+https://twitter.com/NikkitaFTW
+
+## Sofia
+
+1. Radoslav Stankov  
+Topics: React, Redux  
+https://twitter.com/rstankov
 
 ## Vienna
 
@@ -53,6 +81,20 @@ https://twitter.com/okonetchnikov
 4. Patrick Stapfer  
 Topics: ReasonML, Static Typing, Flow  
 https://twitter.com/ryyppy
+
+5. Peter Ferak  
+Topics: Functional Programming, Computer Science  
+https://twitter.com/ferakpeter
+
+6. Timo Obereder  
+Topics: Composition, Recompose  
+https://twitter.com/defuex
+
+## Zurich
+
+1. Sebastian Siemssen  
+Topics: React, GraphQL, Tooling  
+https://twitter.com/thefubhy
 
 # North America
 
