@@ -6,6 +6,8 @@ Hi, I'm Karl and I'd like to help make it more transparent and easy to find spea
 
 Please add to the list and help make the community better connected and richer.
 
+# Europe
+
 ## Berlin
 
 1. Oleg Slobodskoi  
@@ -51,3 +53,11 @@ https://twitter.com/okonetchnikov
 4. Patrick Stapfer  
 Topics: ReasonML, Static Typing, Flow  
 https://twitter.com/ryyppy
+
+# North America
+
+## San Francisco
+
+1. Boris Cherny  
+Topics: TypeScript, React, Computer Science  
+https://github.com/bcherny
