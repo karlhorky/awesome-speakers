@@ -58,6 +58,6 @@ https://twitter.com/ryyppy
 
 ## San Francisco
 
-1. Boris Cherny
-Topics: TypeScript, React, Computer Science
+1. Boris Cherny  
+Topics: TypeScript, React, Computer Science  
 https://github.com/bcherny
