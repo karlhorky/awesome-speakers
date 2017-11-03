@@ -112,6 +112,12 @@ https://twitter.com/_philpl
 Topics: Styleguides, React, CSS  
 https://twitter.com/NikkitaFTW
 
+## Poznan
+
+* Tomasz Łakomy  
+Topics: React, VR, jQuery  
+https://twitter.com/tlakomy
+
 ## Sofia
 
 * Radoslav Stankov  
