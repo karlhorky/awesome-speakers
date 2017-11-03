@@ -11,13 +11,17 @@ Please add to the list and help make the community better connected and richer.
 
 ## Amsterdam
 
-* Narendra Shetty  
+<img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
+
+Narendra Shetty  
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
 
 ## Belgrade
 
-* Slobodan Stojanović  
+<img src="https://pbs.twimg.com/profile_images/858708563488845829/bfs-19gk_400x400.jpg" height="70px" width="auto" align="left" />
+
+Slobodan Stojanović  
 Topics: Serverless, Offline Web, Chat Bots  
 https://twitter.com/slobodan_
 
@@ -91,33 +95,45 @@ https://twitter.com/ingridepure
 
 ## Gdańsk
 
-* Kasia Jastrzębska  
+<img src="https://pbs.twimg.com/profile_images/910825228175069184/WC_iMm7-_400x400.jpg" height="70px" width="auto" align="left" />
+
+Kasia Jastrzębska  
 Topics: ClojureScript  
 https://twitter.com/kejt_bw
 
 ## Helsinki
 
-* Varya Stepanova  
+<img src="https://pbs.twimg.com/profile_images/914150533820243970/DnBSM3RF_400x400.jpg" height="70px" width="auto" align="left" />
+
+Varya Stepanova  
 Topics: CSS in JS, Style Guides, Visual Regression Testing  
 https://twitter.com/varya_en
 
 ## Lisbon
 
-* Daniela Matos de Carvalho  
+<img src="https://pbs.twimg.com/profile_images/841594344658391043/xh_QO-C9_400x400.jpg" height="70px" width="auto" align="left" />
+
+Daniela Matos de Carvalho  
 Topics: HTTP/2, JavaScript, React, Offline first  
 https://twitter.com/sericaia
 
 ## London
 
-* Cristiano Rastelli  
+<img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" />
+
+Cristiano Rastelli  
 Topics: CSS, CSS in JS  
 https://twitter.com/areaweb
 
-* Michele Bertoli  
+<img src="https://pbs.twimg.com/profile_images/736631175985434624/yYKH74aG_400x400.jpg" height="70px" width="auto" align="left" />
+
+Michele Bertoli  
 Topics: React, Testing  
 https://twitter.com/MicheleBertoli
 
-* Phil Plückthun  
+<img src="https://pbs.twimg.com/profile_images/755148129968787457/iQ16fdT9_400x400.jpg" height="70px" width="auto" align="left" />
+
+Phil Plückthun  
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
@@ -145,7 +161,7 @@ https://twitter.com/NikkitaFTW
 
 ## Poznan
 
-* Tomasz Łakomy  
+Tomasz Łakomy  
 Topics: React, VR, jQuery  
 https://twitter.com/tlakomy
 
