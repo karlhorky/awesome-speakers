@@ -76,20 +76,23 @@ https://twitter.com/rstankov
 
 ## Strasbourg
 
-| | |
-| ------------- | ------------- |
-| <img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="100px" width="auto" />  | Sven Sauleau  |
-| Topics | JavaScript (Babel), Artificial Intelligence, Linux and Ops, Computer Science  |
-| Contact | https://twitter.com/svensauleau  |
+<img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sven Sauleau    
+Topics: JavaScript (Babel), Artificial Intelligence, Linux and Ops, Computer Science    
+https://twitter.com/svensauleau
 
 ## Vienna
 
-* <img src="https://pbs.twimg.com/profile_images/678903331176214528/TQTdqGwD_400x400.jpg" height="100px" width="auto" />
+<img src="https://pbs.twimg.com/profile_images/678903331176214528/TQTdqGwD_400x400.jpg" height="70px" width="auto" align="left" />
+
 Andrey Okonetchnikov  
 Topics: CSS in JS, Linting, Tooling  
 https://twitter.com/okonetchnikov
 
-* Glenn Reyes  
+<img src="https://pbs.twimg.com/profile_images/687205014348103680/ZcIXYv4g_400x400.jpg" height="70px" width="auto" align="left" />
+
+Glenn Reyes  
 Topics: Code splitting, React  
 https://twitter.com/glnnrys
 
