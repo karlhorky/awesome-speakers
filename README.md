@@ -117,6 +117,12 @@ Gregory Shehet
 Topics: FRP, MobX, CSS in JS, React  
 https://twitter.com/AGambit95
 
+<img src="https://pbs.twimg.com/profile_images/908763932747288576/ySuitABV_400x400.jpg" height="70px" width="auto" align="left" />
+
+Roman Liutikov  
+Topics: ClojureScript, React, Compilers  
+https://twitter.com/roman01la
+
 ## Lisbon
 
 <img src="https://pbs.twimg.com/profile_images/841594344658391043/xh_QO-C9_400x400.jpg" height="70px" width="auto" align="left" />
