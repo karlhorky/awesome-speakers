@@ -32,6 +32,10 @@ https://twitter.com/karlhorky
 Topics: CSS in JS, React  
 https://twitter.com/oleg008
 
+* Robin Pokorny  
+Topics: Jest, React, AMP, (Elm)  
+https://twitter.com/robinpokorny
+
 * Yoshua Wuyts  
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
