@@ -1,4 +1,5 @@
-# Awesome Speakers
+# Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 > Awesome speakers in the programming community
 
@@ -7,6 +8,18 @@ Hi, I'm Karl and I'd like to help make it more transparent and easy to find spea
 Please add to the list and help make the community better connected and richer.
 
 # Europe
+
+## Amsterdam
+
+* Narendra Shetty  
+Topics: React, PWA  
+https://twitter.com/narendra_shetty
+
+## Belgrade
+
+* Slobodan Stojanović  
+Topics: Serverless, Offline Web, Chat Bots  
+https://twitter.com/slobodan_
 
 ## Berlin
 
@@ -33,6 +46,12 @@ https://twitter.com/karlhorky
 Oleg Slobodskoi  
 Topics: CSS in JS, React  
 https://twitter.com/oleg008
+
+<img src="https://pbs.twimg.com/profile_images/892332104012484608/_3R1X9CN_400x400.jpg" height="70px" width="auto" align="left" />
+
+Robin Pokorny  
+Topics: Jest, React, AMP, (Elm)  
+https://twitter.com/robinpokorny
 
 <img src="https://pbs.twimg.com/profile_images/889222391007719424/VZb5oY8a_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -70,6 +89,38 @@ Ingrid Epure
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
 
+## Gdańsk
+
+* Kasia Jastrzębska  
+Topics: ClojureScript  
+https://twitter.com/kejt_bw
+
+## Helsinki
+
+* Varya Stepanova  
+Topics: CSS in JS, Style Guides, Visual Regression Testing  
+https://twitter.com/varya_en
+
+## Lisbon
+
+* Daniela Matos de Carvalho  
+Topics: HTTP/2, JavaScript, React, Offline first  
+https://twitter.com/sericaia
+
+## London
+
+* Cristiano Rastelli  
+Topics: CSS, CSS in JS  
+https://twitter.com/areaweb
+
+* Michele Bertoli  
+Topics: React, Testing  
+https://twitter.com/MicheleBertoli
+
+* Phil Plückthun  
+Topics: React, CSS in JS  
+https://twitter.com/_philpl
+
 ## Munich
 
 <img src="https://pbs.twimg.com/profile_images/661485440751509505/ZnNN9qes_400x400.jpg" height="70px" width="auto" align="left" />
@@ -88,16 +139,22 @@ https://twitter.com/mathias
 
 <img src="https://pbs.twimg.com/profile_images/921441266042318848/aGGUBJ7S_400x400.jpg" height="70px" width="auto" align="left" />
 
-Sara Vieira  
-Topics: Styleguides, React  
+* Sara Vieira  
+Topics: Styleguides, React, CSS  
 https://twitter.com/NikkitaFTW
+
+## Poznan
+
+* Tomasz Łakomy  
+Topics: React, VR, jQuery  
+https://twitter.com/tlakomy
 
 ## Sofia
 
 <img src="https://pbs.twimg.com/profile_images/1267189835/rado_color_180_400x400.jpg" height="70px" width="auto" align="left" />
 
-Radoslav Stankov  
-Topics: React, Redux  
+* Radoslav Stankov  
+Topics: React, Redux, Ruby, Testing, GraphQL  
 https://twitter.com/rstankov
 
 ## Strasbourg
@@ -131,8 +188,14 @@ https://twitter.com/bebraw
 <img src="https://pbs.twimg.com/profile_images/814140031237496832/G-OShJRF_400x400.jpg" height="70px" width="auto" align="left" />
 
 Nik Graf  
-Topics: VR, React  
+Topics: VR, Serverless, React  
 https://twitter.com/nikgraf
+
+<img src="https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg" height="70px" width="auto" align="left" />
+
+Max Stoiber  
+Topics: React, Styled Components, OSS  
+https://twitter.com/mxstbr
 
 <img src="https://pbs.twimg.com/profile_images/923184283367469057/HFTSuBcW_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -151,6 +214,7 @@ https://twitter.com/ferakpeter
 Timo Obereder  
 Topics: Composition, Recompose  
 https://twitter.com/defuex
+
 
 ## Zurich
 
