@@ -23,7 +23,7 @@ Topics: Tooling, Standards, (OSS), (Psychology)
 https://twitter.com/karlhorky
 
 * Oleg Slobodskoi  
-Topics: CSS in JS, Advanced React  
+Topics: CSS in JS, React  
 https://twitter.com/oleg008
 
 * Yoshua Wuyts  
@@ -83,7 +83,7 @@ Topics: CSS in JS, Linting, Tooling
 https://twitter.com/okonetchnikov
 
 * Glenn Reyes  
-Topics: Code splitting, Advanced React  
+Topics: Code splitting, React  
 https://twitter.com/glnnrys
 
 * Juho Vepsäläinen  
@@ -91,7 +91,7 @@ Topics: 3D graphics, Business, React, webpack, Writing
 https://twitter.com/bebraw
 
 * Nik Graf  
-Topics: VR, Advanced React  
+Topics: VR, React  
 https://twitter.com/nikgraf
 
 * Patrick Stapfer  
