@@ -123,17 +123,23 @@ https://twitter.com/_philpl
 
 ## Munich
 
-* Franziska Hinkelmann  
+<img src="https://pbs.twimg.com/profile_images/661485440751509505/ZnNN9qes_400x400.jpg" height="70px" width="auto" align="left" />
+
+Franziska Hinkelmann  
 Topics: Node, V8  
 https://twitter.com/fhinkel
 
-* Mathias Bynens  
+<img src="https://pbs.twimg.com/profile_images/1255767431/kung-fu_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mathias Bynens  
 Topics: JavaScript (TC39), V8, Chrome  
 https://twitter.com/mathias
 
 ## Porto
 
-* Sara Vieira  
+<img src="https://pbs.twimg.com/profile_images/921441266042318848/aGGUBJ7S_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sara Vieira  
 Topics: Styleguides, React, CSS  
 https://twitter.com/NikkitaFTW
 
@@ -145,7 +151,9 @@ https://twitter.com/tlakomy
 
 ## Sofia
 
-* Radoslav Stankov  
+<img src="https://pbs.twimg.com/profile_images/1267189835/rado_color_180_400x400.jpg" height="70px" width="auto" align="left" />
+
+Radoslav Stankov  
 Topics: React, Redux, Ruby, Testing, GraphQL  
 https://twitter.com/rstankov
 
@@ -171,34 +179,48 @@ Glenn Reyes
 Topics: Code splitting, React  
 https://twitter.com/glnnrys
 
-* Juho Vepsäläinen  
+<img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" />
+
+Juho Vepsäläinen  
 Topics: 3D graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
-* Max Stoiber  
+<img src="https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg" height="70px" width="auto" align="left" />
+
+Max Stoiber  
 Topics: React, Styled Components, OSS  
 https://twitter.com/mxstbr
 
-* Nik Graf  
+<img src="https://pbs.twimg.com/profile_images/814140031237496832/G-OShJRF_400x400.jpg" height="70px" width="auto" align="left" />
+
+Nik Graf  
 Topics: VR, Serverless, React  
 https://twitter.com/nikgraf
 
-* Patrick Stapfer  
+<img src="https://pbs.twimg.com/profile_images/923184283367469057/HFTSuBcW_400x400.jpg" height="70px" width="auto" align="left" />
+
+Patrick Stapfer  
 Topics: ReasonML, Static Typing, Flow  
 https://twitter.com/ryyppy
 
-* Peter Ferak  
+<img src="https://pbs.twimg.com/profile_images/868930803425828864/1TWl571x_400x400.jpg" height="70px" width="auto" align="left" />
+
+Peter Ferak  
 Topics: Functional Programming, Computer Science  
 https://twitter.com/ferakpeter
 
-* Timo Obereder  
+<img src="https://pbs.twimg.com/profile_images/881236730254434304/JZs8wBHX_400x400.jpg" height="70px" width="auto" align="left" />
+
+Timo Obereder  
 Topics: Composition, Recompose  
 https://twitter.com/defuex
 
 
 ## Zurich
 
-* Sebastian Siemssen  
+<img src="https://pbs.twimg.com/profile_images/737308641511002113/YB7CH5CE_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sebastian Siemssen  
 Topics: React, GraphQL, Tooling  
 https://twitter.com/thefubhy
 
@@ -206,12 +228,16 @@ https://twitter.com/thefubhy
 
 ## Philadelphia
 
-* Richard Feldman  
+<img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH_400x400.jpg" height="70px" width="auto" align="left" />
+
+Richard Feldman  
 Topics: Elm  
 https://twitter.com/rtfeldman
 
 ## San Francisco
 
-* Boris Cherny  
+<img src="https://pbs.twimg.com/profile_images/880565020173717504/CqM1jdvu_400x400.jpg" height="70px" width="auto" align="left" />
+
+Boris Cherny  
 Topics: TypeScript, React, Computer Science  
 https://twitter.com/bcherny
