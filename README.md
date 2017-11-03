@@ -145,6 +145,14 @@ Phil Plückthun
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
+## Moscow
+
+<img src="https://pbs.twimg.com/profile_images/880419066833510400/xJ1uiJUF_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sergey Rubanov  
+Topics: Standards, Web Assembly  
+https://twitter.com/chicoxyzzy
+
 ## Munich
 
 <img src="https://pbs.twimg.com/profile_images/661485440751509505/ZnNN9qes_400x400.jpg" height="70px" width="auto" align="left" />
