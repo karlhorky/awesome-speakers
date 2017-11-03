@@ -134,7 +134,7 @@ https://twitter.com/rstankov
 <img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sven Sauleau    
-Topics: JavaScript (Babel), Artificial Intelligence, Linux and Ops, Computer Science    
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, cloud, Ops, Computer Science    
 https://twitter.com/svensauleau
 
 ## Vienna
