@@ -159,6 +159,12 @@ Cristiano Rastelli
 Topics: CSS, CSS in JS  
 https://twitter.com/areaweb
 
+<img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" />
+
+Gerard Sans  
+Topics: Angular, React, GraphQL, CSS Animations, RxJS  
+https://twitter.com/gerardsans
+
 <img src="https://pbs.twimg.com/profile_images/875454858215780352/etiz5li-_400x400.jpg" height="70px" width="auto" align="left" />
 
 Gojko Adzic  
