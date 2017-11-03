@@ -10,105 +10,105 @@ Please add to the list and help make the community better connected and richer.
 
 ## Berlin
 
-1. Oleg Slobodskoi  
+* Oleg Slobodskoi  
 Topics: CSS in JS, Advanced React  
 https://twitter.com/oleg008
 
-2. Karl Horky  
+* Karl Horky  
 Topics: Tooling, Standards, (OSS), (Psychology)  
 https://twitter.com/karlhorky
 
-3. Artem Sapegin  
+* Artem Sapegin  
 Topics: Style guides, UI, CSS  
 https://twitter.com/iamsapegin
 
-4. Hernán Magrini  
+* Hernán Magrini  
 Topics: Web Performance, Service Workers  
 https://twitter.com/hermagrini
 
-5. Yoshua Wuyts  
+* Yoshua Wuyts  
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
 
 ## Bristol
 
-1. Ruth John  
+* Ruth John  
 Topics: CSS Animations  
 https://twitter.com/Rumyra
 
 ## Copenhagen
 
-1. Olga Dmitricenko  
+* Olga Dmitricenko  
 Topics: VR, Web Image Processing  
 https://twitter.com/enthusiasto
 
-2. Tereza Sokol  
+* Tereza Sokol  
 Topics: Elm, Visualizations  
 https://twitter.com/terezk_a
 
 ## Dublin
 
-1. Ingrid Epure  
+* Ingrid Epure  
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
 
 ## Munich
 
-1. Franziska Hinkelmann  
+* Franziska Hinkelmann  
 Topics: Node, V8  
 https://twitter.com/fhinkel
 
 ## Porto
 
-1. Sara Vieira  
+* Sara Vieira  
 Topics: Styleguides, React  
 https://twitter.com/NikkitaFTW
 
 ## Sofia
 
-1. Radoslav Stankov  
+* Radoslav Stankov  
 Topics: React, Redux  
 https://twitter.com/rstankov
 
 ## Strasbourg
 
-1. Sven Sauleau  
+* Sven Sauleau  
 Topics: JavaScript (Babel), Artificial Intelligence, Linux and Ops, Computer Science  
 https://twitter.com/svensauleau
 
 ## Vienna
 
-1. Nik Graf  
+* Nik Graf  
 Topics: VR, Advanced React  
 https://twitter.com/nikgraf
 
-2. Glenn Reyes  
+* Glenn Reyes  
 Topics: Code splitting, Advanced React  
 https://twitter.com/glnnrys
 
-3. Andrey Okonetchnikov  
+* Andrey Okonetchnikov  
 Topics: CSS in JS, Linting, Tooling  
 https://twitter.com/okonetchnikov
 
-4. Patrick Stapfer  
+* Patrick Stapfer  
 Topics: ReasonML, Static Typing, Flow  
 https://twitter.com/ryyppy
 
-5. Peter Ferak  
+* Peter Ferak  
 Topics: Functional Programming, Computer Science  
 https://twitter.com/ferakpeter
 
-6. Timo Obereder  
+* Timo Obereder  
 Topics: Composition, Recompose  
 https://twitter.com/defuex
 
-7. Juho Vepsäläinen  
+* Juho Vepsäläinen  
 Topics: 3D graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
 ## Zurich
 
-1. Sebastian Siemssen  
+* Sebastian Siemssen  
 Topics: React, GraphQL, Tooling  
 https://twitter.com/thefubhy
 
@@ -116,12 +116,12 @@ https://twitter.com/thefubhy
 
 ## Philadelphia
 
-1. Richard Feldman  
+* Richard Feldman  
 Topics: Elm  
 https://twitter.com/rtfeldman
 
 ## San Francisco
 
-1. Boris Cherny  
+* Boris Cherny  
 Topics: TypeScript, React, Computer Science  
 https://twitter.com/bcherny
