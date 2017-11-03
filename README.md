@@ -35,7 +35,7 @@ https://twitter.com/simalexan
 
 Slobodan Stojanović  
 Topics: Serverless, Offline Web, Chat Bots  
-https://twitter.com/slobodan_
+[https://twitter.com/slobodan_](https://twitter.com/slobodan_)
 
 ## Berlin
 
