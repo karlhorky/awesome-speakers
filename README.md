@@ -103,3 +103,9 @@ https://twitter.com/thefubhy
 1. Boris Cherny  
 Topics: TypeScript, React, Computer Science  
 https://twitter.com/bcherny
+
+## Philadelphia
+
+1. Richard Feldman
+Topics: Elm
+https://twitter.com/rtfeldman
