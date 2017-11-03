@@ -24,6 +24,12 @@ https://twitter.com/narendra_shetty
 
 ## Belgrade
 
+<img src="https://pbs.twimg.com/profile_images/823894615145201664/0xxSg0_c_400x400.jpg" height="70px" width="auto" align="left" />
+
+Aleksandar Simovic  
+Topics: Serverless  
+https://twitter.com/simalexan
+
 <img src="https://pbs.twimg.com/profile_images/858708563488845829/bfs-19gk_400x400.jpg" height="70px" width="auto" align="left" />
 
 Slobodan Stojanović  
@@ -84,6 +90,12 @@ https://twitter.com/Rumyra
 
 ## Copenhagen
 
+<img src="https://pbs.twimg.com/profile_images/907970058625875968/7ecTxUP4_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mathias Buus  
+Topics: Peer to Peer, Node.js  
+https://twitter.com/mafintosh
+
 <img src="https://pbs.twimg.com/profile_images/783752447940497408/R8S23hzW_400x400.jpg" height="70px" width="auto" align="left" />
 
 Olga Dmitricenko  
@@ -111,6 +123,14 @@ https://twitter.com/ingridepure
 Kasia Jastrzębska  
 Topics: ClojureScript  
 https://twitter.com/kejt_bw
+
+## Hamburg
+
+<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" />
+
+Martin Kleppe  
+Topics: Weird JS  
+https://twitter.com/aemkei
 
 ## Helsinki
 
@@ -154,6 +174,18 @@ Topics: HTML, CSS, JavaScript, WebVR, Web technologies, PWA
 Cristiano Rastelli  
 Topics: CSS, CSS in JS  
 https://twitter.com/areaweb
+
+<img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" />
+
+Gerard Sans  
+Topics: Angular, React, GraphQL, CSS Animations, RxJS  
+https://twitter.com/gerardsans
+
+<img src="https://pbs.twimg.com/profile_images/875454858215780352/etiz5li-_400x400.jpg" height="70px" width="auto" align="left" />
+
+Gojko Adzic  
+Topics: Testing, Requirements, Serverless  
+https://twitter.com/gojkoadzic
 
 <img src="https://pbs.twimg.com/profile_images/736631175985434624/yYKH74aG_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -286,6 +318,12 @@ https://twitter.com/defuex
 
 ## Zurich
 
+<img src="https://pbs.twimg.com/profile_images/772017431376175104/XvIsVuB4_400x400.jpg" height="70px" width="auto" align="left" />
+
+Martin Splitt  
+Topics: VR, Web Performance  
+https://twitter.com/g33konaut
+
 <img src="https://pbs.twimg.com/profile_images/737308641511002113/YB7CH5CE_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sebastian Siemssen  
@@ -294,11 +332,35 @@ https://twitter.com/thefubhy
 
 # North America
 
-<img src="https://pbs.twimg.com/profile_images/856249108885110784/97cssCek_400x400.jpg" height="70px" width="auto" align="left" />
+## Boston
 
-Sarah Drasner
-Topics: CSS, SVG, Animations, Vue.js, React
-https://twitter.com/sarah_edo
+<img src="https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png" height="70px" width="auto" align="left" />
+
+Lea Verou  
+Topics: CSS, HTML  
+https://twitter.com/leaverou
+
+## Denver
+
+<img src="https://pbs.twimg.com/profile_images/923079722778505216/qhL5tFpp_400x400.jpg" height="70px" width="auto" align="left" />
+
+Miriam Suzanne  
+Topics: CSS, Sass  
+https://twitter.com/mirisuzanne
+
+## New York
+
+<img src="https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF_400x400.jpg" height="70px" width="auto" align="left">
+
+Una Kravets  
+Topics: CSS, Web  
+https://twitter.com/una
+
+<img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mariko Kosaka  
+Topics: HTML, CSS, JavaScript, Web  
+https://twitter.com/kosamari
 
 ## Philadelphia
 
@@ -307,6 +369,14 @@ https://twitter.com/sarah_edo
 Richard Feldman  
 Topics: Elm  
 https://twitter.com/rtfeldman
+
+## Pittsburgh
+
+<img src="https://pbs.twimg.com/profile_images/497876628651782146/hrCHz_ym_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Lin Clark  
+Topics: React, WebAssembly, Browsers Internals  
+https://twitter.com/linclark
 
 ## San Francisco
 
@@ -322,26 +392,29 @@ Boris Cherny
 Topics: TypeScript, React, Computer Science  
 https://twitter.com/bcherny
 
-## Boston
+<img src="https://pbs.twimg.com/profile_images/816474544185614338/9jkkFjmO_400x400.jpg" height="70px" width="auto" align="left" />
 
-<img src="https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png" height="70px" width="auto" align="left" />
+Estelle Weyl  
+Topics: CSS, Performance, Responsive Web Design  
+https://twitter.com/estellevw
 
-Lea Verou
-Topics: CSS, HTML
-https://twitter.com/leaverou
+<img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
 
-## New York
+Mina Markham  
+Topics: CSS Architecture, Sass, Community  
+https://twitter.com/MinaMarkham
 
-<img src="https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF_400x400.jpg" height="70px" width="auto" align="left">
+<img src="https://pbs.twimg.com/profile_images/865264595195265024/EuTAyJFJ_400x400.jpg" height="70px" width="auto" align="left" />
 
-Una Kravets
-Topics: CSS, Web
-https://twitter.com/una
+Preethi Kasireddy  
+Topics: Machine Learning, NLP, React  
+https://twitter.com/iam_preethi
 
-<img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/856249108885110784/97cssCek_400x400.jpg" height="70px" width="auto" align="left" />
 
-Mariko Kosaka
-Topics: HTML, CSS, JavaScript, Web
+Sarah Drasner  
+Topics: CSS, SVG, Animations, Vue.js, React  
+https://twitter.com/sarah_edo
 
 # Australia
 
@@ -350,7 +423,7 @@ Topics: HTML, CSS, JavaScript, Web
 <img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
 
 Karolina Szczur
-Topics: CSS, HTML, Web, Inclusion, Diversity
+Topics: CSS, HTML, Web, Inclusivity, Diversity
 https://twitter.com/fox
 
 ## License
