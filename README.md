@@ -64,6 +64,12 @@ https://twitter.com/NikkitaFTW
 Topics: React, Redux  
 https://twitter.com/rstankov
 
+## Strasbourg
+
+1. Sven Sauleau  
+Topics: JavaScript (Babel), artificial intelligence, Linux and Ops, Computer Science    
+https://twitter.com/svensauleau
+
 ## Vienna
 
 1. Nik Graf  
