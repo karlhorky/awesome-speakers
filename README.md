@@ -131,13 +131,15 @@ https://twitter.com/rstankov
 
 ## Strasbourg
 
-* Sven Sauleau  
+* [![avatar](https://avatars3.githubusercontent.com/u/1493671?s=64)](https://github.com/xtuc)    
+Sven Sauleau  
 Topics: JavaScript (Babel), Artificial Intelligence, Linux and Ops, Computer Science  
 https://twitter.com/svensauleau
 
 ## Vienna
 
-* Andrey Okonetchnikov  
+* [![avatar](https://avatars3.githubusercontent.com/u/11071?s=64)](https://github.com/okonet)    
+Andrey Okonetchnikov
 Topics: CSS in JS, Linting, Tooling  
 https://twitter.com/okonetchnikov
 
