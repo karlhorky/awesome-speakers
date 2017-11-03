@@ -139,7 +139,7 @@ https://twitter.com/svensauleau
 ## Vienna
 
 * <img src="https://pbs.twimg.com/profile_images/678903331176214528/TQTdqGwD_400x400.jpg" height="100px" width="auto" />
-Andrey Okonetchnikov
+Andrey Okonetchnikov  
 Topics: CSS in JS, Linting, Tooling  
 https://twitter.com/okonetchnikov
 
