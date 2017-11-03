@@ -58,6 +58,28 @@ https://twitter.com/terezk_a
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
 
+## Gdańsk
+
+* Kasia Jastrzębska  
+Topics: ClojureScript  
+https://twitter.com/kejt_bw
+
+## Helsinki
+
+* Varya Stepanova  
+Topics: CSS in JS, Style Guides, Visual Regression Testing
+https://twitter.com/varya_en
+
+## London
+
+* Cristiano Rastelli  
+Topics: CSS, CSS in JS  
+https://twitter.com/areaweb
+
+* Phil Plückthun  
+Topics: CSS in JS  
+https://twitter.com/_philpl
+
 ## Munich
 
 * Franziska Hinkelmann  
@@ -93,7 +115,7 @@ https://twitter.com/NikkitaFTW
 ## Sofia
 
 * Radoslav Stankov  
-Topics: React, Redux  
+Topics: React, Redux, Ruby, Testing, GraphQL  
 https://twitter.com/rstankov
 
 ## Strasbourg
