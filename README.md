@@ -1,4 +1,5 @@
-# Awesome Speakers
+# Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 > Awesome speakers in the programming community
 
