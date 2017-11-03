@@ -8,6 +8,12 @@ Please add to the list and help make the community better connected and richer.
 
 # Europe
 
+## Amsterdam
+
+* Narendra Shetty  
+Topics: React, PWA  
+https://twitter.com/narendra_shetty
+
 ## Berlin
 
 * Artem Sapegin  
@@ -62,10 +68,26 @@ https://twitter.com/fhinkel
 Topics: JavaScript (TC39), V8, Chrome  
 https://twitter.com/mathias
 
+## Lisbon
+
+* Daniela Matos de Carvalho  
+Topics: HTTP/2, JavaScript, React, Offline first  
+https://twitter.com/sericaia
+
+## London
+
+* Michele Bertoli  
+Topics: React, Testing  
+https://twitter.com/MicheleBertoli
+
+* Phil Plückthun  
+Topics: React, CSS in JS  
+https://twitter.com/_philpl
+
 ## Porto
 
 * Sara Vieira  
-Topics: Styleguides, React  
+Topics: Styleguides, React, CSS  
 https://twitter.com/NikkitaFTW
 
 ## Sofia
@@ -94,6 +116,10 @@ https://twitter.com/glnnrys
 Topics: 3D graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
+* Max Stoiber  
+Topics: React, Styled Components, OSS  
+https://twitter.com/mxstbr
+
 * Nik Graf  
 Topics: VR, React  
 https://twitter.com/nikgraf
@@ -109,6 +135,7 @@ https://twitter.com/ferakpeter
 * Timo Obereder  
 Topics: Composition, Recompose  
 https://twitter.com/defuex
+
 
 ## Zurich
 
