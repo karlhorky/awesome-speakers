@@ -168,8 +168,9 @@ https://twitter.com/sericaia
 
 <img src="https://pbs.twimg.com/profile_images/925719098042052610/y-llZ0AF_400x400.jpg" height="70px" width="auto" align="left" />
 
-Ada Rose Cannon
-Topics: HTML, CSS, JavaScript, WebVR, Web technologies, PWA
+Ada Rose Cannon  
+Topics: HTML, CSS, JavaScript, WebVR, Web technologies, PWA  
+https://twitter.com/lady_ada_king
 
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" />
 
