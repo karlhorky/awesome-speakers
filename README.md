@@ -310,6 +310,14 @@ https://twitter.com/thefubhy
 
 # North America
 
+## Denver
+
+<img src="https://pbs.twimg.com/profile_images/923079722778505216/qhL5tFpp_400x400.jpg" height="70px" width="auto" align="left" />
+
+Miriam Suzanne  
+Topics: CSS, Sass  
+https://twitter.com/mirisuzanne
+
 ## Philadelphia
 
 <img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH_400x400.jpg" height="70px" width="auto" align="left" />
@@ -318,6 +326,14 @@ Richard Feldman
 Topics: Elm  
 https://twitter.com/rtfeldman
 
+## Pittsburgh
+
+<img src="https://pbs.twimg.com/profile_images/497876628651782146/hrCHz_ym_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Lin Clark  
+Topics: React, WebAssembly  
+https://twitter.com/linclark
+
 ## San Francisco
 
 <img src="https://pbs.twimg.com/profile_images/880565020173717504/CqM1jdvu_400x400.jpg" height="70px" width="auto" align="left" />
@@ -325,6 +341,25 @@ https://twitter.com/rtfeldman
 Boris Cherny  
 Topics: TypeScript, React, Computer Science  
 https://twitter.com/bcherny
+
+<img src="https://pbs.twimg.com/profile_images/816474544185614338/9jkkFjmO_400x400.jpg" height="70px" width="auto" align="left" />
+
+Estelle Weyl  
+Topics: CSS, Performance, Responsive Web Design  
+https://twitter.com/estellevw
+
+<img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mina Markham  
+Topics: CSS Architecture, Sass, Community  
+https://twitter.com/MinaMarkham
+
+
+<img src="https://pbs.twimg.com/profile_images/865264595195265024/EuTAyJFJ_400x400.jpg" height="70px" width="auto" align="left" />
+
+Preethi Kasireddy  
+Topics: Machine Learning, NLP, React  
+https://twitter.com/iam_preethi
 
 ## License
 
