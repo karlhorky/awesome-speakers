@@ -396,11 +396,11 @@ Boris Cherny
 Topics: TypeScript, React, Computer Science  
 https://twitter.com/bcherny
 
-<img src="https://pbs.twimg.com/profile_images/816474544185614338/9jkkFjmO_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/744899510/avatar_400x400.png" height="70px" width="auto" align="left" />
 
 Estelle Weyl  
 Topics: CSS, Performance, Responsive Web Design  
-https://twitter.com/estellevw
+https://twitter.com/standardista
 
 <img src="https://avatars1.githubusercontent.com/u/12424987?s=460&v=4" height="70px" width="auto" align="left" />
  
