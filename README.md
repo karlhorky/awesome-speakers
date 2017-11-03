@@ -18,7 +18,7 @@ https://twitter.com/narendra_shetty
 ## Belgrade
 
 * Slobodan Stojanović  
-Topics: Serverless, Offline Web  
+Topics: Serverless, Offline Web, Chat Bots  
 https://twitter.com/slobodan_
 
 ## Berlin
