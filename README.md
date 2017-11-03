@@ -70,14 +70,24 @@ https://twitter.com/kejt_bw
 Topics: CSS in JS, Style Guides, Visual Regression Testing  
 https://twitter.com/varya_en
 
+## Lisbon
+
+* Daniela Matos de Carvalho  
+Topics: HTTP/2, JavaScript, React, Offline first  
+https://twitter.com/sericaia
+
 ## London
 
 * Cristiano Rastelli  
 Topics: CSS, CSS in JS  
 https://twitter.com/areaweb
 
+* Michele Bertoli  
+Topics: React, Testing  
+https://twitter.com/MicheleBertoli
+
 * Phil Plückthun  
-Topics: CSS in JS  
+Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
 ## Munich
@@ -89,22 +99,6 @@ https://twitter.com/fhinkel
 * Mathias Bynens  
 Topics: JavaScript (TC39), V8, Chrome  
 https://twitter.com/mathias
-
-## Lisbon
-
-* Daniela Matos de Carvalho  
-Topics: HTTP/2, JavaScript, React, Offline first  
-https://twitter.com/sericaia
-
-## London
-
-* Michele Bertoli  
-Topics: React, Testing  
-https://twitter.com/MicheleBertoli
-
-* Phil Plückthun  
-Topics: React, CSS in JS  
-https://twitter.com/_philpl
 
 ## Porto
 
