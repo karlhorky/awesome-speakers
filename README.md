@@ -52,6 +52,12 @@ https://twitter.com/terezk_a
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
 
+## Munich
+
+1. Franziska Hinkelmann  
+Topics: Node, V8  
+https://twitter.com/fhinkel
+
 ## Porto
 
 1. Sara Vieira  
