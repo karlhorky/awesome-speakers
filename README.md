@@ -15,6 +15,12 @@ Please add to the list and help make the community better connected and richer.
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
 
+## Belgrade
+
+* Slobodan Stojanović  
+Topics: Serverless, Offline Web  
+https://twitter.com/slobodan_
+
 ## Berlin
 
 * Artem Sapegin  
@@ -148,7 +154,7 @@ Topics: React, Styled Components, OSS
 https://twitter.com/mxstbr
 
 * Nik Graf  
-Topics: VR, React  
+Topics: VR, Serverless, React  
 https://twitter.com/nikgraf
 
 * Patrick Stapfer  
