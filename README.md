@@ -131,10 +131,18 @@ https://twitter.com/rstankov
 
 ## Strasbourg
 
-* <img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="100px" width="auto" />
-Sven Sauleau  
-Topics: JavaScript (Babel), Artificial Intelligence, Linux and Ops, Computer Science  
-https://twitter.com/svensauleau
+<div style="display: flex;">
+  <div style="width: 80%;">
+    Sven Sauleau  
+    Topics: JavaScript (Babel), Artificial Intelligence, Linux and Ops, Computer Science  
+    https://twitter.com/svensauleau
+  </div>
+
+  <div style="width: 20%;">
+    <img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="100px" width="auto" />
+  </div>
+</div>
+
 
 ## Vienna
 
