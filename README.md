@@ -23,49 +23,69 @@ https://twitter.com/slobodan_
 
 ## Berlin
 
-* Artem Sapegin  
+<img src="https://pbs.twimg.com/profile_images/770970370409201664/NtuKnExn_400x400.jpg" height="70px" width="auto" align="left" />
+
+Artem Sapegin  
 Topics: Style guides, UI, CSS  
 https://twitter.com/iamsapegin
 
-* Hernán Magrini  
+<img src="https://pbs.twimg.com/profile_images/881401440098557952/HZzFErcN_400x400.jpg" height="70px" width="auto" align="left" />
+
+Hernán Magrini  
 Topics: Web Performance, Service Workers  
 https://twitter.com/hermagrini
 
-* Karl Horky  
+<img src="https://pbs.twimg.com/profile_images/858703912769081345/edLyRpPr_400x400.jpg" height="70px" width="auto" align="left" />
+
+Karl Horky  
 Topics: Tooling, Standards, (OSS), (Psychology)  
 https://twitter.com/karlhorky
 
-* Oleg Slobodskoi  
+<img src="https://pbs.twimg.com/profile_images/754012456368963586/DOwDLy2k_400x400.jpg" height="70px" width="auto" align="left" />
+
+Oleg Slobodskoi  
 Topics: CSS in JS, React  
 https://twitter.com/oleg008
+
+<img src="https://pbs.twimg.com/profile_images/892332104012484608/_3R1X9CN_400x400.jpg" height="70px" width="auto" align="left" />
 
 * Robin Pokorny  
 Topics: Jest, React, AMP, (Elm)  
 https://twitter.com/robinpokorny
 
-* Yoshua Wuyts  
+<img src="https://pbs.twimg.com/profile_images/889222391007719424/VZb5oY8a_400x400.jpg" height="70px" width="auto" align="left" />
+
+Yoshua Wuyts  
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
 
 ## Bristol
 
-* Ruth John  
+<img src="https://pbs.twimg.com/profile_images/820304800478658562/V20lAtva_400x400.jpg" height="70px" width="auto" align="left" />
+
+Ruth John  
 Topics: CSS Animations  
 https://twitter.com/Rumyra
 
 ## Copenhagen
 
-* Olga Dmitricenko  
+<img src="https://pbs.twimg.com/profile_images/783752447940497408/R8S23hzW_400x400.jpg" height="70px" width="auto" align="left" />
+
+Olga Dmitricenko  
 Topics: VR, Web Image Processing  
 https://twitter.com/enthusiasto
 
-* Tereza Sokol  
+<img src="https://pbs.twimg.com/profile_images/824242201655910400/mY7NMaDE_400x400.jpg" height="70px" width="auto" align="left" />
+
+Tereza Sokol  
 Topics: Elm, Visualizations  
 https://twitter.com/terezk_a
 
 ## Dublin
 
-* Ingrid Epure  
+<img src="https://pbs.twimg.com/profile_images/775076695049113600/fTuBJGTA_400x400.jpg" height="70px" width="auto" align="left" />
+
+Ingrid Epure  
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
 
