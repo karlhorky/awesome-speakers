@@ -67,7 +67,7 @@ https://twitter.com/rstankov
 ## Strasbourg
 
 1. Sven Sauleau  
-Topics: JavaScript (Babel), artificial intelligence, Linux and Ops, Computer Science    
+Topics: JavaScript (Babel), Artificial Intelligence, Linux and Ops, Computer Science  
 https://twitter.com/svensauleau
 
 ## Vienna
