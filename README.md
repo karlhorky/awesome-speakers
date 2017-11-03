@@ -331,7 +331,7 @@ https://twitter.com/rtfeldman
 <img src="https://pbs.twimg.com/profile_images/497876628651782146/hrCHz_ym_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Lin Clark  
-Topics: React, WebAssembly  
+Topics: React, WebAssembly, Browsers Internals  
 https://twitter.com/linclark
 
 ## San Francisco
