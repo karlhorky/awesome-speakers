@@ -225,8 +225,8 @@ https://twitter.com/tlakomy
 
 <img src="https://pbs.twimg.com/profile_images/1330141226/avatar-500_400x400.png" height="70px" width="auto" align="left" />
 
-Erik Rasmussen 
-Topics: React, Redux, Redux-Form, Forms
+Erik Rasmussen  
+Topics: React, Redux, Redux-Form, Forms  
 https://twitter.com/erikras
 
 ## Sofia
