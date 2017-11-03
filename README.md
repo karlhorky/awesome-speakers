@@ -161,6 +161,8 @@ https://twitter.com/NikkitaFTW
 
 ## Poznan
 
+<img src="https://pbs.twimg.com/profile_images/858080114197880833/DXeDmf51_400x400.jpg" height="70px" width="auto" align="left" />
+
 Tomasz Łakomy  
 Topics: React, VR, jQuery  
 https://twitter.com/tlakomy
