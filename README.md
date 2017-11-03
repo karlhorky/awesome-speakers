@@ -240,6 +240,14 @@ Tomasz Łakomy
 Topics: React, VR, jQuery  
 https://twitter.com/tlakomy
 
+## Santander
+
+<img src="https://pbs.twimg.com/profile_images/1330141226/avatar-500_400x400.png" height="70px" width="auto" align="left" />
+
+Erik Rasmussen  
+Topics: React, Redux, Redux-Form, Forms  
+https://twitter.com/erikras
+
 ## Sofia
 
 <img src="https://pbs.twimg.com/profile_images/1267189835/rado_color_180_400x400.jpg" height="70px" width="auto" align="left" />
