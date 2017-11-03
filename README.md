@@ -17,7 +17,6 @@ Carmen Popoviciu
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
 
-
 <img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
 
 Narendra Shetty  
@@ -58,17 +57,17 @@ Karl Horky
 Topics: Tooling, Standards, (OSS), (Psychology)  
 https://twitter.com/karlhorky
 
-<img src="https://pbs.twimg.com/profile_images/754012456368963586/DOwDLy2k_400x400.jpg" height="70px" width="auto" align="left" />
-
-Oleg Slobodskoi  
-Topics: CSS in JS, React  
-https://twitter.com/oleg008
-
 <img src="https://pbs.twimg.com/profile_images/2687722789/0146561e2d575b3e7104e7e94be62b1c_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Natalie Pistunovich  
 Topics: Mobile apps, Golang  
 https://twitter.com/nataliepis
+
+<img src="https://pbs.twimg.com/profile_images/754012456368963586/DOwDLy2k_400x400.jpg" height="70px" width="auto" align="left" />
+
+Oleg Slobodskoi  
+Topics: CSS in JS, React  
+https://twitter.com/oleg008
 
 <img src="https://pbs.twimg.com/profile_images/892332104012484608/_3R1X9CN_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -361,17 +360,17 @@ https://twitter.com/mirisuzanne
 
 ## New York
 
-<img src="https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF_400x400.jpg" height="70px" width="auto" align="left">
-
-Una Kravets  
-Topics: CSS, Web  
-https://twitter.com/una
-
 <img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
 
 Mariko Kosaka  
 Topics: HTML, CSS, JavaScript, Web  
 https://twitter.com/kosamari
+
+<img src="https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF_400x400.jpg" height="70px" width="auto" align="left">
+
+Una Kravets  
+Topics: CSS, Web  
+https://twitter.com/una
 
 ## Philadelphia
 
@@ -391,12 +390,6 @@ https://twitter.com/linclark
 
 ## San Francisco
 
-<img src="https://pbs.twimg.com/profile_images/779808817785675776/Hf9AwdFs_400x400.jpg" height="70px" width="auto" align="left" />
-
-Monica Dinculescu  
-Topics: Web Components, Polymer, Emoji  
-https://twitter.com/notwaldorf
-
 <img src="https://pbs.twimg.com/profile_images/880565020173717504/CqM1jdvu_400x400.jpg" height="70px" width="auto" align="left" />
 
 Boris Cherny  
@@ -409,11 +402,23 @@ Estelle Weyl
 Topics: CSS, Performance, Responsive Web Design  
 https://twitter.com/estellevw
 
+<img src="https://avatars1.githubusercontent.com/u/12424987?s=460&v=4" height="70px" width="auto" align="left" />
+ 
+Lisa Huang  
+Topics: AMP, Offline-first mobile app, React  
+https://twitter.com/lisaychuang
+
 <img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
 
 Mina Markham  
 Topics: CSS Architecture, Sass, Community  
 https://twitter.com/MinaMarkham
+
+<img src="https://pbs.twimg.com/profile_images/779808817785675776/Hf9AwdFs_400x400.jpg" height="70px" width="auto" align="left" />
+
+Monica Dinculescu  
+Topics: Web Components, Polymer, Emoji  
+https://twitter.com/notwaldorf
 
 <img src="https://pbs.twimg.com/profile_images/865264595195265024/EuTAyJFJ_400x400.jpg" height="70px" width="auto" align="left" />
 
