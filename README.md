@@ -13,12 +13,13 @@ Please add to the list and help make the community better connected and richer.
 
 <img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />
 
-Carmen Popoviciu . 
+Carmen Popoviciu  
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
 
 
 <img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
+
 Narendra Shetty  
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
