@@ -12,8 +12,9 @@ Please add to the list and help make the community better connected and richer.
 ## Amsterdam
 
 <img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />
-Carmen Popoviciu
-Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components
+
+Carmen Popoviciu . 
+Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
 
 
@@ -64,8 +65,8 @@ https://twitter.com/oleg008
 
 <img src="https://pbs.twimg.com/profile_images/2687722789/0146561e2d575b3e7104e7e94be62b1c_400x400.jpeg" height="70px" width="auto" align="left" />
 
-Natalie Pistunovich
-Topics: Mobile apps, Golang
+Natalie Pistunovich  
+Topics: Mobile apps, Golang  
 https://twitter.com/nataliepis
 
 <img src="https://pbs.twimg.com/profile_images/892332104012484608/_3R1X9CN_400x400.jpg" height="70px" width="auto" align="left" />
@@ -269,8 +270,8 @@ https://twitter.com/okonetchnikov
 
 <img src="https://pbs.twimg.com/profile_images/708910026245738496/CUhZSMYO_400x400.jpg" height="70px" width="auto" align="left" />
 
-Eva Lettner
-Topics: CSS, Web
+Eva Lettner  
+Topics: CSS, Web  
 https://twitter.com/eva_trostlos
 
 <img src="https://pbs.twimg.com/profile_images/687205014348103680/ZcIXYv4g_400x400.jpg" height="70px" width="auto" align="left" />
@@ -382,8 +383,8 @@ https://twitter.com/linclark
 
 <img src="https://pbs.twimg.com/profile_images/779808817785675776/Hf9AwdFs_400x400.jpg" height="70px" width="auto" align="left" />
 
-Monica Dinculescu
-Topics: Web Components, Polymer, Emoji
+Monica Dinculescu  
+Topics: Web Components, Polymer, Emoji  
 https://twitter.com/notwaldorf
 
 <img src="https://pbs.twimg.com/profile_images/880565020173717504/CqM1jdvu_400x400.jpg" height="70px" width="auto" align="left" />
@@ -422,8 +423,8 @@ https://twitter.com/sarah_edo
 
 <img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
 
-Karolina Szczur
-Topics: CSS, HTML, Web, Inclusivity, Diversity
+Karolina Szczur  
+Topics: CSS, HTML, Web, Inclusivity, Diversity  
 https://twitter.com/fox
 
 ## License
