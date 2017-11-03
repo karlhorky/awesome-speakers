@@ -109,6 +109,14 @@ Varya Stepanova
 Topics: CSS in JS, Style Guides, Visual Regression Testing  
 https://twitter.com/varya_en
 
+## Kyiv
+
+<img src="https://pbs.twimg.com/profile_images/918401186516160512/aTJN_ydF_400x400.jpg" height="70px" width="auto" align="left" />
+
+Gregory Shehet  
+Topics: FRP, MobX, CSS in JS, React  
+https://twitter.com/AGambit95
+
 ## Lisbon
 
 <img src="https://pbs.twimg.com/profile_images/841594344658391043/xh_QO-C9_400x400.jpg" height="70px" width="auto" align="left" />
