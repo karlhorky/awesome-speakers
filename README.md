@@ -58,8 +58,8 @@ https://twitter.com/ingridepure
 Topics: Node, V8  
 https://twitter.com/fhinkel
 
-* Mathias Bynens
-Topics: JavaScript (TC39), V8, Chrome
+* Mathias Bynens  
+Topics: JavaScript (TC39), V8, Chrome  
 https://twitter.com/mathias
 
 ## Porto
