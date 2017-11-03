@@ -90,8 +90,8 @@ https://twitter.com/ferakpeter
 Topics: Composition, Recompose  
 https://twitter.com/defuex
 
-7. Juho Vepsäläinen
-Topics: 3D graphics, Business, React, webpack, writing
+7. Juho Vepsäläinen  
+Topics: 3D graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
 ## Zurich
