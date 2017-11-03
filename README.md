@@ -10,14 +10,6 @@ Please add to the list and help make the community better connected and richer.
 
 ## Berlin
 
-* Oleg Slobodskoi  
-Topics: CSS in JS, Advanced React  
-https://twitter.com/oleg008
-
-* Karl Horky  
-Topics: Tooling, Standards, (OSS), (Psychology)  
-https://twitter.com/karlhorky
-
 * Artem Sapegin  
 Topics: Style guides, UI, CSS  
 https://twitter.com/iamsapegin
@@ -25,6 +17,14 @@ https://twitter.com/iamsapegin
 * Hernán Magrini  
 Topics: Web Performance, Service Workers  
 https://twitter.com/hermagrini
+
+* Karl Horky  
+Topics: Tooling, Standards, (OSS), (Psychology)  
+https://twitter.com/karlhorky
+
+* Oleg Slobodskoi  
+Topics: CSS in JS, Advanced React  
+https://twitter.com/oleg008
 
 * Yoshua Wuyts  
 Topics: Libraries/Frameworks, Simplicity, Standards  
@@ -78,17 +78,21 @@ https://twitter.com/svensauleau
 
 ## Vienna
 
-* Nik Graf  
-Topics: VR, Advanced React  
-https://twitter.com/nikgraf
+* Andrey Okonetchnikov  
+Topics: CSS in JS, Linting, Tooling  
+https://twitter.com/okonetchnikov
 
 * Glenn Reyes  
 Topics: Code splitting, Advanced React  
 https://twitter.com/glnnrys
 
-* Andrey Okonetchnikov  
-Topics: CSS in JS, Linting, Tooling  
-https://twitter.com/okonetchnikov
+* Juho Vepsäläinen  
+Topics: 3D graphics, Business, React, webpack, Writing  
+https://twitter.com/bebraw
+
+* Nik Graf  
+Topics: VR, Advanced React  
+https://twitter.com/nikgraf
 
 * Patrick Stapfer  
 Topics: ReasonML, Static Typing, Flow  
@@ -101,10 +105,6 @@ https://twitter.com/ferakpeter
 * Timo Obereder  
 Topics: Composition, Recompose  
 https://twitter.com/defuex
-
-* Juho Vepsäläinen  
-Topics: 3D graphics, Business, React, webpack, Writing  
-https://twitter.com/bebraw
 
 ## Zurich
 
