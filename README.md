@@ -49,7 +49,7 @@ https://twitter.com/oleg008
 
 <img src="https://pbs.twimg.com/profile_images/892332104012484608/_3R1X9CN_400x400.jpg" height="70px" width="auto" align="left" />
 
-* Robin Pokorny  
+Robin Pokorny  
 Topics: Jest, React, AMP, (Elm)  
 https://twitter.com/robinpokorny
 
