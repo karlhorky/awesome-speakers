@@ -67,7 +67,7 @@ https://twitter.com/kejt_bw
 ## Helsinki
 
 * Varya Stepanova  
-Topics: CSS in JS, Style Guides, Visual Regression Testing
+Topics: CSS in JS, Style Guides, Visual Regression Testing  
 https://twitter.com/varya_en
 
 ## London
