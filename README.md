@@ -344,6 +344,12 @@ https://twitter.com/thefubhy
 
 ## Boston
 
+<img src="https://pbs.twimg.com/profile_images/832031365071773696/kDchWPLv_400x400.jpg" height="70px" width="auto" align="left" />
+
+Gleb Bahmutov  
+Topics: Computer Science, JavaScript, Reactive Programming  
+https://twitter.com/bahmutov
+
 <img src="https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png" height="70px" width="auto" align="left" />
 
 Lea Verou  
@@ -431,6 +437,14 @@ https://twitter.com/iam_preethi
 Sarah Drasner  
 Topics: CSS, SVG, Animations, Vue.js, React  
 https://twitter.com/sarah_edo
+
+## Toronto
+
+<img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
+
+Brenna O'Brien  
+Topics: Motivation, Psychology, Developer Culture, Public Speaking  
+https://twitter.com/brnnbrn
 
 # Australia
 
