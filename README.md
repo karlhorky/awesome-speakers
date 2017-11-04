@@ -23,6 +23,14 @@ Narendra Shetty
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
 
+## Augsburg
+
+<img src="https://pbs.twimg.com/profile_images/715935523630669824/GJ1Xyp_s_400x400.jpg" height="70px" width="auto" align="left" />
+
+Johannes Ewalds  
+Topics: Tooling, Standards, webpack  
+https://twitter.com/Jhnnns
+
 ## Belgrade
 
 <img src="https://pbs.twimg.com/profile_images/823894615145201664/0xxSg0_c_400x400.jpg" height="70px" width="auto" align="left" />
