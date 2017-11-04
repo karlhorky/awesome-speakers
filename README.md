@@ -428,6 +428,12 @@ https://twitter.com/linclark
 
 ## San Francisco
 
+<img src="https://pbs.twimg.com/profile_images/773213042477637632/Nc8d6VZg_400x400.jpg" height="70px" width="auto" align="left" />
+
+Adam Menges  
+Topics: Artificial Intelligence, Design, Computer Science  
+https://instagram.com/adammenges
+
 <img src="https://pbs.twimg.com/profile_images/880565020173717504/CqM1jdvu_400x400.jpg" height="70px" width="auto" align="left" />
 
 Boris Cherny  
@@ -445,6 +451,12 @@ https://twitter.com/standardista
 Lisa Huang  
 Topics: AMP, Offline-first mobile app, React  
 https://twitter.com/lisaychuang
+
+<img src="https://pbs.twimg.com/profile_images/767888976166268928/Ieds3b1K_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mike Matas  
+Topics: Design, HI  
+https://instagram.com/mike_matas
 
 <img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
 
