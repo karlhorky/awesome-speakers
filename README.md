@@ -27,8 +27,8 @@ https://twitter.com/narendra_shetty
 
 <img src="https://pbs.twimg.com/profile_images/715935523630669824/GJ1Xyp_s_400x400.jpg" height="70px" width="auto" align="left" />
 
-Johannes Ewald
-Topics: Tooling, Standards, webpack  
+Johannes Ewald  
+Topics: Tooling, Standards, webpack  
 https://twitter.com/Jhnnns
 
 ## Belgrade
