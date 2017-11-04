@@ -133,6 +133,14 @@ Ingrid Epure
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
 
+## Düsseldorf
+
+<img src="https://pbs.twimg.com/profile_images/768792268983701504/kIRa8QWM_400x400.jpg" height="70px" width="auto" align="left" />
+
+Joy Clark  
+Topics: Clojure, Web Apps, Security  
+https://twitter.com/iamjoyclark
+
 ## Gdańsk
 
 <img src="https://pbs.twimg.com/profile_images/910825228175069184/WC_iMm7-_400x400.jpg" height="70px" width="auto" align="left" />
