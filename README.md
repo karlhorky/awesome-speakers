@@ -322,7 +322,7 @@ https://twitter.com/ferakpeter
 <img src="https://pbs.twimg.com/profile_images/881236730254434304/JZs8wBHX_400x400.jpg" height="70px" width="auto" align="left" />
 
 Timo Obereder  
-Topics: React, Composition, Android, RXJava, Kotlin
+Topics: React, Composition, Android, RXJava, Kotlin  
 https://twitter.com/defuex
 
 
