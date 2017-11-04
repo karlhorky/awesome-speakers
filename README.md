@@ -23,14 +23,6 @@ Narendra Shetty
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
 
-## Bangalore
-
-<img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
-
-Kumar Anirudha  
-Topics: Python, NodeJs, Blockchain, Architecture, CryptoCurrency  
-https://twitter.com/kranirudha
-
 ## Belgrade
 
 <img src="https://pbs.twimg.com/profile_images/823894615145201664/0xxSg0_c_400x400.jpg" height="70px" width="auto" align="left" />
@@ -449,6 +441,16 @@ https://twitter.com/sarah_edo
 Karolina Szczur  
 Topics: CSS, HTML, Web, Inclusivity, Diversity  
 https://twitter.com/fox
+
+# Asia
+
+## Bangalore
+
+<img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
+
+Kumar Anirudha  
+Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
+https://twitter.com/kranirudha
 
 ## License
 
