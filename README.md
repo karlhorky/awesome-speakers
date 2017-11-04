@@ -35,7 +35,7 @@ https://twitter.com/simalexan
 
 Slobodan Stojanović  
 Topics: Serverless, Offline Web, Chat Bots  
-https://twitter.com/slobodan_
+[https://twitter.com/slobodan_](https://twitter.com/slobodan_)
 
 ## Berlin
 
@@ -451,6 +451,14 @@ https://twitter.com/fox
 Kumar Anirudha  
 Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
 https://twitter.com/kranirudha
+
+## New Delhi
+
+<img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Arun Michael Dsouza  
+Topics: webpack, React, ES6, Tooling, CSS  
+https://twitter.com/amdsouza92
 
 ## License
 
