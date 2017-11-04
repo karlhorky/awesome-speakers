@@ -81,6 +81,14 @@ Yoshua Wuyts
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
 
+## Birmingham
+
+<img src="https://pbs.twimg.com/profile_images/807277326539046912/EZR6qL-S_400x400.jpg" height="70px" width="auto" align="left" />
+
+Bruce Lawson  
+Topics: Standards, Performance  
+https://twitter.com/brucel
+
 ## Bristol
 
 <img src="https://pbs.twimg.com/profile_images/820304800478658562/V20lAtva_400x400.jpg" height="70px" width="auto" align="left" />
@@ -355,6 +363,14 @@ https://twitter.com/bahmutov
 Lea Verou  
 Topics: CSS, HTML  
 https://twitter.com/leaverou
+
+## Brooklyn
+
+<img src="https://pbs.twimg.com/profile_images/62572418/me_400x400.jpg" height="70px" width="auto" align="left" />
+
+David Nolen  
+Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science  
+https://twitter.com/swannodette
 
 ## Denver
 
