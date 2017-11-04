@@ -411,7 +411,7 @@ https://twitter.com/lisaychuang
 <img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
 
 Mina Markham  
-Topics: CSS Architecture, Sass, Community, Design Systems  
+Topics: CSS Architecture, Sass, Community, Design Systems  
 https://twitter.com/MinaMarkham
 
 <img src="https://pbs.twimg.com/profile_images/779808817785675776/Hf9AwdFs_400x400.jpg" height="70px" width="auto" align="left" />
