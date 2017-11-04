@@ -442,6 +442,16 @@ Karolina Szczur
 Topics: CSS, HTML, Web, Inclusivity, Diversity  
 https://twitter.com/fox
 
+# Asia
+
+## New Delhi
+
+<img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Arun Michael Dsouza  
+Topics: webpack, React, ES6, Tooling, CSS  
+https://twitter.com/amdsouza92
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
