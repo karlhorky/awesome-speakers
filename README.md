@@ -444,6 +444,14 @@ https://twitter.com/fox
 
 # Asia
 
+## Bangalore
+
+<img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
+
+Kumar Anirudha  
+Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
+https://twitter.com/kranirudha
+
 ## New Delhi
 
 <img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
