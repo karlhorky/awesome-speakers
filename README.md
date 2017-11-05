@@ -534,11 +534,11 @@ https://twitter.com/linclark
 
 ## Portland
 
-<img src="https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_400x400.jpg" height="70px" width="auto" align="left" />  
 
-Kyle Shevlin
-Topics: React, Redux, JavaScript
-https://twitter.com/kyleshevlin
+Kyle Shevlin  
+Topics: React, Redux, JavaScript  
+https://twitter.com/kyleshevlin  
 
 ## Salt Lake City
 
