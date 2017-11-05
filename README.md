@@ -446,12 +446,6 @@ Carin Meier
 Topics: Clojure, Machine Learning, and Programming  
 https://twitter.com/gigasquid
 
-<img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left">
-
-Kent C. Dodds  
-Topics: OSS, React, Testing  
-https://twitter.com/kentcdodds
-
 ## Philadelphia
 
 <img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH_400x400.jpg" height="70px" width="auto" align="left" />
@@ -519,6 +513,14 @@ https://twitter.com/sarah_edo
 Brenna O'Brien  
 Topics: Motivation, Psychology, Developer Culture, Public Speaking  
 https://twitter.com/brnnbrn
+
+## Utah
+
+<img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left">
+
+Kent C. Dodds  
+Topics: OSS, React, Testing  
+https://twitter.com/kentcdodds
 
 # Australia
 
