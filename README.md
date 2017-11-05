@@ -259,6 +259,12 @@ Ada Rose Cannon
 Topics: HTML, CSS, JavaScript, WebVR, Web technologies, PWA  
 https://twitter.com/lady_ada_king
 
+<img src="https://pbs.twimg.com/profile_images/829282867020722177/el35E312_400x400.jpg" height="70px" width="auto" align="left" />
+
+Anna Doubková  
+Topics: React, Testing  
+https://twitter.com/lithin  
+
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" />
 
 Cristiano Rastelli  
