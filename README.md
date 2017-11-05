@@ -165,6 +165,14 @@ Varya Stepanova
 Topics: CSS in JS, Style Guides, Visual Regression Testing  
 https://twitter.com/varya_en
 
+## Karlsruhe
+
+<img src="https://pbs.twimg.com/profile_images/925825609439301633/8lVHsfdV_400x400.jpg" height="70px" width="auto" align="left" />
+
+Robin Frischmann  
+Topics: CSS, CSS in JS, React  
+https://twitter.com/rofrischmann  
+
 ## Kyiv
 
 <img src="https://pbs.twimg.com/profile_images/918401186516160512/aTJN_ydF_400x400.jpg" height="70px" width="auto" align="left" />
@@ -511,6 +519,12 @@ https://twitter.com/iam_preethi
 Sarah Drasner  
 Topics: CSS, SVG, Animations, Vue.js, React  
 https://twitter.com/sarah_edo
+
+<img src="https://pbs.twimg.com/profile_images/913444398133735427/7zjUK6pp_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sean Grove  
+Topics: GraphQL, Reason, OCaml  
+https://twitter.com/sgrove  
 
 ## Toronto
 
