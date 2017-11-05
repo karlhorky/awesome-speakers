@@ -565,7 +565,7 @@ https://twitter.com/kranirudha
 <img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />  
 
 Siddharth Kshetrapal  
-Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
+Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
 https://twitter.com/siddharthkp
 
 ## Mumbai
