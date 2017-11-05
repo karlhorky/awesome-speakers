@@ -233,7 +233,6 @@ Maurizio Mangione
 Topics: Web Components, Polymer, Progressive Web Apps  
 https://twitter.com/granze
 
-
 ## Moscow
 
 <img src="https://pbs.twimg.com/profile_images/880419066833510400/xJ1uiJUF_400x400.jpg" height="70px" width="auto" align="left" />
