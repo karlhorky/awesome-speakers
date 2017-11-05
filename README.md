@@ -424,6 +424,14 @@ Una Kravets
 Topics: CSS, Web  
 https://twitter.com/una
 
+## Ohio
+
+<img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left">
+
+Carin Meier  
+Topics: Clojure, Machine Learning, and Programming  
+https://twitter.com/gigasquid
+
 ## Philadelphia
 
 <img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH_400x400.jpg" height="70px" width="auto" align="left" />
