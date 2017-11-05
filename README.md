@@ -428,6 +428,12 @@ https://twitter.com/ken_wheeler
 
 ## New York
 
+<img src="https://pbs.twimg.com/profile_images/896883376954757120/gXtYevrr_400x400.jpg" height="70px" width="auto" align="left" />   
+
+Kurtis Kemple   
+Topics: React, React MNative, GraphQL, Universal Components  
+https://twitter.com/kurtiskemple  
+
 <img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
 
 Mariko Kosaka  
