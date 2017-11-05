@@ -620,9 +620,9 @@ https://twitter.com/brnnbrn
 
 <img src="https://pbs.twimg.com/profile_images/646718876395311104/VxpVI-O6_400x400.jpg" height="70px" width="auto" align="left" />
 
-Tiff Nogueira
-Topics: CSS Grids, React/Redux/Firebase, Flexbox
-https://twitter.com/tiffcodes?lang=en
+Tiff Nogueira   
+Topics: CSS Grids, React/Redux/Firebase, Flexbox   
+https://twitter.com/tiffcodes
 
 ## License
 
