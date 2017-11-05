@@ -523,7 +523,7 @@ https://twitter.com/sarah_edo
 <img src="https://pbs.twimg.com/profile_images/913444398133735427/7zjUK6pp_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sean Grove  
-Topics: GraphQL, Reason, OCaml  
+Topics: GraphQL, ReasonML, OCaml  
 https://twitter.com/sgrove
 
 ## Toronto
