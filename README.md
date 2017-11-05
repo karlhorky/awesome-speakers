@@ -171,7 +171,7 @@ https://twitter.com/varya_en
 
 Robin Frischmann  
 Topics: CSS, CSS in JS, React  
-https://twitter.com/rofrischmann  
+https://twitter.com/rofrischmann
 
 ## Kyiv
 
@@ -524,7 +524,7 @@ https://twitter.com/sarah_edo
 
 Sean Grove  
 Topics: GraphQL, Reason, OCaml  
-https://twitter.com/sgrove  
+https://twitter.com/sgrove
 
 ## Toronto
 
