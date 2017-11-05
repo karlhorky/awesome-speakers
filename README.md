@@ -542,6 +542,12 @@ Sean Grove
 Topics: GraphQL, ReasonML, OCaml  
 https://twitter.com/sgrove
 
+<img src="https://pbs.twimg.com/profile_images/821783522427834369/SOIW4xGP_400x400.jpg" height="70px" width="auto" align="left" />
+
+Tracy Lee  
+Topics: Reactive Programming, Angular, Ember.js  
+https://twitter.com/ladyleet
+
 ## Toronto
 
 <img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
