@@ -111,7 +111,7 @@ https://twitter.com/Rumyra
 
 Javi Velasco  
 Topics: React, CSS in JS, React Toolbox  
-https://twitter.com/javivelasco  
+https://twitter.com/javivelasco
 
 ## Copenhagen
 
@@ -410,6 +410,14 @@ David Nolen
 Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science  
 https://twitter.com/swannodette
 
+## Cincinnati
+
+<img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left">
+
+Carin Meier  
+Topics: Clojure, Machine Learning, Programming  
+https://twitter.com/gigasquid
+
 ## Denver
 
 <img src="https://pbs.twimg.com/profile_images/923079722778505216/qhL5tFpp_400x400.jpg" height="70px" width="auto" align="left" />
@@ -432,7 +440,7 @@ https://twitter.com/ken_wheeler
 
 Kurtis Kemple  
 Topics: React, React Native, GraphQL, Universal Components  
-https://twitter.com/kurtiskemple  
+https://twitter.com/kurtiskemple
 
 <img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -452,20 +460,6 @@ Una Kravets
 Topics: CSS, Web  
 https://twitter.com/una
 
-## Ohio
-
-<img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left">
-
-Carin Meier  
-Topics: Clojure, Machine Learning, Programming  
-https://twitter.com/gigasquid
-
-<img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left">
-
-Kent C. Dodds  
-Topics: OSS, React, Testing  
-https://twitter.com/kentcdodds
-
 ## Philadelphia
 
 <img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH_400x400.jpg" height="70px" width="auto" align="left" />
@@ -481,6 +475,14 @@ https://twitter.com/rtfeldman
 Lin Clark  
 Topics: React, WebAssembly, Browsers Internals  
 https://twitter.com/linclark
+
+## Salt Lake City
+
+<img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left">
+
+Kent C. Dodds  
+Topics: OSS, React, Testing  
+https://twitter.com/kentcdodds
 
 ## San Francisco
 
