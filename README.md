@@ -105,6 +105,14 @@ Ruth John
 Topics: CSS Animations  
 https://twitter.com/Rumyra
 
+## Córdoba
+
+<img src="https://pbs.twimg.com/profile_images/916227643913244672/uR9VcF3B_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Javi Velasco  
+Topics: React, CSS in JS, React Toolbox  
+https://twitter.com/javivelasco  
+
 ## Copenhagen
 
 <img src="https://pbs.twimg.com/profile_images/907970058625875968/7ecTxUP4_400x400.jpg" height="70px" width="auto" align="left" />
