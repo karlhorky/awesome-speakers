@@ -418,6 +418,12 @@ Mariko Kosaka
 Topics: HTML, CSS, JavaScript, Web  
 https://twitter.com/kosamari
 
+<img src="https://pbs.twimg.com/profile_images/783341508820893696/JphRM0xk_400x400.jpg" height="70px" width="auto" align="left" />
+
+Peggy Rayzis  
+Topics: React, React Native, GraphQL  
+https://twitter.com/peggyrayzis
+
 <img src="https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF_400x400.jpg" height="70px" width="auto" align="left">
 
 Una Kravets  
