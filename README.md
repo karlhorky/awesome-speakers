@@ -410,6 +410,14 @@ Miriam Suzanne
 Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
 
+## New Jersey
+
+<img src="https://pbs.twimg.com/profile_images/918655507698679808/B8xrPFCs_400x400.jpg" height="70px" width="auto" align="left" />
+
+Ken Wheeler  
+Topics: React, React Native, ReasonML  
+https://twitter.com/ken_wheeler
+
 ## New York
 
 <img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
@@ -437,6 +445,12 @@ https://twitter.com/una
 Carin Meier  
 Topics: Clojure, Machine Learning, and Programming  
 https://twitter.com/gigasquid
+
+<img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left">
+
+Kent C. Dodds  
+Topics: OSS, React, Testing  
+https://twitter.com/kentcdodds
 
 ## Philadelphia
 
@@ -509,6 +523,12 @@ https://twitter.com/brnnbrn
 # Australia
 
 ## Melbourne
+
+<img src="https://pbs.twimg.com/profile_images/683874690293612545/kDStZOBp_400x400.png" height="70px" width="auto" align="left" />
+
+Glen Maddern  
+Topics: CSS, Styled Components, React, JavaScript  
+https://twitter.com/glenmaddern
 
 <img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
 
