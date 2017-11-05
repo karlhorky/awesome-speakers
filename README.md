@@ -17,12 +17,19 @@ Carmen Popoviciu
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
 
-
 <img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
 
 Narendra Shetty  
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
+
+## Augsburg 🇩🇪
+
+<img src="https://pbs.twimg.com/profile_images/715935523630669824/GJ1Xyp_s_400x400.jpg" height="70px" width="auto" align="left" />
+
+Johannes Ewald  
+Topics: Tooling, Standards, webpack  
+https://twitter.com/Jhnnns
 
 ## Belgrade 🇷🇸
 
@@ -36,7 +43,7 @@ https://twitter.com/simalexan
 
 Slobodan Stojanović  
 Topics: Serverless, Offline Web, Chat Bots  
-https://twitter.com/slobodan_
+[https://twitter.com/slobodan_](https://twitter.com/slobodan_)
 
 ## Berlin 🇩🇪
 
@@ -58,17 +65,17 @@ Karl Horky
 Topics: Tooling, Standards, (OSS), (Psychology)  
 https://twitter.com/karlhorky
 
-<img src="https://pbs.twimg.com/profile_images/754012456368963586/DOwDLy2k_400x400.jpg" height="70px" width="auto" align="left" />
-
-Oleg Slobodskoi  
-Topics: CSS in JS, React  
-https://twitter.com/oleg008
-
 <img src="https://pbs.twimg.com/profile_images/2687722789/0146561e2d575b3e7104e7e94be62b1c_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Natalie Pistunovich  
 Topics: Mobile apps, Golang  
 https://twitter.com/nataliepis
+
+<img src="https://pbs.twimg.com/profile_images/754012456368963586/DOwDLy2k_400x400.jpg" height="70px" width="auto" align="left" />
+
+Oleg Slobodskoi  
+Topics: CSS in JS, React  
+https://twitter.com/oleg008
 
 <img src="https://pbs.twimg.com/profile_images/892332104012484608/_3R1X9CN_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -81,6 +88,14 @@ https://twitter.com/robinpokorny
 Yoshua Wuyts  
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
+
+## Birmingham 🇬🇧
+
+<img src="https://pbs.twimg.com/profile_images/807277326539046912/EZR6qL-S_400x400.jpg" height="70px" width="auto" align="left" />
+
+Bruce Lawson  
+Topics: Standards, Performance  
+https://twitter.com/brucel
 
 ## Bristol 🇬🇧
 
@@ -117,6 +132,14 @@ https://twitter.com/terezk_a
 Ingrid Epure  
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
+
+## Düsseldorf 🇩🇪
+
+<img src="https://pbs.twimg.com/profile_images/768792268983701504/kIRa8QWM_400x400.jpg" height="70px" width="auto" align="left" />
+
+Joy Clark  
+Topics: Clojure, Web Apps, Security  
+https://twitter.com/iamjoyclark
 
 ## Gdańsk 🇵🇱
 
@@ -202,7 +225,21 @@ Phil Plückthun
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
+## Milan 🇮🇹
+
+<img src="https://pbs.twimg.com/profile_images/845799912222674945/70ofyabn_400x400.jpg" height="70px" width="auto" align="left" />
+
+Maurizio Mangione  
+Topics: Web Components, Polymer, Progressive Web Apps  
+https://twitter.com/granze
+
 ## Moscow 🇷🇺
+
+<img src="https://pbs.twimg.com/profile_images/486131556675616770/3695qr5w_400x400.png" height="70px" width="auto" align="left" />
+
+Nikita Prokopov  
+Topics: Clojure, DataScript, Rum, FiraCode, AnyBar  
+https://twitter.com/nikitonsky
 
 <img src="https://pbs.twimg.com/profile_images/880419066833510400/xJ1uiJUF_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -323,7 +360,7 @@ https://twitter.com/ferakpeter
 <img src="https://pbs.twimg.com/profile_images/881236730254434304/JZs8wBHX_400x400.jpg" height="70px" width="auto" align="left" />
 
 Timo Obereder  
-Topics: Composition, Recompose  
+Topics: React, Composition, Android, RXJava, Kotlin  
 https://twitter.com/defuex
 
 ## Zurich 🇨🇭
@@ -344,21 +381,47 @@ https://twitter.com/thefubhy
 
 ## Boston 🇺🇸
 
+<img src="https://pbs.twimg.com/profile_images/832031365071773696/kDchWPLv_400x400.jpg" height="70px" width="auto" align="left" />
+
+Gleb Bahmutov  
+Topics: Computer Science, JavaScript, Reactive Programming  
+https://twitter.com/bahmutov
+
 <img src="https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png" height="70px" width="auto" align="left" />
 
 Lea Verou  
 Topics: CSS, HTML  
 https://twitter.com/leaverou
 
+## Brooklyn 🇺🇸
+
+<img src="https://pbs.twimg.com/profile_images/62572418/me_400x400.jpg" height="70px" width="auto" align="left" />
+
+David Nolen  
+Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science  
+https://twitter.com/swannodette
+
 ## Denver 🇺🇸
 
 <img src="https://pbs.twimg.com/profile_images/923079722778505216/qhL5tFpp_400x400.jpg" height="70px" width="auto" align="left" />
 
 Miriam Suzanne  
-Topics: CSS, Sass  
+Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
 
 ## New York 🇺🇸
+
+<img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mariko Kosaka  
+Topics: HTML, CSS, JavaScript, Web  
+https://twitter.com/kosamari
+
+<img src="https://pbs.twimg.com/profile_images/783341508820893696/JphRM0xk_400x400.jpg" height="70px" width="auto" align="left" />
+
+Peggy Rayzis  
+Topics: React, React Native, GraphQL  
+https://twitter.com/peggyrayzis
 
 <img src="https://pbs.twimg.com/profile_images/923332236799291393/JFc4MauF_400x400.jpg" height="70px" width="auto" align="left">
 
@@ -366,11 +429,13 @@ Una Kravets
 Topics: CSS, Web  
 https://twitter.com/una
 
-<img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
+## Ohio 🇺🇸
 
-Mariko Kosaka  
-Topics: HTML, CSS, JavaScript, Web  
-https://twitter.com/kosamari
+<img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left">
+
+Carin Meier  
+Topics: Clojure, Machine Learning, and Programming  
+https://twitter.com/gigasquid
 
 ## Philadelphia 🇺🇸
 
@@ -390,29 +455,35 @@ https://twitter.com/linclark
 
 ## San Francisco 🇺🇸
 
-<img src="https://pbs.twimg.com/profile_images/779808817785675776/Hf9AwdFs_400x400.jpg" height="70px" width="auto" align="left" />
-
-Monica Dinculescu  
-Topics: Web Components, Polymer, Emoji  
-https://twitter.com/notwaldorf
-
 <img src="https://pbs.twimg.com/profile_images/880565020173717504/CqM1jdvu_400x400.jpg" height="70px" width="auto" align="left" />
 
 Boris Cherny  
 Topics: TypeScript, React, Computer Science  
 https://twitter.com/bcherny
 
-<img src="https://pbs.twimg.com/profile_images/816474544185614338/9jkkFjmO_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/744899510/avatar_400x400.png" height="70px" width="auto" align="left" />
 
 Estelle Weyl  
 Topics: CSS, Performance, Responsive Web Design  
-https://twitter.com/estellevw
+https://twitter.com/standardista
+
+<img src="https://avatars1.githubusercontent.com/u/12424987?s=460&v=4" height="70px" width="auto" align="left" />
+ 
+Lisa Huang  
+Topics: AMP, Offline-first mobile app, React  
+https://twitter.com/lisaychuang
 
 <img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
 
 Mina Markham  
-Topics: CSS Architecture, Sass, Community  
+Topics: CSS Architecture, Sass, Community, Design Systems  
 https://twitter.com/MinaMarkham
+
+<img src="https://pbs.twimg.com/profile_images/779808817785675776/Hf9AwdFs_400x400.jpg" height="70px" width="auto" align="left" />
+
+Monica Dinculescu  
+Topics: Web Components, Polymer, Emoji  
+https://twitter.com/notwaldorf
 
 <img src="https://pbs.twimg.com/profile_images/865264595195265024/EuTAyJFJ_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -426,6 +497,14 @@ Sarah Drasner
 Topics: CSS, SVG, Animations, Vue.js, React  
 https://twitter.com/sarah_edo
 
+## Toronto 🇨🇦
+
+<img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
+
+Brenna O'Brien  
+Topics: Motivation, Psychology, Developer Culture, Public Speaking  
+https://twitter.com/brnnbrn
+
 # Australia
 
 ## Melbourne 🇦🇺
@@ -435,6 +514,24 @@ https://twitter.com/sarah_edo
 Karolina Szczur  
 Topics: CSS, HTML, Web, Inclusivity, Diversity  
 https://twitter.com/fox
+
+# Asia
+
+## Bangalore 🇮🇳
+
+<img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
+
+Kumar Anirudha  
+Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
+https://twitter.com/kranirudha
+
+## New Delhi 🇮🇳
+
+<img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Arun Michael Dsouza  
+Topics: webpack, React, ES6, Tooling, CSS  
+https://twitter.com/amdsouza92
 
 ## License
 
