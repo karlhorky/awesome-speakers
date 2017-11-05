@@ -526,8 +526,8 @@ https://twitter.com/brnnbrn
 
 <img src="https://pbs.twimg.com/profile_images/683874690293612545/kDStZOBp_400x400.png" height="70px" width="auto" align="left" />
 
-Glen Maddern
-Topics: CSS, Styled Components, React, Javascript  
+Glen Maddern  
+Topics: CSS, Styled Components, React, JavaScript  
 https://twitter.com/glenmaddern
 
 <img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
