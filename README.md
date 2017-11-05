@@ -618,6 +618,12 @@ Brenna O'Brien
 Topics: Motivation, Psychology, Developer Culture, Public Speaking  
 https://twitter.com/brnnbrn
 
+<img src="https://pbs.twimg.com/profile_images/646718876395311104/VxpVI-O6_400x400.jpg" height="70px" width="auto" align="left" />
+
+Tiff Nogueira
+Topics: CSS Grids, React/Redux/Firebase, Flexbox
+https://twitter.com/tiffcodes?lang=en
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
