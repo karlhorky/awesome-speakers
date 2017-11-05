@@ -526,6 +526,14 @@ Kumar Anirudha
 Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
 https://twitter.com/kranirudha
 
+## Mumbai
+
+<img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sidhartha Chatterjee  
+Topics: React, PWA, Web Performance  
+https://twitter.com/chatsidhartha
+
 ## New Delhi
 
 <img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
