@@ -532,6 +532,14 @@ Lin Clark
 Topics: React, WebAssembly, Browsers Internals  
 https://twitter.com/linclark
 
+## Portland
+
+<img src="https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Kyle Shevlin  
+Topics: React, Redux, JavaScript  
+https://twitter.com/kyleshevlin  
+
 ## Salt Lake City
 
 <img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left">
