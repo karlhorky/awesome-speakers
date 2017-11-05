@@ -7,6 +7,54 @@ Hi, I'm Karl and I'd like to help make it more transparent and easy to find spea
 
 Please add to the list and help make the community better connected and richer.
 
+# Asia
+
+## Bangalore
+
+<img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
+
+Kumar Anirudha  
+Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
+https://twitter.com/kranirudha
+
+<img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Siddharth Kshetrapal  
+Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
+https://twitter.com/siddharthkp
+
+## Mumbai
+
+<img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sidhartha Chatterjee  
+Topics: React, PWA, Web Performance  
+https://twitter.com/chatsidhartha
+
+## New Delhi
+
+<img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Arun Michael Dsouza  
+Topics: webpack, React, ES6, Tooling, CSS  
+https://twitter.com/amdsouza92
+
+# Australia
+
+## Melbourne
+
+<img src="https://pbs.twimg.com/profile_images/683874690293612545/kDStZOBp_400x400.png" height="70px" width="auto" align="left" />
+
+Glen Maddern  
+Topics: CSS, Styled Components, React, JavaScript  
+https://twitter.com/glenmaddern
+
+<img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
+
+Karolina Szczur  
+Topics: CSS, HTML, Web, Inclusivity, Diversity  
+https://twitter.com/fox
+
 # Europe
 
 ## Amsterdam
@@ -555,54 +603,6 @@ https://twitter.com/ladyleet
 Brenna O'Brien  
 Topics: Motivation, Psychology, Developer Culture, Public Speaking  
 https://twitter.com/brnnbrn
-
-# Australia
-
-## Melbourne
-
-<img src="https://pbs.twimg.com/profile_images/683874690293612545/kDStZOBp_400x400.png" height="70px" width="auto" align="left" />
-
-Glen Maddern  
-Topics: CSS, Styled Components, React, JavaScript  
-https://twitter.com/glenmaddern
-
-<img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
-
-Karolina Szczur  
-Topics: CSS, HTML, Web, Inclusivity, Diversity  
-https://twitter.com/fox
-
-# Asia
-
-## Bangalore
-
-<img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
-
-Kumar Anirudha  
-Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
-https://twitter.com/kranirudha
-
-<img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />  
-
-Siddharth Kshetrapal  
-Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
-https://twitter.com/siddharthkp
-
-## Mumbai
-
-<img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" />
-
-Sidhartha Chatterjee  
-Topics: React, PWA, Web Performance  
-https://twitter.com/chatsidhartha
-
-## New Delhi
-
-<img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
-
-Arun Michael Dsouza  
-Topics: webpack, React, ES6, Tooling, CSS  
-https://twitter.com/amdsouza92
 
 ## License
 
