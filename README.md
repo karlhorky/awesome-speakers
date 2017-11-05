@@ -407,7 +407,7 @@ https://twitter.com/swannodette
 <img src="https://pbs.twimg.com/profile_images/923079722778505216/qhL5tFpp_400x400.jpg" height="70px" width="auto" align="left" />
 
 Miriam Suzanne  
-Topics: CSS, Sass  
+Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
 
 ## New York
