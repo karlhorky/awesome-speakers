@@ -499,7 +499,7 @@ https://twitter.com/standardista
 <img src="https://avatars1.githubusercontent.com/u/12424987?s=460&v=4" height="70px" width="auto" align="left" />
  
 Lisa Huang  
-Topics: AMP, Offline-first Mobile Apps, React  
+Topics: AMP, Offline-first Mobile Apps, React  
 https://twitter.com/lisaychuang
 
 <img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
