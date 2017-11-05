@@ -554,11 +554,11 @@ Kumar Anirudha
 Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
 https://twitter.com/kranirudha
 
-<img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" /> 
+<img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />  
 
-Siddharth Kshetrapal  
-Topics:CSS, Web performance, Eeact, CSS in JS, Node, Testing
-https://twitter.com/siddharthkp
+Siddharth Kshetrapal    
+Topics:CSS, Web performance, Eeact, CSS in JS, Node, Testing  
+https://twitter.com/siddharthkp  
 
 ## Mumbai
 
