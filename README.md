@@ -271,6 +271,12 @@ Cristiano Rastelli
 Topics: CSS, CSS in JS  
 https://twitter.com/areaweb
 
+<img src="https://pbs.twimg.com/profile_images/906557353549598720/oapgW_Fp_400x400.jpg" height="70px" width="auto" align="left" />
+
+Dan Abramov  
+Topics: JavaScript, React, Redux, Tooling  
+https://twitter.com/dan_abramov
+
 <img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" />
 
 Gerard Sans  
