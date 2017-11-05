@@ -233,6 +233,12 @@ Sergey Rubanov
 Topics: Standards, Web Assembly  
 https://twitter.com/chicoxyzzy
 
+<img src="https://pbs.twimg.com/profile_images/486131556675616770/3695qr5w_400x400.png" height="70px" width="auto" align="left" />
+
+Nikita Prokopov
+Topics: Clojure, DataScript, Rum, FiraCode, AnyBar, http://grumpy.website  (rus)
+https://twitter.com/nikitonsky
+
 ## Munich
 
 <img src="https://pbs.twimg.com/profile_images/661485440751509505/ZnNN9qes_400x400.jpg" height="70px" width="auto" align="left" />
