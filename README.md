@@ -414,9 +414,9 @@ https://twitter.com/mirisuzanne
 
 <img src="https://pbs.twimg.com/profile_images/918655507698679808/B8xrPFCs_400x400.jpg" height="70px" width="auto" align="left" />
 
-Ken Wheeler
-Topics: React, React Native, ReasonML 
-https://twitter.com/mirisuzanne
+Ken Wheeler  
+Topics: React, React Native, ReasonML  
+https://twitter.com/ken_wheeler
 
 ## New York
 
