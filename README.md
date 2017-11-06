@@ -494,6 +494,14 @@ Miriam Suzanne
 Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
 
+## Nashville
+
+<img src="https://pbs.twimg.com/profile_images/899001646679814145/4TU9HfO-_400x400.jpg" height="70px" width="auto" align="left" />
+
+Aimee Knight  
+Topics: JavaScript, CSS, Angular, Growing Junior Developers  
+https://twitter.com/Aimee_Knight
+
 ## New Jersey
 
 <img src="https://pbs.twimg.com/profile_images/918655507698679808/B8xrPFCs_400x400.jpg" height="70px" width="auto" align="left" />
