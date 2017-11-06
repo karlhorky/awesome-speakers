@@ -385,8 +385,8 @@ https://twitter.com/erikras
 
 <img src="https://pbs.twimg.com/profile_images/861132772366331905/4xts32Lq_400x400.jpg" height="70px" width="auto" align="left" />
 
-Lisi Linhart   
-Topics: CSS, Web Animations    
+Lisi Linhart  
+Topics: CSS, Web Animations  
 https://twitter.com/lisi_linhart
 
 ## Sofia
@@ -680,7 +680,7 @@ https://twitter.com/ladyleet
 <img src="https://pbs.twimg.com/profile_images/917359648524558336/Zu2sC6Jk_400x400.jpg" height="70px" width="auto" align="left" />
 
 Chen Hui Jing  
-Topics: Cutting-edge CSS  
+Topics: CSS  
 https://twitter.com/hj_chen
 
 ## Toronto
@@ -702,7 +702,7 @@ https://twitter.com/tiffcodes
 <img src="https://pbs.twimg.com/profile_images/889850940852973568/kqTZlAf5_400x400.jpg" height="70px" width="auto" align="left" />
 
 Aga Naplocha  
-Topics: Cutting-edge CSS, Teaching web technologies   
+Topics: CSS, Teaching Web Technologies  
 https://twitter.com/aganaplocha
 
 ## License
