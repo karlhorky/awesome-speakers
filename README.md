@@ -73,17 +73,17 @@ Carmen Popoviciu
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
 
+<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />  
+
+Michel Weststrate  
+Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general  
+https://twitter.com/mweststrate
+
 <img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
 
 Narendra Shetty  
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
-
-<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />  
-
-Michel Weststrate  
-Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general  
-https://twitter.com/mweststrate  
 
 ## Augsburg
 
@@ -305,7 +305,7 @@ https://twitter.com/lady_ada_king
 
 Anna Doubková  
 Topics: React, Testing  
-https://twitter.com/lithinn    
+https://twitter.com/lithinn
 
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -647,7 +647,7 @@ https://twitter.com/linclark
 
 Kyle Shevlin  
 Topics: React, Redux, JavaScript  
-https://twitter.com/kyleshevlin  
+https://twitter.com/kyleshevlin
 
 ## Salt Lake City
 
