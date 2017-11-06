@@ -630,6 +630,12 @@ Tracy Lee
 Topics: Reactive Programming, Angular, Ember.js  
 https://twitter.com/ladyleet
 
+<img src="https://pbs.twimg.com/profile_images/657238456280731648/YvIabjlq_400x400.png" height="70px" width="auto" align="left" />
+
+Anjana Vakil
+Topics: Programming Language Paradigms, Functional Programming (with Javascript)
+https://twitter.com/AnjanaVakil
+
 ## Toronto
 
 <img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
