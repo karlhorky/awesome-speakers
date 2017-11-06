@@ -25,17 +25,17 @@ https://twitter.com/siddharthkp
 
 ## Mumbai
 
-<img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" />
-
-Sidhartha Chatterjee  
-Topics: React, PWA, Web Performance  
-https://twitter.com/chatsidhartha
-
 <img src="https://pbs.twimg.com/profile_images/856209876732739585/rQcsMvCa_400x400.jpg" height="70px" width="auto" align="left" />
 
 Manjula Dube  
 Topics: JavaScript, React, PWA, Node, Testing  
 https://twitter.com/manjula_dube
+
+<img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sidhartha Chatterjee  
+Topics: React, PWA, Web Performance  
+https://twitter.com/chatsidhartha
 
 ## New Delhi
 
