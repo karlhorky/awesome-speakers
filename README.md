@@ -545,6 +545,14 @@ Aga Naplocha
 Topics: CSS, Teaching Web Technologies  
 https://twitter.com/aganaplocha
 
+## Wrocław
+
+<img src="https://pbs.twimg.com/profile_images/910449258263916545/l0pbXflE_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mike Grabowski  
+Topics: React Native, JavaScript, Tooling  
+https://twitter.com/grabbou
+
 ## Zurich
 
 <img src="https://pbs.twimg.com/profile_images/772017431376175104/XvIsVuB4_400x400.jpg" height="70px" width="auto" align="left" />
