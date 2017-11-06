@@ -39,6 +39,14 @@ Arun Michael Dsouza
 Topics: webpack, React, ES6, Tooling, CSS  
 https://twitter.com/amdsouza92
 
+## Singapore
+
+<img src="https://pbs.twimg.com/profile_images/917359648524558336/Zu2sC6Jk_400x400.jpg" height="70px" width="auto" align="left" />
+
+Chen Hui Jing  
+Topics: CSS  
+https://twitter.com/hj_chen
+
 # Australia
 
 ## Melbourne
@@ -240,6 +248,14 @@ https://twitter.com/varya_en
 Robin Frischmann  
 Topics: CSS, CSS in JS, React  
 https://twitter.com/rofrischmann
+
+## Krakow
+
+<img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Anna Migas  
+Topics: JS, CSS, Web Animations  
+https://twitter.com/szynszyliszys
 
 ## Kyiv
 
@@ -491,6 +507,14 @@ Timo Obereder
 Topics: React, Composition, Android, RXJava, Kotlin  
 https://twitter.com/defuex
 
+## Warsaw
+
+<img src="https://pbs.twimg.com/profile_images/889850940852973568/kqTZlAf5_400x400.jpg" height="70px" width="auto" align="left" />
+
+Aga Naplocha  
+Topics: CSS, Teaching Web Technologies  
+https://twitter.com/aganaplocha
+
 ## Zurich
 
 <img src="https://pbs.twimg.com/profile_images/772017431376175104/XvIsVuB4_400x400.jpg" height="70px" width="auto" align="left" />
@@ -545,13 +569,13 @@ Miriam Suzanne
 Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
 
-## Krakow
+## Nashville
 
-<img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/899001646679814145/4TU9HfO-_400x400.jpg" height="70px" width="auto" align="left" />
 
-Anna Migas  
-Topics: JS, CSS, Web Animations  
-https://twitter.com/szynszyliszys
+Aimee Knight  
+Topics: JavaScript, CSS, Angular, Growing Junior Developers  
+https://twitter.com/Aimee_Knight
 
 ## New Jersey
 
@@ -675,14 +699,6 @@ Tracy Lee
 Topics: Reactive Programming, Angular, Ember.js  
 https://twitter.com/ladyleet
 
-## Singapore
-
-<img src="https://pbs.twimg.com/profile_images/917359648524558336/Zu2sC6Jk_400x400.jpg" height="70px" width="auto" align="left" />
-
-Chen Hui Jing  
-Topics: CSS  
-https://twitter.com/hj_chen
-
 ## Toronto
 
 <img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
@@ -696,14 +712,6 @@ https://twitter.com/brnnbrn
 Tiff Nogueira   
 Topics: CSS Grids, React/Redux/Firebase, Flexbox   
 https://twitter.com/tiffcodes
-
-## Warsaw
-
-<img src="https://pbs.twimg.com/profile_images/889850940852973568/kqTZlAf5_400x400.jpg" height="70px" width="auto" align="left" />
-
-Aga Naplocha  
-Topics: CSS, Teaching Web Technologies  
-https://twitter.com/aganaplocha
 
 ## License
 
