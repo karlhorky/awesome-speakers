@@ -83,7 +83,6 @@ Please add to the list and help make the community better connected and richer.
     + [Portland](#portland)
     + [Salt Lake City](#salt-lake-city)
     + [San Francisco](#san-francisco)
-  * [License](#license)
 
 # Asia
 
@@ -897,7 +896,7 @@ Anjana Vakil
 Topics: Programming Language Paradigms, Functional Programming (with JavaScript)
 https://twitter.com/AnjanaVakil
 
---
+---
 
 ## License
 
