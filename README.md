@@ -7,15 +7,77 @@ Hi, I'm Karl and I'd like to help make it more transparent and easy to find spea
 
 Please add to the list and help make the community better connected and richer.
 
+# Asia
+
+## Bangalore
+
+<img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
+
+Kumar Anirudha  
+Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
+https://twitter.com/kranirudha
+
+<img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Siddharth Kshetrapal  
+Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
+https://twitter.com/siddharthkp
+
+## Mumbai
+
+<img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sidhartha Chatterjee  
+Topics: React, PWA, Web Performance  
+https://twitter.com/chatsidhartha
+
+## New Delhi
+
+<img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Arun Michael Dsouza  
+Topics: webpack, React, ES6, Tooling, CSS  
+https://twitter.com/amdsouza92
+
+## Singapore
+
+<img src="https://pbs.twimg.com/profile_images/917359648524558336/Zu2sC6Jk_400x400.jpg" height="70px" width="auto" align="left" />
+
+Chen Hui Jing  
+Topics: CSS  
+https://twitter.com/hj_chen
+
+# Australia
+
+## Melbourne
+
+<img src="https://pbs.twimg.com/profile_images/683874690293612545/kDStZOBp_400x400.png" height="70px" width="auto" align="left" />
+
+Glen Maddern  
+Topics: CSS, Styled Components, React, JavaScript  
+https://twitter.com/glenmaddern
+
+<img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
+
+Karolina Szczur  
+Topics: CSS, HTML, Web, Inclusivity, Diversity  
+https://twitter.com/fox
+
 # Europe
 
 ## Amsterdam 🇳🇱
 
-<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />  
 
 Carmen Popoviciu  
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
+
+<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />  
+
+Michel Weststrate  
+Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general  
+https://twitter.com/mweststrate
 
 <img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -52,6 +114,12 @@ Topics: Serverless, Offline Web, Chat Bots
 Artem Sapegin  
 Topics: Style guides, UI, CSS  
 https://twitter.com/iamsapegin
+
+<img src="https://pbs.twimg.com/profile_images/894641577557192704/ghN7wHa-_400x400.jpg" height="70px" width="auto" align="left" />
+
+Charlie Owen  
+Topics: CSS, Accessibility    
+https://twitter.com/sonniesedge
 
 <img src="https://pbs.twimg.com/profile_images/881401440098557952/HZzFErcN_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -105,6 +173,14 @@ Ruth John
 Topics: CSS Animations  
 https://twitter.com/Rumyra
 
+## Córdoba 🇪🇸
+
+<img src="https://pbs.twimg.com/profile_images/916227643913244672/uR9VcF3B_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Javi Velasco  
+Topics: React, CSS in JS, React Toolbox  
+https://twitter.com/javivelasco
+
 ## Copenhagen 🇩🇰
 
 <img src="https://pbs.twimg.com/profile_images/907970058625875968/7ecTxUP4_400x400.jpg" height="70px" width="auto" align="left" />
@@ -146,7 +222,7 @@ https://twitter.com/iamjoyclark
 <img src="https://pbs.twimg.com/profile_images/910825228175069184/WC_iMm7-_400x400.jpg" height="70px" width="auto" align="left" />
 
 Kasia Jastrzębska  
-Topics: ClojureScript  
+Topics: React, Redux, Async, CSS in JS, ClojureScript  
 https://twitter.com/kejt_bw
 
 ## Hamburg 🇩🇪
@@ -157,6 +233,12 @@ Martin Kleppe
 Topics: Weird JS  
 https://twitter.com/aemkei
 
+<img src="https://pbs.twimg.com/profile_images/530780279162429440/AeXURjRd_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Mauricio Palma  
+Topics: CSS, JS  
+https://twitter.com/PalmaSwell
+
 ## Helsinki 🇫🇮
 
 <img src="https://pbs.twimg.com/profile_images/914150533820243970/DnBSM3RF_400x400.jpg" height="70px" width="auto" align="left" />
@@ -164,6 +246,22 @@ https://twitter.com/aemkei
 Varya Stepanova  
 Topics: CSS in JS, Style Guides, Visual Regression Testing  
 https://twitter.com/varya_en
+
+## Karlsruhe 🇩🇪
+
+<img src="https://pbs.twimg.com/profile_images/925825609439301633/8lVHsfdV_400x400.jpg" height="70px" width="auto" align="left" />
+
+Robin Frischmann  
+Topics: CSS, CSS in JS, React  
+https://twitter.com/rofrischmann
+
+## Krakow 🇵🇱
+
+<img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Anna Migas  
+Topics: JS, CSS, Web Animations  
+https://twitter.com/szynszyliszys
 
 ## Kyiv 🇺🇦
 
@@ -178,6 +276,14 @@ https://twitter.com/AGambit95
 Roman Liutikov  
 Topics: ClojureScript, React, Compilers  
 https://twitter.com/roman01la
+
+## Linz 🇦🇹
+
+<img src="https://pbs.twimg.com/profile_images/572642811029426177/GxgFcPtm_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Stefan Baumgartner  
+Topics: JS, CSS, Tooling  
+https://twitter.com/ddprrt
 
 ## Lisbon 🇵🇹
 
@@ -195,11 +301,23 @@ Ada Rose Cannon
 Topics: HTML, CSS, JavaScript, WebVR, Web technologies, PWA  
 https://twitter.com/lady_ada_king
 
+<img src="https://pbs.twimg.com/profile_images/829282867020722177/el35E312_400x400.jpg" height="70px" width="auto" align="left" />
+
+Anna Doubková  
+Topics: React, Testing  
+https://twitter.com/lithinn
+
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" />
 
 Cristiano Rastelli  
 Topics: CSS, CSS in JS  
 https://twitter.com/areaweb
+
+<img src="https://pbs.twimg.com/profile_images/906557353549598720/oapgW_Fp_400x400.jpg" height="70px" width="auto" align="left" />
+
+Dan Abramov  
+Topics: JavaScript, React, Redux, Tooling  
+https://twitter.com/dan_abramov
 
 <img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -285,6 +403,14 @@ Erik Rasmussen
 Topics: React, Redux, Redux-Form, Forms  
 https://twitter.com/erikras
 
+## Salzburg 🇦🇹
+
+<img src="https://pbs.twimg.com/profile_images/861132772366331905/4xts32Lq_400x400.jpg" height="70px" width="auto" align="left" />
+
+Lisi Linhart  
+Topics: CSS, Web Animations  
+https://twitter.com/lisi_linhart
+
 ## Sofia 🇧🇬
 
 <img src="https://pbs.twimg.com/profile_images/1267189835/rado_color_180_400x400.jpg" height="70px" width="auto" align="left" />
@@ -315,6 +441,12 @@ Andrey Okonetchnikov
 Topics: CSS in JS, Linting, Tooling  
 https://twitter.com/okonetchnikov
 
+<img src="https://pbs.twimg.com/profile_images/831514456828026880/IeSbt2Nw_400x400.jpg" height="70px" width="auto" align="left" />
+
+Christoph Rumpel  
+Topics: PHP, Laravel, Chatbots  
+https://twitter.com/christophrumpel
+
 <img src="https://pbs.twimg.com/profile_images/708910026245738496/CUhZSMYO_400x400.jpg" height="70px" width="auto" align="left" />
 
 Eva Lettner  
@@ -327,11 +459,23 @@ Glenn Reyes
 Topics: Code splitting, React  
 https://twitter.com/glnnrys
 
+<img src="https://pbs.twimg.com/profile_images/875719105839603712/_nJ_XRw1_400x400.jpg" height="70px" width="auto" align="left" />
+
+Jan Hruby  
+Topics: React, CSS  
+https://twitter.com/mrozilla
+
 <img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" />
 
 Juho Vepsäläinen  
 Topics: 3D graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
+
+<img src="https://pbs.twimg.com/profile_images/827473632351879169/ZnoB7yTR_400x400.jpg" height="70px" width="auto" align="left" />
+
+Max Böck  
+Topics: CSS, JS, Progressive Web Apps  
+https://twitter.com/mxbck
 
 <img src="https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -344,6 +488,12 @@ https://twitter.com/mxstbr
 Nik Graf  
 Topics: VR, Serverless, React  
 https://twitter.com/nikgraf
+
+<img src="https://pbs.twimg.com/profile_images/506474262278856704/V9E39edd_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Oliver Schöndorfer  
+Topics: Typography, CSS   
+https://twitter.com/glyphe
 
 <img src="https://pbs.twimg.com/profile_images/923184283367469057/HFTSuBcW_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -362,6 +512,14 @@ https://twitter.com/ferakpeter
 Timo Obereder  
 Topics: React, Composition, Android, RXJava, Kotlin  
 https://twitter.com/defuex
+
+## Warsaw 🇵🇱
+
+<img src="https://pbs.twimg.com/profile_images/889850940852973568/kqTZlAf5_400x400.jpg" height="70px" width="auto" align="left" />
+
+Aga Naplocha  
+Topics: CSS, Teaching Web Technologies  
+https://twitter.com/aganaplocha
 
 ## Zurich 🇨🇭
 
@@ -401,6 +559,14 @@ David Nolen
 Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science  
 https://twitter.com/swannodette
 
+## Cincinnati 🇺🇸
+
+<img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left">
+
+Carin Meier  
+Topics: Clojure, Machine Learning, Programming  
+https://twitter.com/gigasquid
+
 ## Denver 🇺🇸
 
 <img src="https://pbs.twimg.com/profile_images/923079722778505216/qhL5tFpp_400x400.jpg" height="70px" width="auto" align="left" />
@@ -409,7 +575,29 @@ Miriam Suzanne
 Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
 
+## Nashville 🇺🇸
+
+<img src="https://pbs.twimg.com/profile_images/899001646679814145/4TU9HfO-_400x400.jpg" height="70px" width="auto" align="left" />
+
+Aimee Knight  
+Topics: JavaScript, CSS, Angular, Growing Junior Developers  
+https://twitter.com/Aimee_Knight
+
+## New Jersey 🇺🇸
+
+<img src="https://pbs.twimg.com/profile_images/918655507698679808/B8xrPFCs_400x400.jpg" height="70px" width="auto" align="left" />
+
+Ken Wheeler  
+Topics: React, React Native, ReasonML  
+https://twitter.com/ken_wheeler
+
 ## New York 🇺🇸
+
+<img src="https://pbs.twimg.com/profile_images/896883376954757120/gXtYevrr_400x400.jpg" height="70px" width="auto" align="left" />   
+
+Kurtis Kemple  
+Topics: React, React Native, GraphQL, Universal Components  
+https://twitter.com/kurtiskemple
 
 <img src="https://pbs.twimg.com/profile_images/593793041816629248/yKbOT56n_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -429,13 +617,13 @@ Una Kravets
 Topics: CSS, Web  
 https://twitter.com/una
 
-## Ohio 🇺🇸
+## Ottawa 🇨🇦
 
-<img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left">
+<img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left">
 
-Carin Meier  
-Topics: Clojure, Machine Learning, and Programming  
-https://twitter.com/gigasquid
+Tanya Janca  
+Topics: InfoSec, Web App Security  
+https://twitter.com/shehackspurple
 
 ## Philadelphia 🇺🇸
 
@@ -452,6 +640,22 @@ https://twitter.com/rtfeldman
 Lin Clark  
 Topics: React, WebAssembly, Browsers Internals  
 https://twitter.com/linclark
+
+## Portland 🇺🇸
+
+<img src="https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Kyle Shevlin  
+Topics: React, Redux, JavaScript  
+https://twitter.com/kyleshevlin
+
+## Salt Lake City 🇺🇸
+
+<img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left">
+
+Kent C. Dodds  
+Topics: OSS, React, Testing  
+https://twitter.com/kentcdodds
 
 ## San Francisco 🇺🇸
 
@@ -470,7 +674,7 @@ https://twitter.com/standardista
 <img src="https://avatars1.githubusercontent.com/u/12424987?s=460&v=4" height="70px" width="auto" align="left" />
  
 Lisa Huang  
-Topics: AMP, Offline-first mobile app, React  
+Topics: AMP, Offline-first Mobile Apps, React  
 https://twitter.com/lisaychuang
 
 <img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
@@ -497,6 +701,18 @@ Sarah Drasner
 Topics: CSS, SVG, Animations, Vue.js, React  
 https://twitter.com/sarah_edo
 
+<img src="https://pbs.twimg.com/profile_images/913444398133735427/7zjUK6pp_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sean Grove  
+Topics: GraphQL, ReasonML, OCaml  
+https://twitter.com/sgrove
+
+<img src="https://pbs.twimg.com/profile_images/821783522427834369/SOIW4xGP_400x400.jpg" height="70px" width="auto" align="left" />
+
+Tracy Lee  
+Topics: Reactive Programming, Angular, Ember.js  
+https://twitter.com/ladyleet
+
 ## Toronto 🇨🇦
 
 <img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
@@ -504,6 +720,12 @@ https://twitter.com/sarah_edo
 Brenna O'Brien  
 Topics: Motivation, Psychology, Developer Culture, Public Speaking  
 https://twitter.com/brnnbrn
+
+<img src="https://pbs.twimg.com/profile_images/646718876395311104/VxpVI-O6_400x400.jpg" height="70px" width="auto" align="left" />
+
+Tiff Nogueira   
+Topics: CSS Grids, React/Redux/Firebase, Flexbox   
+https://twitter.com/tiffcodes
 
 # Australia
 
