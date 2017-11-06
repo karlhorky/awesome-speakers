@@ -597,6 +597,20 @@ Ken Wheeler
 Topics: React, React Native, ReasonML  
 https://twitter.com/ken_wheeler
 
+## New Orleans
+
+<img src="https://pbs.twimg.com/profile_images/417667937105752064/Z6SeM2_a_400x400.png" height="70px" width="auto" align="left" />
+
+Gant Laborde  
+Topics:  JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking  
+https://twitter.com/GantLaborde
+
+<img src="https://pbs.twimg.com/profile_images/861717239002562560/r01NX6n0_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sia Karamalegos  
+Topics: React, JavaScript, React Native, Front-End Performance  
+https://twitter.com/thegreengreek
+
 ## New York
 
 <img src="https://pbs.twimg.com/profile_images/896883376954757120/gXtYevrr_400x400.jpg" height="70px" width="auto" align="left" />
