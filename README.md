@@ -452,7 +452,7 @@ https://twitter.com/bebraw
 <img src="https://pbs.twimg.com/profile_images/827473632351879169/ZnoB7yTR_400x400.jpg" height="70px" width="auto" align="left" />
 
 Max Böck  
-Topics: CSS, JS, PWAs  
+Topics: CSS, JS, Progressive Web Apps  
 https://twitter.com/mxbck
 
 <img src="https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg" height="70px" width="auto" align="left" />
