@@ -545,13 +545,12 @@ Miriam Suzanne
 Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
 
-
 ## Krakow
 
 <img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Anna Migas  
-Topics: JS, CSS, Web Animations   
+Topics: JS, CSS, Web Animations  
 https://twitter.com/szynszyliszys
 
 ## New Jersey
