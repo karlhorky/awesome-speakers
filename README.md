@@ -59,7 +59,7 @@ https://twitter.com/fox
 
 ## Amsterdam
 
-<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />  
 
 Carmen Popoviciu  
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
@@ -71,11 +71,11 @@ Narendra Shetty
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
 
-<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />  
 
-Michel Weststrate
-Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general
-https://twitter.com/mweststrate
+Michel Weststrate  
+Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general  
+https://twitter.com/mweststrate  
 
 ## Augsburg
 
