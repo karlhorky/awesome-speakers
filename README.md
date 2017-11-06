@@ -573,7 +573,7 @@ https://twitter.com/swannodette
 
 ## Carlsbad
 
-<img src="https://pbs.twimg.com/profile_images/62572418/me_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/902276500107362304/vju-WV1i_400x400.jpg" height="70px" width="auto" align="left" />
 
 Michael Jackson  
 Topics: React, JavaScript, React Router  
