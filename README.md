@@ -89,20 +89,18 @@ Please add to the list and help make the community better connected and richer.
 ## India 🇮🇳
 
 ### Bangalore
-<div>
+
 <img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
 
 Kumar Anirudha
 Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency
 https://twitter.com/kranirudha
-</div>
-<div>
+
 <img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />
 
 Siddharth Kshetrapal
 Topics: CSS, Web Performance, React, CSS in JS, Node, Testing
 https://twitter.com/siddharthkp
-</div>
  
 ### Mumbai
 
