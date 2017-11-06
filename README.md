@@ -617,6 +617,14 @@ Una Kravets
 Topics: CSS, Web  
 https://twitter.com/una
 
+## Ottawa
+
+<img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left">
+
+Tanya Janca  
+Topics: InfoSec, Web App Security  
+https://twitter.com/shehackspurple
+
 ## Philadelphia
 
 <img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH_400x400.jpg" height="70px" width="auto" align="left" />
