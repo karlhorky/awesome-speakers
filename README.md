@@ -221,8 +221,8 @@ https://twitter.com/aemkei
 
 <img src="https://pbs.twimg.com/profile_images/530780279162429440/AeXURjRd_400x400.jpeg" height="70px" width="auto" align="left" />
 
-Mauricio Palma    
-Topics: CSS, JS      
+Mauricio Palma  
+Topics: CSS, JS  
 https://twitter.com/PalmaSwell
 
 ## Helsinki
