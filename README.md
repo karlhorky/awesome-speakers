@@ -555,7 +555,7 @@ https://twitter.com/thefubhy
 
 Gleb Bahmutov  
 Topics: Computer Science, JavaScript, Reactive Programming  
-https://twitter.com/bahmutov &bull; Slides: https://slides.com/bahmutov &bull; Videos: https://glebbahmutov.com/videos
+https://twitter.com/bahmutov &bull; https://slides.com/bahmutov &bull; https://glebbahmutov.com/videos
 
 <img src="https://pbs.twimg.com/profile_images/584963092120899586/TxkxQ7Y5_400x400.png" height="70px" width="auto" align="left" />
 
