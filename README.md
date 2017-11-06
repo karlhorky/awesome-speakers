@@ -470,7 +470,7 @@ https://twitter.com/nikgraf
 <img src="https://pbs.twimg.com/profile_images/506474262278856704/V9E39edd_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Oliver Schöndorfer  
-Topics: Typography, CSS      
+Topics: Typography, CSS   
 https://twitter.com/glyphe
 
 <img src="https://pbs.twimg.com/profile_images/923184283367469057/HFTSuBcW_400x400.jpg" height="70px" width="auto" align="left" />
