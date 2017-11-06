@@ -53,11 +53,23 @@ https://twitter.com/amdsouza92
 
 ## Singapore
 
+<img src="https://pbs.twimg.com/profile_images/535685345472286720/9gjiNZiF_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Aysha Anggraini  
+Topics: CSS, Animations  
+https://twitter.com/renettarenula
+
 <img src="https://pbs.twimg.com/profile_images/917359648524558336/Zu2sC6Jk_400x400.jpg" height="70px" width="auto" align="left" />
 
 Chen Hui Jing  
 Topics: CSS  
 https://twitter.com/hj_chen
+
+<img src="https://pbs.twimg.com/profile_images/791843247312154625/UsLdWIIj_400x400.jpg" height="70px" width="auto" align="left" />
+
+Zell Liew  
+Topics: CSS, Javascript  
+https://twitter.com/zellwk
 
 # Australia
 
@@ -191,6 +203,12 @@ https://twitter.com/brucel
 
 ## Bristol
 
+<img src="https://pbs.twimg.com/profile_images/781380559947915265/wrjtv_jp_400x400.jpg" height="70px" width="auto" align="left" />
+
+Rachel Andrew  
+Topics: CSS  
+https://twitter.com/rachelandrew
+
 <img src="https://pbs.twimg.com/profile_images/820304800478658562/V20lAtva_400x400.jpg" height="70px" width="auto" align="left" />
 
 Ruth John  
@@ -240,6 +258,14 @@ https://twitter.com/ingridepure
 Joy Clark  
 Topics: Clojure, Web Apps, Security  
 https://twitter.com/iamjoyclark
+
+## Freiburg
+
+<img src="https://pbs.twimg.com/profile_images/926378337144107009/tyI51Yws_400x400.jpg" height="70px" width="auto" align="left" />
+
+Vitaly Friedman  
+Topics: Front-end, Responsive, Web  
+https://twitter.com/smashingmag
 
 ## Gdańsk
 
@@ -325,6 +351,12 @@ Ada Rose Cannon
 Topics: HTML, CSS, JavaScript, WebVR, Web technologies, PWA  
 https://twitter.com/lady_ada_king
 
+<img src="https://pbs.twimg.com/profile_images/923316049050783744/HQTS2EsC_400x400.jpg" height="70px" width="auto" align="left" />
+
+Andrew Betts  
+Topics: Networks, Performance, Web  
+https://twitter.com/triblondon
+
 <img src="https://pbs.twimg.com/profile_images/829282867020722177/el35E312_400x400.jpg" height="70px" width="auto" align="left" />
 
 Anna Doubková  
@@ -402,6 +434,14 @@ https://twitter.com/fhinkel
 Mathias Bynens  
 Topics: JavaScript (TC39), V8, Chrome  
 https://twitter.com/mathias
+
+## Norwich
+
+<img src="https://pbs.twimg.com/profile_images/915986359529111552/G2I0qF5G_400x400.jpg" height="70px" width="auto" align="left" />
+
+Heydon Pickering  
+Topics: Accessibility, Performance, Web  
+https://twitter.com/heydonworks
 
 ## Porto
 
@@ -647,6 +687,12 @@ https://twitter.com/thegreengreek
 
 ## New York
 
+<img src="https://pbs.twimg.com/profile_images/765902179660161024/zCC2yj_R_400x400.jpg" height="70px" width="auto" align="left" />
+
+Jen Simmons  
+Topics: CSS, HTML, Web  
+https://twitter.com/jensimmons
+
 <img src="https://pbs.twimg.com/profile_images/896883376954757120/gXtYevrr_400x400.jpg" height="70px" width="auto" align="left" />
 
 Kurtis Kemple  
@@ -786,6 +832,16 @@ https://twitter.com/brnnbrn
 Tiff Nogueira   
 Topics: CSS Grids, React, Redux, Firebase, Flexbox   
 https://twitter.com/tiffcodes
+
+# South America
+
+## Buenos Aires
+
+<img src="https://pbs.twimg.com/profile_images/540127281490845697/_2zxxUOt_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Evangelina Ferreira   
+Topics: CSS, Animations   
+https://twitter.com/evaferreira92
 
 ## License
 
