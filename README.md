@@ -31,6 +31,12 @@ Sidhartha Chatterjee
 Topics: React, PWA, Web Performance  
 https://twitter.com/chatsidhartha
 
+
+<img src="" height="70px" width="auto" align="left" />
+
+Manjula Dube 
+Topics: Javascript, React, PWA, Node, Testing  
+https://twitter.com/manjula_dube
 ## New Delhi
 
 <img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
