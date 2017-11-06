@@ -259,10 +259,9 @@ https://twitter.com/roman01la
 
 <img src="https://pbs.twimg.com/profile_images/572642811029426177/GxgFcPtm_400x400.jpeg" height="70px" width="auto" align="left" />
 
-Stefan Baumgartner   
+Stefan Baumgartner  
 Topics: JS, CSS, Tooling  
 https://twitter.com/ddprrt
-
 
 ## Lisbon
 
