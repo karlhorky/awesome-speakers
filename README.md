@@ -420,13 +420,11 @@ Andrey Okonetchnikov
 Topics: CSS in JS, Linting, Tooling  
 https://twitter.com/okonetchnikov
 
-
 <img src="https://pbs.twimg.com/profile_images/831514456828026880/IeSbt2Nw_400x400.jpg" height="70px" width="auto" align="left" />
 
 Christoph Rumpel  
 Topics: PHP, Laravel, Chatbots  
 https://twitter.com/christophrumpel
-
 
 <img src="https://pbs.twimg.com/profile_images/708910026245738496/CUhZSMYO_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -440,13 +438,11 @@ Glenn Reyes
 Topics: Code splitting, React  
 https://twitter.com/glnnrys
 
-
 <img src="https://pbs.twimg.com/profile_images/875719105839603712/_nJ_XRw1_400x400.jpg" height="70px" width="auto" align="left" />
 
-Jan Hruby   
-Topics: React, CSS    
+Jan Hruby  
+Topics: React, CSS  
 https://twitter.com/mrozilla
-
 
 <img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -495,7 +491,6 @@ https://twitter.com/ferakpeter
 Timo Obereder  
 Topics: React, Composition, Android, RXJava, Kotlin  
 https://twitter.com/defuex
-
 
 ## Zurich
 
@@ -704,7 +699,6 @@ Tiff Nogueira
 Topics: CSS Grids, React/Redux/Firebase, Flexbox   
 https://twitter.com/tiffcodes
 
-
 ## Warsaw
 
 <img src="https://pbs.twimg.com/profile_images/889850940852973568/kqTZlAf5_400x400.jpg" height="70px" width="auto" align="left" />
@@ -712,7 +706,6 @@ https://twitter.com/tiffcodes
 Aga Naplocha  
 Topics: Cutting-edge CSS, Teaching web technologies   
 https://twitter.com/aganaplocha
-
 
 ## License
 
