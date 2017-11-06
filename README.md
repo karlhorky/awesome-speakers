@@ -17,7 +17,7 @@ Kumar Anirudha
 Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
 https://twitter.com/kranirudha
 
-<img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />  
+<img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />
 
 Siddharth Kshetrapal  
 Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
@@ -67,13 +67,19 @@ https://twitter.com/fox
 
 ## Amsterdam 🇳🇱
 
-<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />  
+<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />
 
 Carmen Popoviciu  
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
 
-<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />  
+<img src="https://pbs.twimg.com/profile_images/852804703373074432/YVMyqpMW_400x400.jpg" height="70px" width="auto" align="left" />
+
+Kitze  
+Topics: MobX, State management, GraphQL, CSS in JS  
+https://twitter.com/thekitze
+
+<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />
 
 Michel Weststrate  
 Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general  
@@ -175,7 +181,7 @@ https://twitter.com/Rumyra
 
 ## Córdoba 🇪🇸
 
-<img src="https://pbs.twimg.com/profile_images/916227643913244672/uR9VcF3B_400x400.jpg" height="70px" width="auto" align="left" />  
+<img src="https://pbs.twimg.com/profile_images/916227643913244672/uR9VcF3B_400x400.jpg" height="70px" width="auto" align="left" />
 
 Javi Velasco  
 Topics: React, CSS in JS, React Toolbox  
@@ -236,7 +242,7 @@ https://twitter.com/aemkei
 <img src="https://pbs.twimg.com/profile_images/530780279162429440/AeXURjRd_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Mauricio Palma  
-Topics: CSS, JS  
+Topics: CSS, JavaScript  
 https://twitter.com/PalmaSwell
 
 ## Helsinki 🇫🇮
@@ -260,7 +266,7 @@ https://twitter.com/rofrischmann
 <img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Anna Migas  
-Topics: JS, CSS, Web Animations  
+Topics: JavaScript, CSS, Web Animations  
 https://twitter.com/szynszyliszys
 
 ## Kyiv 🇺🇦
@@ -282,7 +288,7 @@ https://twitter.com/roman01la
 <img src="https://pbs.twimg.com/profile_images/572642811029426177/GxgFcPtm_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Stefan Baumgartner  
-Topics: JS, CSS, Tooling  
+Topics: JavaScript, CSS, Tooling  
 https://twitter.com/ddprrt
 
 ## Lisbon 🇵🇹
@@ -474,7 +480,7 @@ https://twitter.com/bebraw
 <img src="https://pbs.twimg.com/profile_images/827473632351879169/ZnoB7yTR_400x400.jpg" height="70px" width="auto" align="left" />
 
 Max Böck  
-Topics: CSS, JS, Progressive Web Apps  
+Topics: CSS, JavaScript, Progressive Web Apps  
 https://twitter.com/mxbck
 
 <img src="https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg" height="70px" width="auto" align="left" />
@@ -593,7 +599,7 @@ https://twitter.com/ken_wheeler
 
 ## New York 🇺🇸
 
-<img src="https://pbs.twimg.com/profile_images/896883376954757120/gXtYevrr_400x400.jpg" height="70px" width="auto" align="left" />   
+<img src="https://pbs.twimg.com/profile_images/896883376954757120/gXtYevrr_400x400.jpg" height="70px" width="auto" align="left" />
 
 Kurtis Kemple  
 Topics: React, React Native, GraphQL, Universal Components  
@@ -643,7 +649,7 @@ https://twitter.com/linclark
 
 ## Portland 🇺🇸
 
-<img src="https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_400x400.jpg" height="70px" width="auto" align="left" />  
+<img src="https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_400x400.jpg" height="70px" width="auto" align="left" />
 
 Kyle Shevlin  
 Topics: React, Redux, JavaScript  
