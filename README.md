@@ -89,30 +89,37 @@ Please add to the list and help make the community better connected and richer.
 ## India 🇮🇳
 
 ### Bangalore
-
+<div>
 <img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
+
 Kumar Anirudha
 Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency
 https://twitter.com/kranirudha
-
+</div>
+<div>
 <img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" />
+
 Siddharth Kshetrapal
 Topics: CSS, Web Performance, React, CSS in JS, Node, Testing
 https://twitter.com/siddharthkp
-
+</div>
+ 
 ### Mumbai
 
 <img src="https://pbs.twimg.com/profile_images/856209876732739585/rQcsMvCa_400x400.jpg" height="70px" width="auto" align="left" />
+
 Manjula Dube
 Topics: JavaScript, React, PWA, Node, Testing
 https://twitter.com/manjula_dube
 
 <img src="https://pbs.twimg.com/profile_images/890131426217259008/6LEkT3eS_400x400.jpg" height="70px" width="auto" align="left" />
+
 Neehar Venugopal
 Topics: Code Splitting, Standards
 https://twitter.com/neeharv
 
 <img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" />
+
 Sidhartha Chatterjee
 Topics: React, PWA, Web Performance
 https://twitter.com/chatsidhartha
@@ -120,6 +127,7 @@ https://twitter.com/chatsidhartha
 ### New Delhi
 
 <img src="https://pbs.twimg.com/profile_images/514383461583294464/bIXQJcyG_400x400.jpeg" height="70px" width="auto" align="left" />
+
 Arun Michael Dsouza
 Topics: webpack, React, ES6, Tooling, CSS
 https://twitter.com/amdsouza92
@@ -127,6 +135,7 @@ https://twitter.com/amdsouza92
 ## Singapore 🇸🇬
 
 <img src="https://pbs.twimg.com/profile_images/917359648524558336/Zu2sC6Jk_400x400.jpg" height="70px" width="auto" align="left" />
+
 Chen Hui Jing
 Topics: CSS
 https://twitter.com/hj_chen
@@ -136,11 +145,13 @@ https://twitter.com/hj_chen
 ### Melbourne
 
 <img src="https://pbs.twimg.com/profile_images/683874690293612545/kDStZOBp_400x400.png" height="70px" width="auto" align="left" />
+
 Glen Maddern
 Topics: CSS, Styled Components, React, JavaScript
 https://twitter.com/glenmaddern
 
 <img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
+
 Karolina Szczur
 Topics: CSS, HTML, Web, Inclusivity, Diversity
 https://twitter.com/fox
