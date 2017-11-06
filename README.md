@@ -31,6 +31,12 @@ Manjula Dube
 Topics: JavaScript, React, PWA, Node, Testing  
 https://twitter.com/manjula_dube
 
+<img src="https://pbs.twimg.com/profile_images/890131426217259008/6LEkT3eS_400x400.jpg" height="70px" width="auto" align="left" />
+
+Neehar Venugopal  
+Topics: Code Splitting, Standards  
+https://twitter.com/neeharv
+
 <img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sidhartha Chatterjee  
@@ -72,6 +78,12 @@ https://twitter.com/fox
 # Europe
 
 ## Amsterdam
+
+<img src="https://pbs.twimg.com/profile_images/905763629701660674/u7wBGyAa_400x400.jpg" height="70px" width="auto" align="left" />
+
+Alexey Kureev  
+Topics: React Native  
+https://twitter.com/kureevalexey
 
 <img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -546,6 +558,14 @@ https://twitter.com/g33konaut
 Sebastian Siemssen  
 Topics: React, GraphQL, Tooling  
 https://twitter.com/thefubhy
+
+## Zwolle
+
+<img src="https://pbs.twimg.com/profile_images/722165598579507205/l4QzAmu8_400x400.jpg" height="70px" width="auto" align="left" />
+
+Norbert de Langen  
+Topics: Component Libraries, React, Storybook, Open Source, Communities  
+https://twitter.com/NorbertdeLangen
 
 # North America
 
