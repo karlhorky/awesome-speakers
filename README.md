@@ -208,7 +208,7 @@ https://twitter.com/iamjoyclark
 <img src="https://pbs.twimg.com/profile_images/910825228175069184/WC_iMm7-_400x400.jpg" height="70px" width="auto" align="left" />
 
 Kasia Jastrzębska  
-Topics: ClojureScript  
+Topics: React, Redux, Async, CSS in JS, ClojureScript  
 https://twitter.com/kejt_bw
 
 ## Hamburg
