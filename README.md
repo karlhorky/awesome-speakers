@@ -622,7 +622,7 @@ https://twitter.com/una
 <img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left">
 
 Tanya Janca  
-Topics: InfoSec, Web App Security 
+Topics: InfoSec, Web App Security  
 https://twitter.com/shehackspurple
 
 ## Philadelphia
