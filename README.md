@@ -71,6 +71,12 @@ Narendra Shetty
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
 
+<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />
+
+Michel Weststrate
+Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general
+https://twitter.com/mweststrate
+
 ## Augsburg
 
 <img src="https://pbs.twimg.com/profile_images/715935523630669824/GJ1Xyp_s_400x400.jpg" height="70px" width="auto" align="left" />
