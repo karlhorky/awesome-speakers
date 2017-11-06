@@ -462,7 +462,7 @@ https://twitter.com/glnnrys
 <img src="https://pbs.twimg.com/profile_images/875719105839603712/_nJ_XRw1_400x400.jpg" height="70px" width="auto" align="left" />
 
 Jan Hruby  
-Topics: React, CSS  
+Topics: React, CSS. 
 https://twitter.com/mrozilla
 
 <img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" />
