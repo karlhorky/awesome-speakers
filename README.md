@@ -467,8 +467,8 @@ https://twitter.com/sericaia
 
 <img src="https://pbs.twimg.com/profile_images/849780545823195136/afw55D2y_400x400.jpg" height="70px" width="auto" align="left" />
 
-David Dias
-Topics: IPFS, P2P, JavaScript, Node.js
+David Dias  
+Topics: IPFS, P2P, JavaScript, Node.js  
 https://twitter.com/daviddias
 
 ### Porto
