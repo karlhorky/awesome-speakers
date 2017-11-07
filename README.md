@@ -618,6 +618,29 @@ https://twitter.com/_philpl
 # North America
 
 ## Canada 🇨🇦
+
+### Toronto
+
+<img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
+
+Brenna O'Brien  
+Topics: Motivation, Psychology, Developer Culture, Public Speaking  
+https://twitter.com/brnnbrn
+
+<img src="https://pbs.twimg.com/profile_images/646718876395311104/VxpVI-O6_400x400.jpg" height="70px" width="auto" align="left" />
+
+Tiff Nogueira   
+Topics: CSS Grids, React, Redux, Firebase, Flexbox   
+https://twitter.com/tiffcodes
+
+### Ottawa
+
+<img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left">
+
+Tanya Janca  
+Topics: InfoSec, Web App Security  
+https://twitter.com/shehackspurple
+
 ## United States of America 🇺🇸
 
 ### Boston
@@ -722,14 +745,6 @@ Una Kravets
 Topics: CSS, Web  
 https://twitter.com/una
 
-### Ottawa
-
-<img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left">
-
-Tanya Janca  
-Topics: InfoSec, Web App Security  
-https://twitter.com/shehackspurple
-
 ### Philadelphia
 
 <img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH_400x400.jpg" height="70px" width="auto" align="left" />
@@ -823,20 +838,6 @@ https://twitter.com/ladyleet
 Anjana Vakil  
 Topics: Programming Language Paradigms, Functional Programming (with JavaScript)  
 https://twitter.com/AnjanaVakil
-
-### Toronto
-
-<img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
-
-Brenna O'Brien  
-Topics: Motivation, Psychology, Developer Culture, Public Speaking  
-https://twitter.com/brnnbrn
-
-<img src="https://pbs.twimg.com/profile_images/646718876395311104/VxpVI-O6_400x400.jpg" height="70px" width="auto" align="left" />
-
-Tiff Nogueira   
-Topics: CSS Grids, React, Redux, Firebase, Flexbox   
-https://twitter.com/tiffcodes
 
 # License
 
