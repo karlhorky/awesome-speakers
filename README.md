@@ -81,11 +81,23 @@ Glen Maddern
 Topics: CSS, Styled Components, React, JavaScript  
 https://twitter.com/glenmaddern
 
+<img src="https://pbs.twimg.com/profile_images/754886061872979968/BzaOWhs1_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mark Dalgleish  
+Topics: Design Systems, Web Design, DesOps  
+https://twitter.com/markdalgleish
+
 <img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
 
 Karolina Szczur  
 Topics: CSS, HTML, Web, Inclusivity, Diversity  
 https://twitter.com/fox
+
+<img src="https://pbs.twimg.com/profile_images/789522857936220160/6OIm0gj0_400x400.jpg" height="70px" width="auto" align="left" />
+
+Phil Nash  
+Topics: JavaScript, Web Development, PWA  
+https://twitter.com/philnash
 
 # Europe
 
