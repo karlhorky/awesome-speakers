@@ -363,6 +363,12 @@ https://twitter.com/mathias
 
 ### Dublin
 
+<img src="https://s.gravatar.com/avatar/55066ecb49b57ff9531581b8343aa4fa?size=70" height="70px" width="auto" align="left" />
+
+Serena Fritsch  
+Topics: Javascript (Ember), Developer workflows  
+https://twitter.com/serifritsch
+
 <img src="https://pbs.twimg.com/profile_images/775076695049113600/fTuBJGTA_400x400.jpg" height="70px" width="auto" align="left" />
 
 Ingrid Epure  
