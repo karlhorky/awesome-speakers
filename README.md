@@ -13,6 +13,12 @@ Please add to the list and help make the community better connected and richer.
 
 ### Bangalore
 
+<img src="https://avatars3.githubusercontent.com/u/1382793?s=460&v=4" height="70px" width="auto" align="left" />  
+
+Ashrith Kulai  
+Topics: PWA, Polymer, Web Components, Web Performance, Build tools  
+https://twitter.com/ashrith_kulai  
+
 <img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" />
 
 Kumar Anirudha  
