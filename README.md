@@ -200,7 +200,7 @@ https://twitter.com/defuex
 <img src="https://pbs.twimg.com/profile_images/785464929948172288/SV_c8q7S_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sam Bellen  
-Topics: Web audio, Browser APIs  
+Topics: Web Audio, Browser APIs  
 https://twitter.com/sambego
 
 ## Bulgaria 🇧🇬
@@ -252,7 +252,7 @@ https://twitter.com/varya_en
 <img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sven Sauleau    
-Topics: JavaScript (Babel), Artificial Intelligence, Linux, cloud, Ops, Computer Science    
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science    
 https://twitter.com/svensauleau
 
 ## Germany 🇩🇪
@@ -270,7 +270,7 @@ https://twitter.com/Jhnnns
 <img src="https://pbs.twimg.com/profile_images/770970370409201664/NtuKnExn_400x400.jpg" height="70px" width="auto" align="left" />
 
 Artem Sapegin  
-Topics: Style guides, UI, CSS  
+Topics: Styleguides, UI, CSS  
 https://twitter.com/iamsapegin
 
 <img src="https://pbs.twimg.com/profile_images/894641577557192704/ghN7wHa-_400x400.jpg" height="70px" width="auto" align="left" />
@@ -294,7 +294,7 @@ https://twitter.com/karlhorky
 <img src="https://pbs.twimg.com/profile_images/2687722789/0146561e2d575b3e7104e7e94be62b1c_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Natalie Pistunovich  
-Topics: Mobile apps, Golang  
+Topics: Mobile Apps, Golang  
 https://twitter.com/nataliepis
 
 <img src="https://pbs.twimg.com/profile_images/754012456368963586/DOwDLy2k_400x400.jpg" height="70px" width="auto" align="left" />
@@ -312,7 +312,7 @@ https://twitter.com/robinpokorny
 <img src="https://pbs.twimg.com/profile_images/889222391007719424/VZb5oY8a_400x400.jpg" height="70px" width="auto" align="left" />
 
 Yoshua Wuyts  
-Topics: Libraries/Frameworks, Simplicity, Standards  
+Topics: Frameworks, Simplicity, Standards, Libraries  
 https://twitter.com/yoshuawuyts
 
 ### Düsseldorf
@@ -384,7 +384,7 @@ https://twitter.com/granze
 <img src="https://pbs.twimg.com/profile_images/873084382235418625/qckzbrGr_400x400.jpg" height="70px" width="auto" align="left" />
 
 Matteo Ronchi  
-Topics: React, Javascript, Flow, Web Architectures, Frontend Ops  
+Topics: React, JavaScript, Flow, Web Architectures, Frontend Ops  
 https://twitter.com/cef62
 
 ## Netherlands 🇳🇱
@@ -406,13 +406,13 @@ https://twitter.com/carmenpopoviciu
 <img src="https://pbs.twimg.com/profile_images/852804703373074432/YVMyqpMW_400x400.jpg" height="70px" width="auto" align="left" />
 
 Kitze  
-Topics: MobX, State management, GraphQL, CSS in JS  
+Topics: MobX, State Management, GraphQL, CSS in JS  
 https://twitter.com/thekitze
 
 <img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />
 
 Michel Weststrate  
-Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general  
+Topics: MobX, React, mobx-state-tree, Typescript, Open Source  
 https://twitter.com/mweststrate
 
 <img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
@@ -478,7 +478,7 @@ https://twitter.com/grabbou
 <img src="https://pbs.twimg.com/profile_images/841594344658391043/xh_QO-C9_400x400.jpg" height="70px" width="auto" align="left" />
 
 Daniela Matos de Carvalho  
-Topics: HTTP/2, JavaScript, React, Offline first  
+Topics: HTTP/2, JavaScript, React, Offline First  
 https://twitter.com/sericaia
 
 <img src="https://pbs.twimg.com/profile_images/849780545823195136/afw55D2y_400x400.jpg" height="70px" width="auto" align="left" />
@@ -568,7 +568,7 @@ https://twitter.com/thefubhy
 <img src="https://pbs.twimg.com/profile_images/918401186516160512/aTJN_ydF_400x400.jpg" height="70px" width="auto" align="left" />
 
 Gregory Shehet  
-Topics: FRP, MobX, CSS in JS, React  
+Topics: Functional Reactive Programming, MobX, CSS in JS, React  
 https://twitter.com/AGambit95
 
 <img src="https://pbs.twimg.com/profile_images/908763932747288576/ySuitABV_400x400.jpg" height="70px" width="auto" align="left" />
@@ -600,13 +600,13 @@ https://twitter.com/Rumyra
 <img src="https://pbs.twimg.com/profile_images/925719098042052610/y-llZ0AF_400x400.jpg" height="70px" width="auto" align="left" />
 
 Ada Rose Cannon  
-Topics: HTML, CSS, JavaScript, WebVR, Web technologies, PWA  
+Topics: HTML, CSS, JavaScript, WebVR, Web Technologies, Progressive Web Apps  
 https://twitter.com/lady_ada_king
 
 <img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" />  
  
 Alex Lobera  
-Topics: Javascript, React, Redux, GraphQL  
+Topics: JavaScript, React, Redux, GraphQL  
 https://twitter.com/alex_lobera  
 
 <img src="https://pbs.twimg.com/profile_images/829282867020722177/el35E312_400x400.jpg" height="70px" width="auto" align="left" />
@@ -842,7 +842,7 @@ https://twitter.com/jhusain
 <img src="https://avatars1.githubusercontent.com/u/12424987?s=460&v=4" height="70px" width="auto" align="left" />
 
 Lisa Huang  
-Topics: AMP, Offline-first Mobile Apps, React  
+Topics: AMP, Offline-First Mobile Apps, React  
 https://twitter.com/lisaychuang
 
 <img src="https://pbs.twimg.com/profile_images/818997879696195584/1_vmf7bc_400x400.jpg" height="70px" width="auto" align="left" />
@@ -860,7 +860,7 @@ https://twitter.com/notwaldorf
 <img src="https://pbs.twimg.com/profile_images/865264595195265024/EuTAyJFJ_400x400.jpg" height="70px" width="auto" align="left" />
 
 Preethi Kasireddy  
-Topics: Machine Learning, NLP, React  
+Topics: Machine Learning, Natural Language Processing, React  
 https://twitter.com/iam_preethi
 
 <img src="https://pbs.twimg.com/profile_images/856249108885110784/97cssCek_400x400.jpg" height="70px" width="auto" align="left" />
