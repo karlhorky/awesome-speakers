@@ -23,6 +23,12 @@ Siddharth Kshetrapal
 Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
 https://twitter.com/siddharthkp
 
+<img src="https://avatars3.githubusercontent.com/u/1382793?s=460&v=4" height="70px" width="auto" align="left" />
+
+Ashrith Kulai
+Topics: PWA, Polymer, Web Components, Web Performance, Build tools 
+https://twitter.com/ashrith_kulai
+
 ## Mumbai
 
 <img src="https://pbs.twimg.com/profile_images/856209876732739585/rQcsMvCa_400x400.jpg" height="70px" width="auto" align="left" />
