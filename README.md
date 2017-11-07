@@ -299,6 +299,14 @@ Yoshua Wuyts
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
 
+### Düsseldorf
+
+<img src="https://pbs.twimg.com/profile_images/768792268983701504/kIRa8QWM_400x400.jpg" height="70px" width="auto" align="left" />
+
+Joy Clark  
+Topics: Clojure, Web Apps, Security  
+https://twitter.com/iamjoyclark
+
 ### Hamburg
 
 <img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" />
@@ -556,14 +564,6 @@ https://twitter.com/brucel
 Ruth John  
 Topics: CSS Animations  
 https://twitter.com/Rumyra
-
-### Düsseldorf
-
-<img src="https://pbs.twimg.com/profile_images/768792268983701504/kIRa8QWM_400x400.jpg" height="70px" width="auto" align="left" />
-
-Joy Clark  
-Topics: Clojure, Web Apps, Security  
-https://twitter.com/iamjoyclark
 
 ### London
 
