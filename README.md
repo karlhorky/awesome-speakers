@@ -415,6 +415,30 @@ Anna Migas
 Topics: JavaScript, CSS, Web Animations  
 https://twitter.com/szynszyliszys
 
+### Poznań
+
+<img src="https://pbs.twimg.com/profile_images/858080114197880833/DXeDmf51_400x400.jpg" height="70px" width="auto" align="left" />
+
+Tomasz Łakomy  
+Topics: React, VR, jQuery  
+https://twitter.com/tlakomy
+
+### Warsaw
+
+<img src="https://pbs.twimg.com/profile_images/889850940852973568/kqTZlAf5_400x400.jpg" height="70px" width="auto" align="left" />
+
+Aga Naplocha  
+Topics: CSS, Teaching Web Technologies  
+https://twitter.com/aganaplocha
+
+### Wrocław
+
+<img src="https://pbs.twimg.com/profile_images/910449258263916545/l0pbXflE_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mike Grabowski  
+Topics: React Native, JavaScript, Tooling  
+https://twitter.com/grabbou
+
 ## Portugal 🇵🇹
 ## Russia 🇷🇺
 ## Serbia 🇷🇸
@@ -563,14 +587,6 @@ Sara Vieira
 Topics: Styleguides, React, CSS  
 https://twitter.com/NikkitaFTW
 
-### Poznan
-
-<img src="https://pbs.twimg.com/profile_images/858080114197880833/DXeDmf51_400x400.jpg" height="70px" width="auto" align="left" />
-
-Tomasz Łakomy  
-Topics: React, VR, jQuery  
-https://twitter.com/tlakomy
-
 ### Santander
 
 <img src="https://pbs.twimg.com/profile_images/1330141226/avatar-500_400x400.png" height="70px" width="auto" align="left" />
@@ -578,22 +594,6 @@ https://twitter.com/tlakomy
 Erik Rasmussen  
 Topics: React, Redux, Redux-Form, Forms  
 https://twitter.com/erikras
-
-### Warsaw
-
-<img src="https://pbs.twimg.com/profile_images/889850940852973568/kqTZlAf5_400x400.jpg" height="70px" width="auto" align="left" />
-
-Aga Naplocha  
-Topics: CSS, Teaching Web Technologies  
-https://twitter.com/aganaplocha
-
-### Wrocław
-
-<img src="https://pbs.twimg.com/profile_images/910449258263916545/l0pbXflE_400x400.jpg" height="70px" width="auto" align="left" />
-
-Mike Grabowski  
-Topics: React Native, JavaScript, Tooling  
-https://twitter.com/grabbou
 
 ### Zurich
 
