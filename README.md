@@ -440,6 +440,23 @@ Topics: React Native, JavaScript, Tooling
 https://twitter.com/grabbou
 
 ## Portugal 🇵🇹
+
+### Lisbon
+
+<img src="https://pbs.twimg.com/profile_images/841594344658391043/xh_QO-C9_400x400.jpg" height="70px" width="auto" align="left" />
+
+Daniela Matos de Carvalho  
+Topics: HTTP/2, JavaScript, React, Offline first  
+https://twitter.com/sericaia
+
+### Porto
+
+<img src="https://pbs.twimg.com/profile_images/921441266042318848/aGGUBJ7S_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sara Vieira  
+Topics: Styleguides, React, CSS  
+https://twitter.com/NikkitaFTW
+
 ## Russia 🇷🇺
 ## Serbia 🇷🇸
 ## Spain 🇪🇸
@@ -506,14 +523,6 @@ Roman Liutikov
 Topics: ClojureScript, React, Compilers  
 https://twitter.com/roman01la
 
-### Lisbon
-
-<img src="https://pbs.twimg.com/profile_images/841594344658391043/xh_QO-C9_400x400.jpg" height="70px" width="auto" align="left" />
-
-Daniela Matos de Carvalho  
-Topics: HTTP/2, JavaScript, React, Offline first  
-https://twitter.com/sericaia
-
 ### London
 
 <img src="https://pbs.twimg.com/profile_images/925719098042052610/y-llZ0AF_400x400.jpg" height="70px" width="auto" align="left" />
@@ -578,14 +587,6 @@ https://twitter.com/nikitonsky
 Sergey Rubanov  
 Topics: Standards, Web Assembly  
 https://twitter.com/chicoxyzzy
-
-### Porto
-
-<img src="https://pbs.twimg.com/profile_images/921441266042318848/aGGUBJ7S_400x400.jpg" height="70px" width="auto" align="left" />
-
-Sara Vieira  
-Topics: Styleguides, React, CSS  
-https://twitter.com/NikkitaFTW
 
 ### Santander
 
