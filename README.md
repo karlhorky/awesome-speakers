@@ -188,7 +188,37 @@ Topics: React, Composition, Android, RXJava, Kotlin
 https://twitter.com/defuex
 
 ## Bulgaria 🇧🇬
+
+### Sofia
+
+<img src="https://pbs.twimg.com/profile_images/1267189835/rado_color_180_400x400.jpg" height="70px" width="auto" align="left" />
+
+Radoslav Stankov  
+Topics: React, Redux, Ruby, Testing, GraphQL  
+https://twitter.com/rstankov
+
 ## Denmark 🇩🇰
+
+### Copenhagen
+
+<img src="https://pbs.twimg.com/profile_images/907970058625875968/7ecTxUP4_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mathias Buus  
+Topics: Peer to Peer, Node.js  
+https://twitter.com/mafintosh
+
+<img src="https://pbs.twimg.com/profile_images/783752447940497408/R8S23hzW_400x400.jpg" height="70px" width="auto" align="left" />
+
+Olga Dmitricenko  
+Topics: VR, Web Image Processing  
+https://twitter.com/enthusiasto
+
+<img src="https://pbs.twimg.com/profile_images/824242201655910400/mY7NMaDE_400x400.jpg" height="70px" width="auto" align="left" />
+
+Tereza Sokol  
+Topics: Elm, Visualizations  
+https://twitter.com/terezk_a
+
 ## Finland 🇫🇮
 ## France 🇫🇷
 ## Germany 🇩🇪
@@ -330,26 +360,6 @@ https://twitter.com/Rumyra
 Javi Velasco  
 Topics: React, CSS in JS, React Toolbox  
 https://twitter.com/javivelasco
-
-### Copenhagen
-
-<img src="https://pbs.twimg.com/profile_images/907970058625875968/7ecTxUP4_400x400.jpg" height="70px" width="auto" align="left" />
-
-Mathias Buus  
-Topics: Peer to Peer, Node.js  
-https://twitter.com/mafintosh
-
-<img src="https://pbs.twimg.com/profile_images/783752447940497408/R8S23hzW_400x400.jpg" height="70px" width="auto" align="left" />
-
-Olga Dmitricenko  
-Topics: VR, Web Image Processing  
-https://twitter.com/enthusiasto
-
-<img src="https://pbs.twimg.com/profile_images/824242201655910400/mY7NMaDE_400x400.jpg" height="70px" width="auto" align="left" />
-
-Tereza Sokol  
-Topics: Elm, Visualizations  
-https://twitter.com/terezk_a
 
 ### Dublin
 
@@ -544,14 +554,6 @@ https://twitter.com/tlakomy
 Erik Rasmussen  
 Topics: React, Redux, Redux-Form, Forms  
 https://twitter.com/erikras
-
-### Sofia
-
-<img src="https://pbs.twimg.com/profile_images/1267189835/rado_color_180_400x400.jpg" height="70px" width="auto" align="left" />
-
-Radoslav Stankov  
-Topics: React, Redux, Ruby, Testing, GraphQL  
-https://twitter.com/rstankov
 
 ### Strasbourg
 
