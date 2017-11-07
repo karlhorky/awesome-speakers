@@ -458,10 +458,22 @@ Topics: Styleguides, React, CSS
 https://twitter.com/NikkitaFTW
 
 ## Russia 🇷🇺
+
+### Moscow
+
+<img src="https://pbs.twimg.com/profile_images/486131556675616770/3695qr5w_400x400.png" height="70px" width="auto" align="left" />
+
+Nikita Prokopov  
+Topics: Clojure, DataScript, Rum, FiraCode, AnyBar  
+https://twitter.com/nikitonsky
+
+<img src="https://pbs.twimg.com/profile_images/880419066833510400/xJ1uiJUF_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sergey Rubanov  
+Topics: Standards, Web Assembly  
+https://twitter.com/chicoxyzzy
+
 ## Serbia 🇷🇸
-## Spain 🇪🇸
-## Ukraine 🇺🇦
-## United Kingdom 🇬🇧
 
 ### Belgrade
 
@@ -476,6 +488,27 @@ https://twitter.com/simalexan
 Slobodan Stojanović  
 Topics: Serverless, Offline Web, Chat Bots  
 [https://twitter.com/slobodan_](https://twitter.com/slobodan_)
+
+## Spain 🇪🇸
+
+### Córdoba
+
+<img src="https://pbs.twimg.com/profile_images/916227643913244672/uR9VcF3B_400x400.jpg" height="70px" width="auto" align="left" />
+
+Javi Velasco  
+Topics: React, CSS in JS, React Toolbox  
+https://twitter.com/javivelasco
+
+### Santander
+
+<img src="https://pbs.twimg.com/profile_images/1330141226/avatar-500_400x400.png" height="70px" width="auto" align="left" />
+
+Erik Rasmussen  
+Topics: React, Redux, Redux-Form, Forms  
+https://twitter.com/erikras
+
+## Ukraine 🇺🇦
+## United Kingdom 🇬🇧
 
 ### Birmingham
 
@@ -492,14 +525,6 @@ https://twitter.com/brucel
 Ruth John  
 Topics: CSS Animations  
 https://twitter.com/Rumyra
-
-### Córdoba
-
-<img src="https://pbs.twimg.com/profile_images/916227643913244672/uR9VcF3B_400x400.jpg" height="70px" width="auto" align="left" />
-
-Javi Velasco  
-Topics: React, CSS in JS, React Toolbox  
-https://twitter.com/javivelasco
 
 ### Düsseldorf
 
@@ -572,29 +597,6 @@ https://twitter.com/MicheleBertoli
 Phil Plückthun  
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
-
-
-### Moscow
-
-<img src="https://pbs.twimg.com/profile_images/486131556675616770/3695qr5w_400x400.png" height="70px" width="auto" align="left" />
-
-Nikita Prokopov  
-Topics: Clojure, DataScript, Rum, FiraCode, AnyBar  
-https://twitter.com/nikitonsky
-
-<img src="https://pbs.twimg.com/profile_images/880419066833510400/xJ1uiJUF_400x400.jpg" height="70px" width="auto" align="left" />
-
-Sergey Rubanov  
-Topics: Standards, Web Assembly  
-https://twitter.com/chicoxyzzy
-
-### Santander
-
-<img src="https://pbs.twimg.com/profile_images/1330141226/avatar-500_400x400.png" height="70px" width="auto" align="left" />
-
-Erik Rasmussen  
-Topics: React, Redux, Redux-Form, Forms  
-https://twitter.com/erikras
 
 ### Zurich
 
