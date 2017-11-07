@@ -363,6 +363,14 @@ Maurizio Mangione
 Topics: Web Components, Polymer, Progressive Web Apps  
 https://twitter.com/granze
 
+## Verona
+
+<img src="https://pbs.twimg.com/profile_images/873084382235418625/qckzbrGr_400x400.jpg" height="70px" width="auto" align="left" />
+
+Matteo Ronchi  
+Topics: React, Javascript, Flow, Web Architectures, Frontend Ops  
+https://twitter.com/cef62
+
 ## Netherlands 🇳🇱
 
 ### Amsterdam
