@@ -369,6 +369,12 @@ Ingrid Epure
 Topics: Security, Psychology  
 https://twitter.com/ingridepure
 
+<img src="https://s.gravatar.com/avatar/55066ecb49b57ff9531581b8343aa4fa?size=140" height="70px" width="auto" align="left" />
+
+Serena Fritsch  
+Topics: JavaScript, Ember, Developer Workflows  
+https://twitter.com/serifritsch
+
 ## Italy 🇮🇹
 
 ### Milan
