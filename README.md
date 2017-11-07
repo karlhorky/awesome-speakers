@@ -721,6 +721,12 @@ https://twitter.com/kentcdodds
 
 ## San Francisco
 
+<img src="https://pbs.twimg.com/profile_images/657238456280731648/YvIabjlq_400x400.png" height="70px" width="auto" align="left" />
+
+Anjana Vakil  
+Topics: Programming Language Paradigms, Functional Programming (with JavaScript)  
+https://twitter.com/AnjanaVakil
+
 <img src="https://pbs.twimg.com/profile_images/880565020173717504/CqM1jdvu_400x400.jpg" height="70px" width="auto" align="left" />
 
 Boris Cherny  
@@ -735,6 +741,10 @@ https://twitter.com/standardista
 
 <img src="https://avatars1.githubusercontent.com/u/12424987?s=460&v=4" height="70px" width="auto" align="left" />
  
+Jafar Husain  
+Topics: JavaScript, ES7, Observables, Falcor  
+https://twitter.com/jhusain
+
 Lisa Huang  
 Topics: AMP, Offline-first Mobile Apps, React  
 https://twitter.com/lisaychuang
@@ -775,11 +785,7 @@ Tracy Lee
 Topics: Reactive Programming, Angular, Ember.js  
 https://twitter.com/ladyleet
 
-<img src="https://pbs.twimg.com/profile_images/657238456280731648/YvIabjlq_400x400.png" height="70px" width="auto" align="left" />
-
-Anjana Vakil  
-Topics: Programming Language Paradigms, Functional Programming (with JavaScript)  
-https://twitter.com/AnjanaVakil
+<img src="https://pbs.twimg.com/profile_images/491609678539792384/YskBOQeH_400x400.jpeg" height="70px" width="auto" align="left" />
 
 ## Toronto
 
