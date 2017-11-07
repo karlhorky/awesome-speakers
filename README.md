@@ -220,7 +220,25 @@ Topics: Elm, Visualizations
 https://twitter.com/terezk_a
 
 ## Finland 🇫🇮
+
+### Helsinki
+
+<img src="https://pbs.twimg.com/profile_images/914150533820243970/DnBSM3RF_400x400.jpg" height="70px" width="auto" align="left" />
+
+Varya Stepanova  
+Topics: CSS in JS, Style Guides, Visual Regression Testing  
+https://twitter.com/varya_en
+
 ## France 🇫🇷
+
+### Strasbourg
+
+<img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sven Sauleau    
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, cloud, Ops, Computer Science    
+https://twitter.com/svensauleau
+
 ## Germany 🇩🇪
 ## Ireland 🇮🇪
 ## Italy 🇮🇹
@@ -399,14 +417,6 @@ Mauricio Palma
 Topics: CSS, JavaScript  
 https://twitter.com/PalmaSwell
 
-### Helsinki
-
-<img src="https://pbs.twimg.com/profile_images/914150533820243970/DnBSM3RF_400x400.jpg" height="70px" width="auto" align="left" />
-
-Varya Stepanova  
-Topics: CSS in JS, Style Guides, Visual Regression Testing  
-https://twitter.com/varya_en
-
 ### Karlsruhe
 
 <img src="https://pbs.twimg.com/profile_images/925825609439301633/8lVHsfdV_400x400.jpg" height="70px" width="auto" align="left" />
@@ -554,14 +564,6 @@ https://twitter.com/tlakomy
 Erik Rasmussen  
 Topics: React, Redux, Redux-Form, Forms  
 https://twitter.com/erikras
-
-### Strasbourg
-
-<img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="70px" width="auto" align="left" />
-
-Sven Sauleau    
-Topics: JavaScript (Babel), Artificial Intelligence, Linux, cloud, Ops, Computer Science    
-https://twitter.com/svensauleau
 
 ### Warsaw
 
