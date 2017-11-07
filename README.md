@@ -363,7 +363,7 @@ https://twitter.com/mathias
 
 ### Dublin
 
-<img src="https://s.gravatar.com/avatar/55066ecb49b57ff9531581b8343aa4fa?size=70" height="70px" width="auto" align="left" />
+<img src="https://s.gravatar.com/avatar/55066ecb49b57ff9531581b8343aa4fa?size=140" height="70px" width="auto" align="left" />
 
 Serena Fritsch  
 Topics: JavaScript (Ember), Developer Workflows  
