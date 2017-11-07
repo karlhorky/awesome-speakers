@@ -240,48 +240,6 @@ Topics: JavaScript (Babel), Artificial Intelligence, Linux, cloud, Ops, Computer
 https://twitter.com/svensauleau
 
 ## Germany 🇩🇪
-## Ireland 🇮🇪
-## Italy 🇮🇹
-## Netherlands 🇳🇱
-## Poland 🇵🇱
-## Portugal 🇵🇹
-## Russia 🇷🇺
-## Serbia 🇷🇸
-## Spain 🇪🇸
-## Ukraine 🇺🇦
-## United Kingdom 🇬🇧
-
-### Amsterdam
-
-<img src="https://pbs.twimg.com/profile_images/905763629701660674/u7wBGyAa_400x400.jpg" height="70px" width="auto" align="left" />
-
-Alexey Kureev  
-Topics: React Native  
-https://twitter.com/kureevalexey
-
-<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />
-
-Carmen Popoviciu  
-Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
-https://twitter.com/carmenpopoviciu
-
-<img src="https://pbs.twimg.com/profile_images/852804703373074432/YVMyqpMW_400x400.jpg" height="70px" width="auto" align="left" />
-
-Kitze  
-Topics: MobX, State management, GraphQL, CSS in JS  
-https://twitter.com/thekitze
-
-<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />
-
-Michel Weststrate  
-Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general  
-https://twitter.com/mweststrate
-
-<img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
-
-Narendra Shetty  
-Topics: React, PWA  
-https://twitter.com/narendra_shetty
 
 ### Augsburg
 
@@ -290,20 +248,6 @@ https://twitter.com/narendra_shetty
 Johannes Ewald  
 Topics: Tooling, Standards, webpack  
 https://twitter.com/Jhnnns
-
-### Belgrade
-
-<img src="https://pbs.twimg.com/profile_images/823894615145201664/0xxSg0_c_400x400.jpg" height="70px" width="auto" align="left" />
-
-Aleksandar Simovic  
-Topics: Serverless  
-https://twitter.com/simalexan
-
-<img src="https://pbs.twimg.com/profile_images/858708563488845829/bfs-19gk_400x400.jpg" height="70px" width="auto" align="left" />
-
-Slobodan Stojanović  
-Topics: Serverless, Offline Web, Chat Bots  
-[https://twitter.com/slobodan_](https://twitter.com/slobodan_)
 
 ### Berlin
 
@@ -355,6 +299,99 @@ Yoshua Wuyts
 Topics: Libraries/Frameworks, Simplicity, Standards  
 https://twitter.com/yoshuawuyts
 
+### Hamburg
+
+<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" />
+
+Martin Kleppe  
+Topics: Weird JS  
+https://twitter.com/aemkei
+
+<img src="https://pbs.twimg.com/profile_images/530780279162429440/AeXURjRd_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Mauricio Palma  
+Topics: CSS, JavaScript  
+https://twitter.com/PalmaSwell
+
+### Karlsruhe
+
+<img src="https://pbs.twimg.com/profile_images/925825609439301633/8lVHsfdV_400x400.jpg" height="70px" width="auto" align="left" />
+
+Robin Frischmann  
+Topics: CSS, CSS in JS, React  
+https://twitter.com/rofrischmann
+
+### Munich
+
+<img src="https://pbs.twimg.com/profile_images/661485440751509505/ZnNN9qes_400x400.jpg" height="70px" width="auto" align="left" />
+
+Franziska Hinkelmann  
+Topics: Node, V8  
+https://twitter.com/fhinkel
+
+<img src="https://pbs.twimg.com/profile_images/1255767431/kung-fu_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mathias Bynens  
+Topics: JavaScript (TC39), V8, Chrome  
+https://twitter.com/mathias
+
+## Ireland 🇮🇪
+## Italy 🇮🇹
+## Netherlands 🇳🇱
+## Poland 🇵🇱
+## Portugal 🇵🇹
+## Russia 🇷🇺
+## Serbia 🇷🇸
+## Spain 🇪🇸
+## Ukraine 🇺🇦
+## United Kingdom 🇬🇧
+
+### Amsterdam
+
+<img src="https://pbs.twimg.com/profile_images/905763629701660674/u7wBGyAa_400x400.jpg" height="70px" width="auto" align="left" />
+
+Alexey Kureev  
+Topics: React Native  
+https://twitter.com/kureevalexey
+
+<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" />
+
+Carmen Popoviciu  
+Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
+https://twitter.com/carmenpopoviciu
+
+<img src="https://pbs.twimg.com/profile_images/852804703373074432/YVMyqpMW_400x400.jpg" height="70px" width="auto" align="left" />
+
+Kitze  
+Topics: MobX, State management, GraphQL, CSS in JS  
+https://twitter.com/thekitze
+
+<img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" />
+
+Michel Weststrate  
+Topics: MobX, React, Mobx-State-Tree, Typescript, Open Source in general  
+https://twitter.com/mweststrate
+
+<img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" />
+
+Narendra Shetty  
+Topics: React, PWA  
+https://twitter.com/narendra_shetty
+
+### Belgrade
+
+<img src="https://pbs.twimg.com/profile_images/823894615145201664/0xxSg0_c_400x400.jpg" height="70px" width="auto" align="left" />
+
+Aleksandar Simovic  
+Topics: Serverless  
+https://twitter.com/simalexan
+
+<img src="https://pbs.twimg.com/profile_images/858708563488845829/bfs-19gk_400x400.jpg" height="70px" width="auto" align="left" />
+
+Slobodan Stojanović  
+Topics: Serverless, Offline Web, Chat Bots  
+[https://twitter.com/slobodan_](https://twitter.com/slobodan_)
+
 ### Birmingham
 
 <img src="https://pbs.twimg.com/profile_images/807277326539046912/EZR6qL-S_400x400.jpg" height="70px" width="auto" align="left" />
@@ -402,28 +439,6 @@ https://twitter.com/iamjoyclark
 Kasia Jastrzębska  
 Topics: React, Redux, Async, CSS in JS, ClojureScript  
 https://twitter.com/kejt_bw
-
-### Hamburg
-
-<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" />
-
-Martin Kleppe  
-Topics: Weird JS  
-https://twitter.com/aemkei
-
-<img src="https://pbs.twimg.com/profile_images/530780279162429440/AeXURjRd_400x400.jpeg" height="70px" width="auto" align="left" />
-
-Mauricio Palma  
-Topics: CSS, JavaScript  
-https://twitter.com/PalmaSwell
-
-### Karlsruhe
-
-<img src="https://pbs.twimg.com/profile_images/925825609439301633/8lVHsfdV_400x400.jpg" height="70px" width="auto" align="left" />
-
-Robin Frischmann  
-Topics: CSS, CSS in JS, React  
-https://twitter.com/rofrischmann
 
 ### Krakow
 
@@ -526,20 +541,6 @@ https://twitter.com/nikitonsky
 Sergey Rubanov  
 Topics: Standards, Web Assembly  
 https://twitter.com/chicoxyzzy
-
-### Munich
-
-<img src="https://pbs.twimg.com/profile_images/661485440751509505/ZnNN9qes_400x400.jpg" height="70px" width="auto" align="left" />
-
-Franziska Hinkelmann  
-Topics: Node, V8  
-https://twitter.com/fhinkel
-
-<img src="https://pbs.twimg.com/profile_images/1255767431/kung-fu_400x400.jpg" height="70px" width="auto" align="left" />
-
-Mathias Bynens  
-Topics: JavaScript (TC39), V8, Chrome  
-https://twitter.com/mathias
 
 ### Porto
 
