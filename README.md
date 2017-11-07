@@ -23,6 +23,14 @@ Siddharth Kshetrapal
 Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
 https://twitter.com/siddharthkp
 
+## Lebanon
+
+<img src="https://pbs.twimg.com/profile_images/903537944320987136/wB28L8qd_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sara Soueidan  
+Topics: Animations, CSS, Front-end, SVG  
+https://twitter.com/sarasoueidan
+
 ## Mumbai
 
 <img src="https://pbs.twimg.com/profile_images/856209876732739585/rQcsMvCa_400x400.jpg" height="70px" width="auto" align="left" />
@@ -145,6 +153,12 @@ Topics: Serverless, Offline Web, Chat Bots
 
 ## Berlin
 
+<img src="https://pbs.twimg.com/profile_images/608674513241427968/ycianjI2_400x400.jpg" height="70px" width="auto" align="left" />
+
+Ally Long  
+Topics: CSS, Performance,  
+https://twitter.com/allyelle
+
 <img src="https://pbs.twimg.com/profile_images/770970370409201664/NtuKnExn_400x400.jpg" height="70px" width="auto" align="left" />
 
 Artem Sapegin  
@@ -154,7 +168,7 @@ https://twitter.com/iamsapegin
 <img src="https://pbs.twimg.com/profile_images/894641577557192704/ghN7wHa-_400x400.jpg" height="70px" width="auto" align="left" />
 
 Charlie Owen  
-Topics: CSS, Accessibility    
+Topics: CSS, Accessibility  
 https://twitter.com/sonniesedge
 
 <img src="https://pbs.twimg.com/profile_images/881401440098557952/HZzFErcN_400x400.jpg" height="70px" width="auto" align="left" />
