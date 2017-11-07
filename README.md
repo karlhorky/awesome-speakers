@@ -398,6 +398,23 @@ Topics: Component Libraries, React, Storybook, Open Source, Communities
 https://twitter.com/NorbertdeLangen
 
 ## Poland 🇵🇱
+
+### Gdańsk
+
+<img src="https://pbs.twimg.com/profile_images/910825228175069184/WC_iMm7-_400x400.jpg" height="70px" width="auto" align="left" />
+
+Kasia Jastrzębska  
+Topics: React, Redux, Async, CSS in JS, ClojureScript  
+https://twitter.com/kejt_bw
+
+### Krakow
+
+<img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Anna Migas  
+Topics: JavaScript, CSS, Web Animations  
+https://twitter.com/szynszyliszys
+
 ## Portugal 🇵🇹
 ## Russia 🇷🇺
 ## Serbia 🇷🇸
@@ -450,22 +467,6 @@ https://twitter.com/javivelasco
 Joy Clark  
 Topics: Clojure, Web Apps, Security  
 https://twitter.com/iamjoyclark
-
-### Gdańsk
-
-<img src="https://pbs.twimg.com/profile_images/910825228175069184/WC_iMm7-_400x400.jpg" height="70px" width="auto" align="left" />
-
-Kasia Jastrzębska  
-Topics: React, Redux, Async, CSS in JS, ClojureScript  
-https://twitter.com/kejt_bw
-
-### Krakow
-
-<img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" />
-
-Anna Migas  
-Topics: JavaScript, CSS, Web Animations  
-https://twitter.com/szynszyliszys
 
 ### Kyiv
 
