@@ -1,21 +1,23 @@
-Hello there !
-Thank you for wanting to add some more awesome speakers here !
+Hello there!
 
-There are no strict guidelines when contributing to this repo but we have two requests that we think everyone should follow when a new person is added:
+Thank you for wanting to add more awesome speakers here!
 
-* You know the person / have seen a talk by them and think they're awesome.
-* Also let the person know you are adding them here , they may not want for some reason and it's important to respect their privacy
+Our suggestions for adding new speakers:
 
-As for the format please place:
+* Add people that you believe hold awesome talks
+* For privacy reasons, let people know you are adding them here ([example tweet](https://twitter.com/karlhorky/status/927550556570357760))
 
-* A picture , direct link to Github/Twitter
-* Their name
-* The topics they are interested in
-* Twitter Link
+Format ([example pull request](https://github.com/karlhorky/awesome-speakers/pull/35/files)):
 
-Also please leave always two spaces after each line for formatting reasons.
+* An image (Twitter profile picture is best)
+* Line 1: Name of the speaker
+* Line 2: Topics they talk about, capitalized (future topics in parentheses)
+* Line 3: Contact link (Twitter preferred)
+* Line 3: If relevant, further links such as slides, separated by bullets ([example pull request](https://github.com/karlhorky/awesome-speakers/pull/49))
 
-Thank you for reading
+Also please always leave two spaces after Line 1 and 2 for formatting reasons.
 
-Karl Horky
-Sara Vieira
+Thank you for reading!
+
+[Karl Horky](https://twitter.com/karlhorky)
+[Sara Vieira](https://twitter.com/NikkitaFTW)
