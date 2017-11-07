@@ -193,6 +193,16 @@ Timo Obereder
 Topics: React, Composition, Android, RXJava, Kotlin  
 https://twitter.com/defuex
 
+## Belgium 🇧🇪
+
+### Hasselt
+
+<img src="https://pbs.twimg.com/profile_images/785464929948172288/SV_c8q7S_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sam Bellen  
+Topics: Web audio, Browser APIs  
+https://twitter.com/sambego
+
 ## Bulgaria 🇧🇬
 
 ### Sofia
