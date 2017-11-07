@@ -367,6 +367,12 @@ Phil Plückthun
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
+<img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" />
+
+Alex Lobera
+Topics: Javascript, React, Redux, GraphQL
+https://twitter.com/alex_lobera
+
 ## Milan
 
 <img src="https://pbs.twimg.com/profile_images/845799912222674945/70ofyabn_400x400.jpg" height="70px" width="auto" align="left" />
