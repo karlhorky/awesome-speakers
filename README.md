@@ -593,6 +593,12 @@ Ada Rose Cannon
 Topics: HTML, CSS, JavaScript, WebVR, Web technologies, PWA  
 https://twitter.com/lady_ada_king
 
+<img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" />  
+ 
+Alex Lobera  
+Topics: Javascript, React, Redux, GraphQL  
+https://twitter.com/alex_lobera  
+
 <img src="https://pbs.twimg.com/profile_images/829282867020722177/el35E312_400x400.jpg" height="70px" width="auto" align="left" />
 
 Anna Doubková  
