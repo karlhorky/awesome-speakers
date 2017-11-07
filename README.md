@@ -84,6 +84,109 @@ https://twitter.com/fox
 # Europe
 
 ## Austria 🇦🇹
+
+### Linz
+
+<img src="https://pbs.twimg.com/profile_images/572642811029426177/GxgFcPtm_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Stefan Baumgartner  
+Topics: Web Ops, JavaScript, CSS, Tooling  
+https://twitter.com/ddprrt
+
+### Salzburg
+
+<img src="https://pbs.twimg.com/profile_images/861132772366331905/4xts32Lq_400x400.jpg" height="70px" width="auto" align="left" />
+
+Lisi Linhart  
+Topics: CSS, Web Animations  
+https://twitter.com/lisi_linhart
+
+### Vienna
+
+<img src="https://pbs.twimg.com/profile_images/1492139238/profile_pic.jpg_400x400.jpg" height="70px" width="auto" align="left" />
+
+Ali Sharif  
+Topics: Functional Programming, React  
+https://twitter.com/sharifsbeat
+
+<img src="https://pbs.twimg.com/profile_images/678903331176214528/TQTdqGwD_400x400.jpg" height="70px" width="auto" align="left" />
+
+Andrey Okonetchnikov  
+Topics: CSS in JS, Linting, Tooling  
+https://twitter.com/okonetchnikov
+
+<img src="https://pbs.twimg.com/profile_images/831514456828026880/IeSbt2Nw_400x400.jpg" height="70px" width="auto" align="left" />
+
+Christoph Rumpel  
+Topics: PHP, Laravel, Chatbots  
+https://twitter.com/christophrumpel
+
+<img src="https://pbs.twimg.com/profile_images/708910026245738496/CUhZSMYO_400x400.jpg" height="70px" width="auto" align="left" />
+
+Eva Lettner  
+Topics: CSS, Web  
+https://twitter.com/eva_trostlos
+
+<img src="https://pbs.twimg.com/profile_images/687205014348103680/ZcIXYv4g_400x400.jpg" height="70px" width="auto" align="left" />
+
+Glenn Reyes  
+Topics: Code splitting, React  
+https://twitter.com/glnnrys
+
+<img src="https://pbs.twimg.com/profile_images/875719105839603712/_nJ_XRw1_400x400.jpg" height="70px" width="auto" align="left" />
+
+Jan Hruby  
+Topics: React, CSS  
+https://twitter.com/mrozilla
+
+<img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" />
+
+Juho Vepsäläinen  
+Topics: 3D graphics, Business, React, webpack, Writing  
+https://twitter.com/bebraw
+
+<img src="https://pbs.twimg.com/profile_images/827473632351879169/ZnoB7yTR_400x400.jpg" height="70px" width="auto" align="left" />
+
+Max Böck  
+Topics: CSS, JavaScript, Progressive Web Apps  
+https://twitter.com/mxbck
+
+<img src="https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg" height="70px" width="auto" align="left" />
+
+Max Stoiber  
+Topics: React, Styled Components, OSS  
+https://twitter.com/mxstbr
+
+<img src="https://pbs.twimg.com/profile_images/814140031237496832/G-OShJRF_400x400.jpg" height="70px" width="auto" align="left" />
+
+Nik Graf  
+Topics: VR, Serverless, React  
+https://twitter.com/nikgraf
+
+<img src="https://pbs.twimg.com/profile_images/506474262278856704/V9E39edd_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Oliver Schöndorfer  
+Topics: Typography, CSS   
+https://twitter.com/glyphe
+
+<img src="https://pbs.twimg.com/profile_images/923184283367469057/HFTSuBcW_400x400.jpg" height="70px" width="auto" align="left" />
+
+Patrick Stapfer  
+Topics: ReasonML, Static Typing, Flow  
+https://twitter.com/ryyppy
+
+<img src="https://pbs.twimg.com/profile_images/868930803425828864/1TWl571x_400x400.jpg" height="70px" width="auto" align="left" />
+
+Peter Ferak  
+Topics: Functional Programming, Computer Science  
+https://twitter.com/ferakpeter
+
+<img src="https://pbs.twimg.com/profile_images/881236730254434304/JZs8wBHX_400x400.jpg" height="70px" width="auto" align="left" />
+
+Timo Obereder  
+Topics: React, Composition, Android, RXJava, Kotlin  
+https://twitter.com/defuex
+
 ## Bulgaria 🇧🇬
 ## Denmark 🇩🇰
 ## Finland 🇫🇮
@@ -324,14 +427,6 @@ Roman Liutikov
 Topics: ClojureScript, React, Compilers  
 https://twitter.com/roman01la
 
-### Linz
-
-<img src="https://pbs.twimg.com/profile_images/572642811029426177/GxgFcPtm_400x400.jpeg" height="70px" width="auto" align="left" />
-
-Stefan Baumgartner  
-Topics: Web Ops, JavaScript, CSS, Tooling  
-https://twitter.com/ddprrt
-
 ### Lisbon
 
 <img src="https://pbs.twimg.com/profile_images/841594344658391043/xh_QO-C9_400x400.jpg" height="70px" width="auto" align="left" />
@@ -450,14 +545,6 @@ Erik Rasmussen
 Topics: React, Redux, Redux-Form, Forms  
 https://twitter.com/erikras
 
-### Salzburg
-
-<img src="https://pbs.twimg.com/profile_images/861132772366331905/4xts32Lq_400x400.jpg" height="70px" width="auto" align="left" />
-
-Lisi Linhart  
-Topics: CSS, Web Animations  
-https://twitter.com/lisi_linhart
-
 ### Sofia
 
 <img src="https://pbs.twimg.com/profile_images/1267189835/rado_color_180_400x400.jpg" height="70px" width="auto" align="left" />
@@ -473,92 +560,6 @@ https://twitter.com/rstankov
 Sven Sauleau    
 Topics: JavaScript (Babel), Artificial Intelligence, Linux, cloud, Ops, Computer Science    
 https://twitter.com/svensauleau
-
-### Vienna
-
-<img src="https://pbs.twimg.com/profile_images/1492139238/profile_pic.jpg_400x400.jpg" height="70px" width="auto" align="left" />
-
-Ali Sharif  
-Topics: Functional Programming, React  
-https://twitter.com/sharifsbeat
-
-<img src="https://pbs.twimg.com/profile_images/678903331176214528/TQTdqGwD_400x400.jpg" height="70px" width="auto" align="left" />
-
-Andrey Okonetchnikov  
-Topics: CSS in JS, Linting, Tooling  
-https://twitter.com/okonetchnikov
-
-<img src="https://pbs.twimg.com/profile_images/831514456828026880/IeSbt2Nw_400x400.jpg" height="70px" width="auto" align="left" />
-
-Christoph Rumpel  
-Topics: PHP, Laravel, Chatbots  
-https://twitter.com/christophrumpel
-
-<img src="https://pbs.twimg.com/profile_images/708910026245738496/CUhZSMYO_400x400.jpg" height="70px" width="auto" align="left" />
-
-Eva Lettner  
-Topics: CSS, Web  
-https://twitter.com/eva_trostlos
-
-<img src="https://pbs.twimg.com/profile_images/687205014348103680/ZcIXYv4g_400x400.jpg" height="70px" width="auto" align="left" />
-
-Glenn Reyes  
-Topics: Code splitting, React  
-https://twitter.com/glnnrys
-
-<img src="https://pbs.twimg.com/profile_images/875719105839603712/_nJ_XRw1_400x400.jpg" height="70px" width="auto" align="left" />
-
-Jan Hruby  
-Topics: React, CSS  
-https://twitter.com/mrozilla
-
-<img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" />
-
-Juho Vepsäläinen  
-Topics: 3D graphics, Business, React, webpack, Writing  
-https://twitter.com/bebraw
-
-<img src="https://pbs.twimg.com/profile_images/827473632351879169/ZnoB7yTR_400x400.jpg" height="70px" width="auto" align="left" />
-
-Max Böck  
-Topics: CSS, JavaScript, Progressive Web Apps  
-https://twitter.com/mxbck
-
-<img src="https://pbs.twimg.com/profile_images/763033229993574400/6frGyDyA_400x400.jpg" height="70px" width="auto" align="left" />
-
-Max Stoiber  
-Topics: React, Styled Components, OSS  
-https://twitter.com/mxstbr
-
-<img src="https://pbs.twimg.com/profile_images/814140031237496832/G-OShJRF_400x400.jpg" height="70px" width="auto" align="left" />
-
-Nik Graf  
-Topics: VR, Serverless, React  
-https://twitter.com/nikgraf
-
-<img src="https://pbs.twimg.com/profile_images/506474262278856704/V9E39edd_400x400.jpeg" height="70px" width="auto" align="left" />
-
-Oliver Schöndorfer  
-Topics: Typography, CSS   
-https://twitter.com/glyphe
-
-<img src="https://pbs.twimg.com/profile_images/923184283367469057/HFTSuBcW_400x400.jpg" height="70px" width="auto" align="left" />
-
-Patrick Stapfer  
-Topics: ReasonML, Static Typing, Flow  
-https://twitter.com/ryyppy
-
-<img src="https://pbs.twimg.com/profile_images/868930803425828864/1TWl571x_400x400.jpg" height="70px" width="auto" align="left" />
-
-Peter Ferak  
-Topics: Functional Programming, Computer Science  
-https://twitter.com/ferakpeter
-
-<img src="https://pbs.twimg.com/profile_images/881236730254434304/JZs8wBHX_400x400.jpg" height="70px" width="auto" align="left" />
-
-Timo Obereder  
-Topics: React, Composition, Android, RXJava, Kotlin  
-https://twitter.com/defuex
 
 ### Warsaw
 
