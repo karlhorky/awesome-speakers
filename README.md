@@ -619,6 +619,14 @@ https://twitter.com/_philpl
 
 ## Canada 🇨🇦
 
+### Ottawa
+
+<img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left">
+
+Tanya Janca  
+Topics: InfoSec, Web App Security  
+https://twitter.com/shehackspurple
+
 ### Toronto
 
 <img src="https://pbs.twimg.com/profile_images/912036800960405509/PU-_d_C2_400x400.jpg" height="70px" width="auto" align="left" />
@@ -632,14 +640,6 @@ https://twitter.com/brnnbrn
 Tiff Nogueira   
 Topics: CSS Grids, React, Redux, Firebase, Flexbox   
 https://twitter.com/tiffcodes
-
-### Ottawa
-
-<img src="https://pbs.twimg.com/profile_images/920685564176846848/qI6wBevB_400x400.jpg" height="70px" width="auto" align="left">
-
-Tanya Janca  
-Topics: InfoSec, Web App Security  
-https://twitter.com/shehackspurple
 
 ## United States of America 🇺🇸
 
