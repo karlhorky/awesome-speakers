@@ -284,7 +284,7 @@ https://twitter.com/rofrischmann
 <img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Anna Migas  
-Topics: JavaScript, CSS, Web Animations  
+Topics: HTML, CSS, JavaScript, Web Animations, Web Performance  
 https://twitter.com/szynszyliszys
 
 ## Kyiv
