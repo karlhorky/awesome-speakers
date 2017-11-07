@@ -336,7 +336,25 @@ Topics: JavaScript (TC39), V8, Chrome
 https://twitter.com/mathias
 
 ## Ireland 🇮🇪
+
+### Dublin
+
+<img src="https://pbs.twimg.com/profile_images/775076695049113600/fTuBJGTA_400x400.jpg" height="70px" width="auto" align="left" />
+
+Ingrid Epure  
+Topics: Security, Psychology  
+https://twitter.com/ingridepure
+
 ## Italy 🇮🇹
+
+### Milan
+
+<img src="https://pbs.twimg.com/profile_images/845799912222674945/70ofyabn_400x400.jpg" height="70px" width="auto" align="left" />
+
+Maurizio Mangione  
+Topics: Web Components, Polymer, Progressive Web Apps  
+https://twitter.com/granze
+
 ## Netherlands 🇳🇱
 ## Poland 🇵🇱
 ## Portugal 🇵🇹
@@ -415,14 +433,6 @@ https://twitter.com/Rumyra
 Javi Velasco  
 Topics: React, CSS in JS, React Toolbox  
 https://twitter.com/javivelasco
-
-### Dublin
-
-<img src="https://pbs.twimg.com/profile_images/775076695049113600/fTuBJGTA_400x400.jpg" height="70px" width="auto" align="left" />
-
-Ingrid Epure  
-Topics: Security, Psychology  
-https://twitter.com/ingridepure
 
 ### Düsseldorf
 
@@ -520,13 +530,6 @@ Phil Plückthun
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
-### Milan
-
-<img src="https://pbs.twimg.com/profile_images/845799912222674945/70ofyabn_400x400.jpg" height="70px" width="auto" align="left" />
-
-Maurizio Mangione  
-Topics: Web Components, Polymer, Progressive Web Apps  
-https://twitter.com/granze
 
 ### Moscow
 
