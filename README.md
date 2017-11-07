@@ -507,7 +507,38 @@ Erik Rasmussen
 Topics: React, Redux, Redux-Form, Forms  
 https://twitter.com/erikras
 
+## Switzerland 🇨🇭
+
+### Zurich
+
+<img src="https://pbs.twimg.com/profile_images/772017431376175104/XvIsVuB4_400x400.jpg" height="70px" width="auto" align="left" />
+
+Martin Splitt  
+Topics: VR, Web Performance  
+https://twitter.com/g33konaut
+
+<img src="https://pbs.twimg.com/profile_images/737308641511002113/YB7CH5CE_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sebastian Siemssen  
+Topics: React, GraphQL, Tooling  
+https://twitter.com/thefubhy
+
 ## Ukraine 🇺🇦
+
+### Kyiv
+
+<img src="https://pbs.twimg.com/profile_images/918401186516160512/aTJN_ydF_400x400.jpg" height="70px" width="auto" align="left" />
+
+Gregory Shehet  
+Topics: FRP, MobX, CSS in JS, React  
+https://twitter.com/AGambit95
+
+<img src="https://pbs.twimg.com/profile_images/908763932747288576/ySuitABV_400x400.jpg" height="70px" width="auto" align="left" />
+
+Roman Liutikov  
+Topics: ClojureScript, React, Compilers  
+https://twitter.com/roman01la
+
 ## United Kingdom 🇬🇧
 
 ### Birmingham
@@ -533,20 +564,6 @@ https://twitter.com/Rumyra
 Joy Clark  
 Topics: Clojure, Web Apps, Security  
 https://twitter.com/iamjoyclark
-
-### Kyiv
-
-<img src="https://pbs.twimg.com/profile_images/918401186516160512/aTJN_ydF_400x400.jpg" height="70px" width="auto" align="left" />
-
-Gregory Shehet  
-Topics: FRP, MobX, CSS in JS, React  
-https://twitter.com/AGambit95
-
-<img src="https://pbs.twimg.com/profile_images/908763932747288576/ySuitABV_400x400.jpg" height="70px" width="auto" align="left" />
-
-Roman Liutikov  
-Topics: ClojureScript, React, Compilers  
-https://twitter.com/roman01la
 
 ### London
 
@@ -597,20 +614,6 @@ https://twitter.com/MicheleBertoli
 Phil Plückthun  
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
-
-### Zurich
-
-<img src="https://pbs.twimg.com/profile_images/772017431376175104/XvIsVuB4_400x400.jpg" height="70px" width="auto" align="left" />
-
-Martin Splitt  
-Topics: VR, Web Performance  
-https://twitter.com/g33konaut
-
-<img src="https://pbs.twimg.com/profile_images/737308641511002113/YB7CH5CE_400x400.jpg" height="70px" width="auto" align="left" />
-
-Sebastian Siemssen  
-Topics: React, GraphQL, Tooling  
-https://twitter.com/thefubhy
 
 # North America
 
