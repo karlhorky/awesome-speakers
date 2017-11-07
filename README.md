@@ -356,13 +356,6 @@ Topics: Web Components, Polymer, Progressive Web Apps
 https://twitter.com/granze
 
 ## Netherlands 🇳🇱
-## Poland 🇵🇱
-## Portugal 🇵🇹
-## Russia 🇷🇺
-## Serbia 🇷🇸
-## Spain 🇪🇸
-## Ukraine 🇺🇦
-## United Kingdom 🇬🇧
 
 ### Amsterdam
 
@@ -395,6 +388,22 @@ https://twitter.com/mweststrate
 Narendra Shetty  
 Topics: React, PWA  
 https://twitter.com/narendra_shetty
+
+### Zwolle
+
+<img src="https://pbs.twimg.com/profile_images/722165598579507205/l4QzAmu8_400x400.jpg" height="70px" width="auto" align="left" />
+
+Norbert de Langen  
+Topics: Component Libraries, React, Storybook, Open Source, Communities  
+https://twitter.com/NorbertdeLangen
+
+## Poland 🇵🇱
+## Portugal 🇵🇹
+## Russia 🇷🇺
+## Serbia 🇷🇸
+## Spain 🇪🇸
+## Ukraine 🇺🇦
+## United Kingdom 🇬🇧
 
 ### Belgrade
 
@@ -598,14 +607,6 @@ https://twitter.com/g33konaut
 Sebastian Siemssen  
 Topics: React, GraphQL, Tooling  
 https://twitter.com/thefubhy
-
-### Zwolle
-
-<img src="https://pbs.twimg.com/profile_images/722165598579507205/l4QzAmu8_400x400.jpg" height="70px" width="auto" align="left" />
-
-Norbert de Langen  
-Topics: Component Libraries, React, Storybook, Open Source, Communities  
-https://twitter.com/NorbertdeLangen
 
 # North America
 
