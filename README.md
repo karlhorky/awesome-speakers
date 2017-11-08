@@ -1,7 +1,7 @@
 # Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-> Awesome speakers in the programming community
+> Awesome speakers in the programming and design communities
 
 Hi, I'm Karl and I'd like to help make it more transparent and easy to find speakers for meetups and conferences. Below I've started to compile a list of speakers that I'm aware of and the topics that they have spoken about (in parentheses are future topics of interest to the speaker).
 
@@ -69,6 +69,16 @@ Chen Hui Jing
 Topics: CSS  
 https://twitter.com/hj_chen
 
+## Turkey 🇹🇷
+
+### Istanbul
+
+<img src="https://pbs.twimg.com/profile_images/908054663483838464/KFIQs9d3_400x400.jpg" height="70px" width="auto" align="left" />
+
+Lu Yu  
+Topics: Graphic Design, Typography, Branding, User Experience  
+https://twitter.com/Lugotype
+
 # Australia
 
 ## Australia 🇦🇺
@@ -81,17 +91,17 @@ Glen Maddern
 Topics: CSS, Styled Components, React, JavaScript  
 https://twitter.com/glenmaddern
 
-<img src="https://pbs.twimg.com/profile_images/754886061872979968/BzaOWhs1_400x400.jpg" height="70px" width="auto" align="left" />
-
-Mark Dalgleish  
-Topics: Design Systems, Web Design, DesOps  
-https://twitter.com/markdalgleish
-
 <img src="https://pbs.twimg.com/profile_images/898083700818169856/prj-so7C_400x400.jpg" height="70px" width="auto" align="left" />
 
 Karolina Szczur  
 Topics: CSS, HTML, Web, Inclusivity, Diversity  
 https://twitter.com/fox
+
+<img src="https://pbs.twimg.com/profile_images/754886061872979968/BzaOWhs1_400x400.jpg" height="70px" width="auto" align="left" />
+
+Mark Dalgleish  
+Topics: Design Systems, Web Design  
+https://twitter.com/markdalgleish
 
 <img src="https://pbs.twimg.com/profile_images/789522857936220160/6OIm0gj0_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -587,16 +597,6 @@ Sebastian Siemssen
 Topics: React, GraphQL, Tooling  
 https://twitter.com/thefubhy
 
-## Turkey
-
-### Istanbul
-
-<img src="https://pbs.twimg.com/profile_images/908054663483838464/KFIQs9d3_400x400.jpg" height="70px" width="auto" align="left" />
-
-Lu Yu  
-Topics: Graphic Design, Typography, Branding, UX  
-https://twitter.com/Lugotype
-
 ## Ukraine 🇺🇦
 
 ### Kyiv
@@ -645,6 +645,14 @@ Ruth John
 Topics: CSS Animations  
 https://twitter.com/Rumyra
 
+### Leighton Buzzard
+
+<img src="https://pbs.twimg.com/profile_images/528613343381032960/aFnqmqcK_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Caroline Jarrett  
+Topics: Forms Usability, User Research  
+https://twitter.com/cjforms
+
 ### London
 
 <img src="https://pbs.twimg.com/profile_images/925719098042052610/y-llZ0AF_400x400.jpg" height="70px" width="auto" align="left" />
@@ -655,7 +663,7 @@ https://twitter.com/lady_ada_king
 
 <img src="https://pbs.twimg.com/profile_images/865146773244858369/YxOo7hIC_400x400.jpg" height="70px" width="auto" align="left" />
 
-Alessandro Cinelli 'Cirpo'  
+Alessandro Cinelli  
 Topics: JavaScript  
 https://twitter.com/cirpo
 
@@ -686,14 +694,8 @@ https://twitter.com/lithinn
 <img src="https://avatars0.githubusercontent.com/u/17880?s=400&v=4" height="70px" width="auto" align="left" />
 
 Bodil Stokke  
-Topics: Programming, Functional  
-https://github.com/bodil
-
-<img src="https://pbs.twimg.com/profile_images/528613343381032960/aFnqmqcK_400x400.jpeg" height="70px" width="auto" align="left" />
-
-Caroline Jarrett  
-Topics: forms usability, user research  
-https://twitter.com/cjforms
+Topics: Programming, Functional Programming  
+https://twitter.com/bodil
 
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -710,7 +712,7 @@ https://twitter.com/dan_abramov
 <img src="https://pbs.twimg.com/profile_images/880760574501679105/i_iXmIbn_400x400.jpg" height="70px" width="auto" align="left" />
 
 Davide 'Folletto' Casali  
-Topics: Design, UX, Management, Leadership, Startup  
+Topics: Design, User Experience, Management, Leadership, Startup  
 https://twitter.com/Folletto
 
 <img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" />
@@ -779,14 +781,6 @@ Lea Verou
 Topics: CSS, HTML  
 https://twitter.com/leaverou
 
-### Brooklyn
-
-<img src="https://pbs.twimg.com/profile_images/62572418/me_400x400.jpg" height="70px" width="auto" align="left" />
-
-David Nolen  
-Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science  
-https://twitter.com/swannodette
-
 ### Carlsbad
 
 <img src="https://pbs.twimg.com/profile_images/902276500107362304/vju-WV1i_400x400.jpg" height="70px" width="auto" align="left" />
@@ -843,6 +837,12 @@ https://twitter.com/thegreengreek
 
 ### New York
 
+<img src="https://pbs.twimg.com/profile_images/62572418/me_400x400.jpg" height="70px" width="auto" align="left" />
+
+David Nolen  
+Topics: Clojure, ClojureScript, Om, Functional Programming, Computer Science  
+https://twitter.com/swannodette
+
 <img src="https://pbs.twimg.com/profile_images/412413402749743107/jOnza-Eg_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Diana Mounter  
@@ -852,7 +852,7 @@ https://twitter.com/broccolini
 <img src="https://pbs.twimg.com/profile_images/849322587909967874/pOMAg5VX_400x400.jpg" height="70px" width="auto" align="left" />
 
 Lara Hogan  
-Topics: design, performance, engineering management, public speaking  
+Topics: Design, Performance, Engineering Management, Public Speaking  
 https://twitter.com/lara_hogan
 
 <img src="https://pbs.twimg.com/profile_images/896883376954757120/gXtYevrr_400x400.jpg" height="70px" width="auto" align="left" />
@@ -895,10 +895,10 @@ https://twitter.com/rtfeldman
 
 ### Pittsburgh
 
-<img src="http://artifactconf.com/img/speakers/brad-frost.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/907811115459125248/i8AzK6gR_400x400.jpg" height="70px" width="auto" align="left" />
 
 Brad Frost  
-Topics: web design, atomic design, web development  
+Topics: Web Design, Atomic Design, Web Development  
 https://twitter.com/brad_frost
 
 <img src="https://pbs.twimg.com/profile_images/497876628651782146/hrCHz_ym_400x400.jpeg" height="70px" width="auto" align="left" />
@@ -907,12 +907,6 @@ Lin Clark
 Topics: React, WebAssembly, Browsers Internals  
 https://twitter.com/linclark
 
-<img src="https://pbs.twimg.com/profile_images/684146011564933120/eUohVcRB_400x400.jpg" height="70px" width="auto" align="left" />
-
-Micah Godbolt  
-Topics: Front-End Architecture, CSS, Design Systems  
-https://twitter.com/micahgodbolt
-
 ### Portland
 
 <img src="https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_400x400.jpg" height="70px" width="auto" align="left" />
@@ -920,6 +914,12 @@ https://twitter.com/micahgodbolt
 Kyle Shevlin  
 Topics: React, Redux, JavaScript  
 https://twitter.com/kyleshevlin
+
+<img src="https://pbs.twimg.com/profile_images/684146011564933120/eUohVcRB_400x400.jpg" height="70px" width="auto" align="left" />
+
+Micah Godbolt  
+Topics: Front-End Architecture, CSS, Design Systems  
+https://twitter.com/micahgodboltk
 
 ### Salt Lake City
 
@@ -970,8 +970,8 @@ https://twitter.com/jhusain
 <img src="https://pbs.twimg.com/profile_images/922512926711332864/qAY-xrsm_400x400.jpg" height="70px" width="auto" align="left" />
 
 Jon Gold  
-Topics: Design, Design Systems, DesOps, React, AI  
-https://twitter.com/standardista
+Topics: Design, Design Systems, React, Artificial Intelligence  
+https://twitter.com/jongold
 
 <img src="https://avatars1.githubusercontent.com/u/12424987?s=460&v=4" height="70px" width="auto" align="left" />
 
