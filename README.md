@@ -775,6 +775,12 @@ Phil Plückthun
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
+<img src="https://pbs.twimg.com/profile_images/684731880923639808/4nBLZm9n_400x400.jpg" height="70px" width="auto" align="left" />
+
+Inayaili de León  
+Topics: Design Systems, Responsive Web Design, Design Leadership, UI  
+https://twitter.com/yaili
+
 ## Norwich
 
 <img src="https://pbs.twimg.com/profile_images/915986359529111552/G2I0qF5G_400x400.jpg" height="70px" width="auto" align="left" />
