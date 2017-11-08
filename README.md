@@ -975,7 +975,7 @@ https://twitter.com/kyleshevlin
 
 Micah Godbolt  
 Topics: Front-End Architecture, CSS, Design Systems  
-https://twitter.com/micahgodboltk
+https://twitter.com/micahgodbolt
 
 ### Salt Lake City
 
