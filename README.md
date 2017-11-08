@@ -96,7 +96,7 @@ https://twitter.com/fox
 <img src="https://pbs.twimg.com/profile_images/789522857936220160/6OIm0gj0_400x400.jpg" height="70px" width="auto" align="left" />
 
 Phil Nash  
-Topics: JavaScript, Web Development, PWA  
+Topics: JavaScript, Web Development, Progressive Web Apps  
 https://twitter.com/philnash
 
 # Europe
@@ -340,7 +340,7 @@ https://twitter.com/iamjoyclark
 <img src="https://2016.jsconf.is/71c6f10e201cfb70e77c61a513d62729.jpg" height="70px" width="auto" align="left" />
 
 Vitaly Friedman  
-Topics: Web Design, Web Development, Responsive   
+Topics: Web Design, Web Development, Responsive Web Design  
 https://twitter.com/smashingmag
 
 ### Hamburg
@@ -364,24 +364,6 @@ https://twitter.com/PalmaSwell
 Robin Frischmann  
 Topics: CSS, CSS in JS, React  
 https://twitter.com/rofrischmann
-
-<img src="https://pbs.twimg.com/profile_images/865146773244858369/YxOo7hIC_400x400.jpg" height="70px" width="auto" align="left" />
-
-Alessandro Cinelli 'Cirpo'  
-Topics: JavaScript  
-https://twitter.com/cirpo
-
-<img src="https://pbs.twimg.com/profile_images/920632138013298689/TdWXZUfN_400x400.jpg" height="70px" width="auto" align="left" />
-
-Alexandra Deschamps-Sonsino  
-Topics: IoT, smart homes, connected devices  
-https://twitter.com/iotwatch
-
-<img src="https://pbs.twimg.com/profile_images/518444104854679552/aU3S4Wji_400x400.png" height="70px" width="auto" align="left" />
-
-Alla Kholmatova  
-Topics: Design Systems  
-https://twitter.com/craftui
 
 ### Munich
 
@@ -671,22 +653,22 @@ Ada Rose Cannon
 Topics: HTML, CSS, JavaScript, WebVR, Web Technologies, Progressive Web Apps  
 https://twitter.com/lady_ada_king
 
-<img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" />  
- 
-Alex Lobera  
-Topics: JavaScript, React, Redux, GraphQL  
-https://twitter.com/alex_lobera  
-
 <img src="https://pbs.twimg.com/profile_images/865146773244858369/YxOo7hIC_400x400.jpg" height="70px" width="auto" align="left" />
 
 Alessandro Cinelli 'Cirpo'  
 Topics: JavaScript  
 https://twitter.com/cirpo
 
+<img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" />  
+ 
+Alex Lobera  
+Topics: JavaScript, React, Redux, GraphQL  
+https://twitter.com/alex_lobera  
+
 <img src="https://pbs.twimg.com/profile_images/920632138013298689/TdWXZUfN_400x400.jpg" height="70px" width="auto" align="left" />
 
 Alexandra Deschamps-Sonsino  
-Topics: IoT, smart homes, connected devices  
+Topics: Internet of Things, Smart Homes, Connected Devices  
 https://twitter.com/iotwatch
 
 <img src="https://pbs.twimg.com/profile_images/518444104854679552/aU3S4Wji_400x400.png" height="70px" width="auto" align="left" />
