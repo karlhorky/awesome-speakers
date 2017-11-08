@@ -59,15 +59,37 @@ Arun Michael Dsouza
 Topics: webpack, React, ES6, Tooling, CSS  
 https://twitter.com/amdsouza92
 
+## Lebanon 🇱🇧
+
+### Tyre
+
+<img src="https://pbs.twimg.com/profile_images/903537944320987136/wB28L8qd_400x400.jpg" height="70px" width="auto" align="left" />
+
+Sara Soueidan  
+Topics: Animations, CSS, SVG  
+https://twitter.com/sarasoueidan
+
 ## Singapore 🇸🇬
 
 ### Singapore
+
+<img src="https://pbs.twimg.com/profile_images/535685345472286720/9gjiNZiF_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Aysha Anggraini  
+Topics: CSS, Animations  
+https://twitter.com/renettarenula
 
 <img src="https://pbs.twimg.com/profile_images/917359648524558336/Zu2sC6Jk_400x400.jpg" height="70px" width="auto" align="left" />
 
 Chen Hui Jing  
 Topics: CSS  
 https://twitter.com/hj_chen
+
+<img src="https://pbs.twimg.com/profile_images/791843247312154625/UsLdWIIj_400x400.jpg" height="70px" width="auto" align="left" />
+
+Zell Liew  
+Topics: CSS, JavaScript  
+https://twitter.com/zellwk
 
 # Australia
 
@@ -279,6 +301,12 @@ https://twitter.com/Jhnnns
 
 ### Berlin
 
+<img src="https://pbs.twimg.com/profile_images/608674513241427968/ycianjI2_400x400.jpg" height="70px" width="auto" align="left" />
+
+Ally Long  
+Topics: CSS, Performance,  
+https://twitter.com/allyelle
+
 <img src="https://pbs.twimg.com/profile_images/770970370409201664/NtuKnExn_400x400.jpg" height="70px" width="auto" align="left" />
 
 Artem Sapegin  
@@ -288,7 +316,7 @@ https://twitter.com/iamsapegin
 <img src="https://pbs.twimg.com/profile_images/894641577557192704/ghN7wHa-_400x400.jpg" height="70px" width="auto" align="left" />
 
 Charlie Owen  
-Topics: CSS, Accessibility    
+Topics: CSS, Accessibility  
 https://twitter.com/sonniesedge
 
 <img src="https://pbs.twimg.com/profile_images/881401440098557952/HZzFErcN_400x400.jpg" height="70px" width="auto" align="left" />
@@ -635,6 +663,12 @@ https://twitter.com/paulrobertlloyd
 
 ### Bristol
 
+<img src="https://pbs.twimg.com/profile_images/781380559947915265/wrjtv_jp_400x400.jpg" height="70px" width="auto" align="left" />
+
+Rachel Andrew  
+Topics: CSS  
+https://twitter.com/rachelandrew
+
 <img src="https://pbs.twimg.com/profile_images/820304800478658562/V20lAtva_400x400.jpg" height="70px" width="auto" align="left" />
 
 Ruth John  
@@ -663,8 +697,8 @@ Alessandro Cinelli
 Topics: JavaScript  
 https://twitter.com/cirpo
 
-<img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" />  
- 
+<img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" />
+
 Alex Lobera  
 Topics: JavaScript, React, Redux, GraphQL  
 https://twitter.com/alex_lobera  
@@ -680,6 +714,12 @@ https://twitter.com/iotwatch
 Alla Kholmatova  
 Topics: Design Systems  
 https://twitter.com/craftui
+
+<img src="https://pbs.twimg.com/profile_images/923316049050783744/HQTS2EsC_400x400.jpg" height="70px" width="auto" align="left" />
+
+Andrew Betts  
+Topics: Networks, Performance, Web  
+https://twitter.com/triblondon
 
 <img src="https://pbs.twimg.com/profile_images/829282867020722177/el35E312_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -734,6 +774,14 @@ https://twitter.com/MicheleBertoli
 Phil Plückthun  
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
+
+## Norwich
+
+<img src="https://pbs.twimg.com/profile_images/915986359529111552/G2I0qF5G_400x400.jpg" height="70px" width="auto" align="left" />
+
+Heydon Pickering  
+Topics: Accessibility, Performance, Web  
+https://twitter.com/heydonworks
 
 # North America
 
@@ -844,6 +892,12 @@ https://twitter.com/swannodette
 Diana Mounter  
 Topics: Design Systems, CSS, Product Design  
 https://twitter.com/broccolini
+
+<img src="https://pbs.twimg.com/profile_images/765902179660161024/zCC2yj_R_400x400.jpg" height="70px" width="auto" align="left" />
+
+Jen Simmons  
+Topics: CSS, HTML, Web  
+https://twitter.com/jensimmons
 
 <img src="https://pbs.twimg.com/profile_images/849322587909967874/pOMAg5VX_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -1016,6 +1070,18 @@ https://twitter.com/stefsull
 Tracy Lee  
 Topics: Reactive Programming, Angular, Ember.js  
 https://twitter.com/ladyleet
+
+# South America
+
+## Argentina 🇦🇷
+
+### Buenos Aires
+
+<img src="https://pbs.twimg.com/profile_images/540127281490845697/_2zxxUOt_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Evangelina Ferreira   
+Topics: CSS, Animations   
+https://twitter.com/evaferreira92
 
 # License
 
