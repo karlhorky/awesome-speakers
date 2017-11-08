@@ -61,13 +61,17 @@ https://twitter.com/amdsouza92
 
 ## Lebanon 🇱🇧
 
+### Tyre
+
 <img src="https://pbs.twimg.com/profile_images/903537944320987136/wB28L8qd_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sara Soueidan  
-Topics: Animations, CSS, Front-end, SVG  
+Topics: Animations, CSS, SVG  
 https://twitter.com/sarasoueidan
 
 ## Singapore 🇸🇬
+
+### Singapore
 
 <img src="https://pbs.twimg.com/profile_images/535685345472286720/9gjiNZiF_400x400.jpeg" height="70px" width="auto" align="left" />
 
@@ -84,7 +88,7 @@ https://twitter.com/hj_chen
 <img src="https://pbs.twimg.com/profile_images/791843247312154625/UsLdWIIj_400x400.jpg" height="70px" width="auto" align="left" />
 
 Zell Liew  
-Topics: CSS, Javascript  
+Topics: CSS, JavaScript  
 https://twitter.com/zellwk
 
 # Australia
@@ -367,7 +371,7 @@ https://twitter.com/iamjoyclark
 
 ### Freiburg
 
-<img src="https://pbs.twimg.com/profile_images/926378337144107009/tyI51Yws_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://2016.jsconf.is/71c6f10e201cfb70e77c61a513d62729.jpg" height="70px" width="auto" align="left" />
 
 Vitaly Friedman  
 Topics: Web Design, Web Development, Responsive Web Design  
@@ -489,7 +493,6 @@ https://twitter.com/NorbertdeLangen
 
 ### Gdańsk
 
-
 <img src="https://pbs.twimg.com/profile_images/910825228175069184/WC_iMm7-_400x400.jpg" height="70px" width="auto" align="left" />
 
 Kasia Jastrzębska  
@@ -582,7 +585,7 @@ https://twitter.com/simalexan
 
 Slobodan Stojanović  
 Topics: Serverless, Offline Web, Chat Bots  
-https://twitter.com/slobodan_
+[https://twitter.com/slobodan_](https://twitter.com/slobodan_)
 
 ## Spain 🇪🇸
 
