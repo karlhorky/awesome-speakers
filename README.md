@@ -69,16 +69,6 @@ Chen Hui Jing
 Topics: CSS  
 https://twitter.com/hj_chen
 
-## Turkey 🇹🇷
-
-### Istanbul
-
-<img src="https://pbs.twimg.com/profile_images/908054663483838464/KFIQs9d3_400x400.jpg" height="70px" width="auto" align="left" />
-
-Lu Yu  
-Topics: Graphic Design, Typography, Branding, User Experience  
-https://twitter.com/Lugotype
-
 # Australia
 
 ## Australia 🇦🇺
@@ -313,10 +303,16 @@ Karl Horky
 Topics: Tooling, Standards, (OSS), (Psychology)  
 https://twitter.com/karlhorky
 
+<img src="https://pbs.twimg.com/profile_images/908054663483838464/KFIQs9d3_400x400.jpg" height="70px" width="auto" align="left" />
+
+Lu Yu  
+Topics: Graphic Design, Typography, Branding, User Experience  
+https://twitter.com/Lugotype
+
 <img src="https://pbs.twimg.com/profile_images/2687722789/0146561e2d575b3e7104e7e94be62b1c_400x400.jpeg" height="70px" width="auto" align="left" />
 
 Natalie Pistunovich  
-Topics: Mobile Apps, Golang  
+Topics: Mobile Apps, Go  
 https://twitter.com/nataliepis
 
 <img src="https://pbs.twimg.com/profile_images/754012456368963586/DOwDLy2k_400x400.jpg" height="70px" width="auto" align="left" />
