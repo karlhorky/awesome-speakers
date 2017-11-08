@@ -146,7 +146,7 @@ https://twitter.com/lisi_linhart
 <img src="https://pbs.twimg.com/profile_images/1492139238/profile_pic.jpg_400x400.jpg" height="70px" width="auto" align="left" />
 
 Ali Sharif  
-Topics: Functional Programming, React  
+Topics: Functional Programming, Agile, Product Development  
 https://twitter.com/sharifsbeat
 
 <img src="https://pbs.twimg.com/profile_images/678903331176214528/TQTdqGwD_400x400.jpg" height="70px" width="auto" align="left" />
