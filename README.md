@@ -1101,6 +1101,17 @@ Evangelina Ferreira
 Topics: CSS, Animations   
 https://twitter.com/evaferreira92
 
+## Brazil
+
+### Curitiba
+
+<img src="https://pbs.twimg.com/profile_images/824222313470169088/Te_e1i1f_400x400.jpg" height="70px" width="auto" align="left" />
+
+Fernando Daciuk   
+Topics: React, Javascript   
+https://twitter.com/fdaciuk
+
+
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
