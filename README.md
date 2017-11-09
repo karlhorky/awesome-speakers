@@ -433,14 +433,14 @@ https://twitter.com/serifritsch
 
 <img src="https://pbs.twimg.com/profile_images/668125552474062848/pTCvcmC3_400x400.jpg" height="70px" width="auto" align="left" />
 
-Uri Shaked
-Topics: Web Bluetooth, Web VR, Angular, IoT with JavaScript
+Uri Shaked  
+Topics: Web Bluetooth, Web VR, Angular, Internet of Things with JavaScript  
 https://twitter.com/UriShaked
 
 <img src="https://pbs.twimg.com/profile_images/846618003085111296/mi84SWuu_400x400.jpg" height="70px" width="auto" align="left" />
 
-Nir Kaufman
-Topics: Angular, Firebase, Redux and friends :)
+Nir Kaufman  
+Topics: Angular, Firebase, Redux  
 https://twitter.com/nirkaufman
 
 <img src="https://pbs.twimg.com/profile_images/736999006220455938/oczRgifS_400x400.jpg" height="70px" width="auto" align="left" />
