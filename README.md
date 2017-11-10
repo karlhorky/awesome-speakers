@@ -615,6 +615,14 @@ Topics: Serverless, Offline Web, Chat Bots
 
 ## Spain 🇪🇸
 
+### Alicante
+
+<img src="https://pbs.twimg.com/profile_images/802102453541933056/wrV0Mml2_400x400.jpg" height="70px" width="auto" align="left" />
+
+Flavio Corpa
+Topics: JavaScript, Functional Programming
+https://twitter.com/flaviocorpa
+
 ### Córdoba
 
 <img src="https://pbs.twimg.com/profile_images/916227643913244672/uR9VcF3B_400x400.jpg" height="70px" width="auto" align="left" />
