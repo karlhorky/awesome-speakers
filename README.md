@@ -1115,7 +1115,7 @@ https://twitter.com/fdaciuk
 
 <img src="https://pbs.twimg.com/profile_images/880632277188972544/iHbGo43-_400x400.jpg" height="70px" width="auto" align="left" />
 
-Beto Muniz
+Beto Muniz    
 Topics: React, Javascript, PWA, Polymer, Community   
 https://twitter.com/obetomuniz
 
