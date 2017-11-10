@@ -711,12 +711,6 @@ Ada Rose Cannon
 Topics: HTML, CSS, JavaScript, WebVR, Web Technologies, Progressive Web Apps  
 https://twitter.com/lady_ada_king
 
-<img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" />  
-
-Alex Lobera  
-Topics: JavaScript, React, Redux, GraphQL  
-https://twitter.com/alex_lobera  
-
 <img src="https://pbs.twimg.com/profile_images/865146773244858369/YxOo7hIC_400x400.jpg" height="70px" width="auto" align="left" />
 
 Alessandro Cinelli  
