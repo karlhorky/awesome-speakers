@@ -925,6 +925,12 @@ Diana Mounter
 Topics: Design Systems, CSS, Product Design  
 https://twitter.com/broccolini
 
+<img src="https://pbs.twimg.com/profile_images/432754023385403393/6lc-7Xqg_400x400.jpeg" height="70px" width="auto" align="left" />
+
+Henry Zhu  
+Topics: Open Source, Babel  
+https://twitter.com/left_pad
+
 <img src="https://pbs.twimg.com/profile_images/765902179660161024/zCC2yj_R_400x400.jpg" height="70px" width="auto" align="left" />
 
 Jen Simmons  
