@@ -1103,21 +1103,21 @@ https://twitter.com/evaferreira92
 
 ## Brazil 🇧🇷
 
-### Curitiba
-
-<img src="https://pbs.twimg.com/profile_images/824222313470169088/Te_e1i1f_400x400.jpg" height="70px" width="auto" align="left" />
-
-Fernando Daciuk   
-Topics: React, Javascript   
-https://twitter.com/fdaciuk
-
 ### Belo Horizonte 
 
 <img src="https://pbs.twimg.com/profile_images/880632277188972544/iHbGo43-_400x400.jpg" height="70px" width="auto" align="left" />
 
-Beto Muniz    
-Topics: React, Javascript, PWA, Polymer, Community   
+Beto Muniz  
+Topics: React, JavaScript, PWA, Polymer, Community  
 https://twitter.com/obetomuniz
+
+### Curitiba
+
+<img src="https://pbs.twimg.com/profile_images/824222313470169088/Te_e1i1f_400x400.jpg" height="70px" width="auto" align="left" />
+
+Fernando Daciuk  
+Topics: React, JavaScript  
+https://twitter.com/fdaciuk
 
 # License
 
