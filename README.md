@@ -597,6 +597,12 @@ Sergey Rubanov
 Topics: Standards, Web Assembly  
 https://twitter.com/chicoxyzzy
 
+<img src="http://fpconf.ru/images/sobolev.jpg" height="70px" width="auto" align="left" />
+
+Nikita Sobolev  
+Topics: Elixir, Python  
+https://twitter.com/elixir_lang_mos
+
 ## Serbia 🇷🇸
 
 ### Belgrade
