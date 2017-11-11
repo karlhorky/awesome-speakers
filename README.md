@@ -307,6 +307,16 @@ Sven Sauleau
 Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science    
 https://twitter.com/svensauleau
 
+
+### Paris
+
+<img src="https://pbs.twimg.com/profile_images/895370358370557954/JKnsdgkH_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Wassim Chegham  
+Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things  
+https://twitter.com/manekinekko
+
+
 ## Germany 🇩🇪
 
 ### Augsburg
