@@ -448,11 +448,11 @@ https://twitter.com/PalmaSwell
 
 ### Höchst (Odenwald)
 
-<img src="https://pbs.twimg.com/profile_images/814107344388890624/_9-miAWs_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/814107344388890624/_9-miAWs_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
-Tim Pietrusky
-Topics: JS Art, JS Music, Javascript
-https://twitter.com/TimPietrusky
+Tim Pietrusky  
+Topics: JS Art, JS Music, Javascript  
+https://twitter.com/TimPietrusky  
 
 ### Karlsruhe
 
