@@ -6,7 +6,14 @@
 Hi, I'm Karl and I'd like to help make it more transparent and easy to find speakers for meetups and conferences. Below I've started to compile a list of speakers that I'm aware of and the topics that they have spoken about (in parentheses are future topics of interest to the speaker).
 
 Please add to the list and help make the community better connected and richer.
+# Africa
+## Nigeria 🇳🇬
+<img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" />  
 
+Ire Aderinokun  
+Topics: PWA, CSS, Standards  
+https://twitter.com/ireaderinokun   
+ 
 # Asia
 
 ## India 🇮🇳
@@ -575,7 +582,7 @@ https://twitter.com/daviddias
 
 ### Porto
 
-<img src="https://pbs.twimg.com/profile_images/921441266042318848/aGGUBJ7S_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/926881997863211008/WMzMYyCe_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sara Vieira  
 Topics: Styleguides, React, CSS  
@@ -596,6 +603,12 @@ https://twitter.com/nikitonsky
 Sergey Rubanov  
 Topics: Standards, Web Assembly  
 https://twitter.com/chicoxyzzy
+
+<img src="http://fpconf.ru/images/sobolev.jpg" height="70px" width="auto" align="left" />
+
+Nikita Sobolev  
+Topics: Elixir, Python  
+https://twitter.com/elixir_lang_mos
 
 ## Serbia 🇷🇸
 
@@ -759,6 +772,12 @@ Bodil Stokke
 Topics: Programming, Functional Programming  
 https://twitter.com/bodil
 
+<img src="https://pbs.twimg.com/profile_images/780901614794178560/XcFiEOAH_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Chris Noring  
+Topics: JS, RXJS, Angular, React  
+https://twitter.com/chris_noring  
+
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" />
 
 Cristiano Rastelli  
@@ -800,6 +819,19 @@ https://twitter.com/MicheleBertoli
 Phil Plückthun  
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
+
+<img src="https://pbs.twimg.com/profile_images/848590650349989888/6-cAgkjO_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Sani Yusuf  
+Topics: Ionic, Angular, JS, PWA  
+https://twitter.com/saniyusuf  
+
+<img src="https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD_400x400.jpg" height="70px" width="auto" align="left" />  
+
+Sebastian Witalec  
+Topics: NativeScript, Angular, BOTS, JS  
+https://twitter.com/sebawita  
+
 
 <img src="https://pbs.twimg.com/profile_images/684731880923639808/4nBLZm9n_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -880,6 +912,14 @@ https://twitter.com/gigasquid
 Miriam Suzanne  
 Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
+
+### Midwest
+
+<img src="https://pbs.twimg.com/profile_images/873189682242367489/ereVA7Ub_400x400.jpg" height="70px" width="auto" align="left" />
+
+Levi Bostian  
+Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
+https://twitter.com/levibostian
 
 ### Nashville
 
