@@ -6,8 +6,11 @@
 Hi, I'm Karl and I'd like to help make it more transparent and easy to find speakers for meetups and conferences. Below I've started to compile a list of speakers that I'm aware of and the topics that they have spoken about (in parentheses are future topics of interest to the speaker).
 
 Please add to the list and help make the community better connected and richer.
+
 # Africa
+
 ## Nigeria 🇳🇬
+
 <img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Ire Aderinokun  
