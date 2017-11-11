@@ -422,23 +422,23 @@ https://twitter.com/smashingmag
 
 ### Hamburg
 
-<img src="https://avatars3.githubusercontent.com/u/1148334?s=460&v=4" height="70px" width="auto" align="left" alt="" />
+<img src="https://avatars3.githubusercontent.com/u/1148334?s=460&v=4" height="70px" width="auto" align="left" alt="" />  
 
-Gregor Adams
-Topics: Fractals, CSS, JavaScript, Web Animations
-https://codepen.io/pixelass/
+Gregor Adams  
+Topics: Fractals, CSS, JavaScript, Web Animations  
+https://codepen.io/pixelass/  
 
-<img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="auto" align="left" alt="" />
+<img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="auto" align="left" alt="" />  
 
-Mario Nebl
-Topics: JavaScript, Node, JS Architecture
-https://twitter.com/marionebl
+Mario Nebl  
+Topics: JavaScript, Node, JS Architecture  
+https://twitter.com/marionebl  
 
-<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
-Martin Kleppe  
-Topics: Weird JS  
-https://twitter.com/aemkei
+Martin Kleppe    
+Topics: Weird JS    
+https://twitter.com/aemkei  
 
 <img src="https://pbs.twimg.com/profile_images/530780279162429440/AeXURjRd_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
 
