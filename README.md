@@ -10,10 +10,10 @@ Please add to the list and help make the community better connected and richer.
 ## Nigeria 🇳🇬
 <img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" />  
 
-Ire Aderinokun
-Topics: PWA, CSS, Standards 
-https://twitter.com/ireaderinokun  
-
+Ire Aderinokun  
+Topics: PWA, CSS, Standards  
+https://twitter.com/ireaderinokun   
+ 
 # Asia
 
 ## India 🇮🇳
@@ -582,7 +582,7 @@ https://twitter.com/daviddias
 
 ### Porto
 
-<img src="https://pbs.twimg.com/profile_images/921441266042318848/aGGUBJ7S_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/926881997863211008/WMzMYyCe_400x400.jpg" height="70px" width="auto" align="left" />
 
 Sara Vieira  
 Topics: Styleguides, React, CSS  
@@ -766,11 +766,11 @@ Bodil Stokke
 Topics: Programming, Functional Programming  
 https://twitter.com/bodil
 
-<img src="https://pbs.twimg.com/profile_images/780901614794178560/XcFiEOAH_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/780901614794178560/XcFiEOAH_400x400.jpg" height="70px" width="auto" align="left" />  
 
-Chris Noring
+Chris Noring  
 Topics: JS, RXJS, Angular, React  
-https://twitter.com/chris_noring
+https://twitter.com/chris_noring  
 
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" />
 
@@ -814,17 +814,17 @@ Phil Plückthun
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
-<img src="https://pbs.twimg.com/profile_images/848590650349989888/6-cAgkjO_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/848590650349989888/6-cAgkjO_400x400.jpg" height="70px" width="auto" align="left" />  
 
-Sani Yusuf
-Topics: Ionic, Angular, JS, PWA
-https://twitter.com/saniyusuf
+Sani Yusuf  
+Topics: Ionic, Angular, JS, PWA  
+https://twitter.com/saniyusuf  
 
-<img src="https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD_400x400.jpg" height="70px" width="auto" align="left" />  
 
-Sebastian Witalec
-Topics: NativeScript, Angular, BOTS, JS
-https://twitter.com/sebawita
+Sebastian Witalec  
+Topics: NativeScript, Angular, BOTS, JS  
+https://twitter.com/sebawita  
 
 
 <img src="https://pbs.twimg.com/profile_images/684731880923639808/4nBLZm9n_400x400.jpg" height="70px" width="auto" align="left" />
