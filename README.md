@@ -422,6 +422,18 @@ https://twitter.com/smashingmag
 
 ### Hamburg
 
+<img src="https://avatars3.githubusercontent.com/u/1148334?s=460&v=4" height="70px" width="auto" align="left" alt="" />
+
+Gregor Adams
+Topics: Fractals, CSS, JavaScript, Web Animations
+https://codepen.io/pixelass/
+
+<img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="auto" align="left" alt="" />
+
+Mario Nebl
+Topics: JavaScript, Node, JS Architecture
+https://twitter.com/marionebl
+
 <img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Martin Kleppe  
@@ -433,6 +445,14 @@ https://twitter.com/aemkei
 Mauricio Palma  
 Topics: CSS, JavaScript  
 https://twitter.com/PalmaSwell
+
+### Höchst (Odenwald)
+
+<img src="https://pbs.twimg.com/profile_images/814107344388890624/_9-miAWs_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Tim Pietrusky
+Topics: JS Art, JS Music, Javascript
+https://twitter.com/TimPietrusky
 
 ### Karlsruhe
 
