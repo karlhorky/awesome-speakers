@@ -9,7 +9,7 @@ Our suggestions for adding new speakers:
 
 Format ([example pull request](https://github.com/karlhorky/awesome-speakers/pull/35/files)):
 
-* An image (Twitter profile picture is best)
+* An image (Twitter profile picture is best) - remember to add the alt tag!
 * Line 1: Name of the speaker
 * Line 2: Topics they talk about, capitalized (future topics in parentheses)
 * Line 3: Contact link (Twitter preferred)
