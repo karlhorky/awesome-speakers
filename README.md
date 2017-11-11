@@ -907,6 +907,14 @@ Miriam Suzanne
 Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
 
+### Midwest
+
+<img src="https://pbs.twimg.com/profile_images/873189682242367489/ereVA7Ub_400x400.jpg" height="70px" width="auto" align="left" />
+
+Levi Bostian  
+Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
+https://twitter.com/levibostian
+
 ### Nashville
 
 <img src="https://pbs.twimg.com/profile_images/899001646679814145/4TU9HfO-_400x400.jpg" height="70px" width="auto" align="left" />
