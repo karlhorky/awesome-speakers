@@ -17,7 +17,22 @@ Please add to the list and help make the community better connected and richer.
 
 Ire Aderinokun  
 Topics: PWA, CSS, Standards  
-https://twitter.com/ireaderinokun   
+https://twitter.com/ireaderinokun  
+
+
+<img src="https://pbs.twimg.com/profile_images/725313461765427204/2Od92RM7_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Christian Nwamba  
+Topics: JavaScript, React, Vue, Angular, PWA, CSS, Standards  
+https://twitter.com/codebeast 
+
+
+<img src="https://pbs.twimg.com/profile_images/914668950847463424/vmJGuP5k_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Otemuyiwa Prosper   
+Topics: JavaScript, React, Vue, Angular, PWA, PHP, Laravel  
+https://twitter.com/unicodeveloper    
+
  
 # Asia
 
