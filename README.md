@@ -702,6 +702,12 @@ https://twitter.com/paulrobertlloyd
 
 ### Bristol
 
+<img src="http://openwebcamp.com/wp-content/uploads/2015/03/leonie_watson.jpg" height="70px" width="auto" align="left" alt="" />
+
+Léonie Watson  
+Topics: Accessibility, Web Standards, Screen Readers  
+https://twitter.com/LeonieWatson
+
 <img src="https://pbs.twimg.com/profile_images/781380559947915265/wrjtv_jp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Rachel Andrew  
