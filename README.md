@@ -25,7 +25,17 @@ https://twitter.com/ireaderinokun
 
 Christian Nwamba  
 Topics: JavaScript, React, Vue, Angular, PWA, CSS, Standards  
-https://twitter.com/codebeast   
+https://twitter.com/codebeast 
+
+
+### Lagos
+
+<img src="https://pbs.twimg.com/profile_images/914668950847463424/vmJGuP5k_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Otemuyiwa Prosper  
+Topics: JavaScript, React, Vue, Angular, PWA, PHP, Laravel 
+https://twitter.com/unicodeveloper   
+
  
 # Asia
 
