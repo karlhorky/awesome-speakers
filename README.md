@@ -233,7 +233,7 @@ Patrick Stapfer
 Topics: ReasonML, Static Typing, Flow  
 https://twitter.com/ryyppy
 
-<img src="https://pbs.twimg.com/profile_images/868930803425828864/1TWl571x_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/927559461522337792/QcqkJkiq_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Peter Ferak  
 Topics: Functional Programming, Computer Science  
