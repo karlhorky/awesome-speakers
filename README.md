@@ -617,11 +617,11 @@ Topics: Serverless, Offline Web, Chat Bots
 
 ### Alicante
 
-<img src="https://pbs.twimg.com/profile_images/802102453541933056/wrV0Mml2_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/802102453541933056/wrV0Mml2_400x400.jpg" height="70px" width="auto" align="left" />  
 
 Flavio Corpa  
 Topics: JavaScript, Functional Programming  
-https://twitter.com/flaviocorpa
+https://twitter.com/flaviocorpa  
 
 ### Córdoba
 
