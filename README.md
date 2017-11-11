@@ -170,7 +170,7 @@ Juho Vepsäläinen
 Topics: 3D graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
-<img alt="Headshot of Manuel Matuzović" src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left"" alt="Headshot of Manuel Matuzović" />
+<img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left"" alt="Headshot of Manuel Matuzović" />
 Manuel Matuzović  
 Topics: CSS, Accesibility  
 https://twitter.com/mmatuzo  
