@@ -1264,6 +1264,14 @@ Fernando Daciuk
 Topics: React, JavaScript  
 https://twitter.com/fdaciuk
 
+### Rio de Janeiro
+
+<img src="https://pbs.twimg.com/profile_images/920383009089556480/lOGLUG1g_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Raphael Amorim  
+Topics: React, JavaScript, jQuery  
+https://twitter.com/raphamundi &bull; https://github.com/raphamorim
+
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
