@@ -10,6 +10,7 @@ Please add to the list and help make the community better connected and richer.
 # Africa
 
 ## Nigeria 🇳🇬
+
 ### Lagos
 
 <img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
