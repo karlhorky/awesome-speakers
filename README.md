@@ -10,7 +10,6 @@ Please add to the list and help make the community better connected and richer.
 # Africa
 
 ## Nigeria 🇳🇬
-
 ### Lagos
 
 <img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
@@ -660,7 +659,7 @@ Nikita Sobolev
 Topics: Elixir, Python  
 https://twitter.com/elixir_lang_mos
 
-### Saint-Petersburg
+### St. Petersburg
 
 <img src="https://avatars3.githubusercontent.com/u/105274" height="70px" width="auto" align="left" alt="" />
 
