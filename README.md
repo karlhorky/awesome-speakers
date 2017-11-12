@@ -665,8 +665,8 @@ https://twitter.com/elixir_lang_mos
 <img src="https://avatars3.githubusercontent.com/u/105274" height="70px" width="auto" align="left" alt="" />
 
 Vadim Makeev  
-Topics: HTML, CSS, web standards, a11y
-https://twitter.com/pepelsbey_
+Topics: HTML, CSS, web standards, a11y  
+https://twitter.com/pepelsbey_  
 
 
 ## Serbia 🇷🇸
