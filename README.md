@@ -589,6 +589,12 @@ Serena Fritsch
 Topics: JavaScript, Ember, Developer Workflows  
 https://twitter.com/serifritsch  
 
+<img src="https://pbs.twimg.com/profile_images/902439603013079040/NG_OdOwh_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Thomas Shaw  
+Topics: Docker, Jenkins, Devops  
+https://twitter.com/tomwillfixit  
+
 <img src="https://pbs.twimg.com/profile_images/916668572683948032/BaceJEHt_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Yevgeniy Brikman  
