@@ -666,7 +666,7 @@ https://twitter.com/elixir_lang_mos
 
 Vadim Makeev  
 Topics: HTML, CSS, web standards, a11y  
-https://twitter.com/pepelsbey_  
+[https://twitter.com/pepelsbey_](https://twitter.com/pepelsbey_)
 
 
 ## Serbia 🇷🇸
