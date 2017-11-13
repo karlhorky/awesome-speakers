@@ -789,7 +789,7 @@ https://twitter.com/rachelandrew
 <img src="https://pbs.twimg.com/profile_images/820304800478658562/V20lAtva_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ruth John  
-Topics: CSS Animations  
+Topics: Cutting Edge Browser Tech, Web Audio, Web MIDI  
 https://twitter.com/Rumyra
 
 ### Leighton Buzzard
