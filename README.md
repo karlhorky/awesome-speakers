@@ -397,6 +397,12 @@ Robin Pokorny
 Topics: Jest, React, AMP, (Elm)  
 https://twitter.com/robinpokorny
 
+<img src="https://pbs.twimg.com/profile_images/920271303537545216/xsaVf0dh_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Srushtika Neelakantam  
+Topics: WebVR, A-Frame, Realtime Web, JavaScript Frameworks  
+https://twitter.com/Srushtika
+
 <img src="https://pbs.twimg.com/profile_images/889222391007719424/VZb5oY8a_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Yoshua Wuyts  
