@@ -1253,7 +1253,7 @@ https://twitter.com/evaferreira92
 <img src="https://pbs.twimg.com/profile_images/880632277188972544/iHbGo43-_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Beto Muniz  
-Topics: React, JavaScript, PWA, Polymer, Community  
+Topics: React, JavaScript, Progressive Web Apps, Polymer, Community  
 https://twitter.com/obetomuniz
 
 ### Curitiba
