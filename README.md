@@ -397,18 +397,17 @@ Robin Pokorny
 Topics: Jest, React, AMP, (Elm)  
 https://twitter.com/robinpokorny
 
+<img src="https://www.flickr.com/gp/136974235@N05/1pXQGt" height="70px" width="auto" align="left" alt="" />
+
+Srushtika Neelakantam  
+Topics: WebVR, A-Frame, Realtime Web, JavaScript Frameworks  
+https://twitter.com/Srushtika
+
 <img src="https://pbs.twimg.com/profile_images/889222391007719424/VZb5oY8a_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Yoshua Wuyts  
 Topics: Frameworks, Simplicity, Standards, Libraries  
 https://twitter.com/yoshuawuyts
-
-<img src="https://www.flickr.com/gp/136974235@N05/1pXQGt" height="70px" width="auto" align="left" alt="" />
-
-Srushtika Neelakantam  
-Topics: WebVR, A-Frame, Realtime Web, JS frameworks  
-https://twitter.com/Srushtika
-
 
 ### Düsseldorf
 
