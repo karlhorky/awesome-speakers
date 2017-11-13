@@ -13,18 +13,17 @@ Please add to the list and help make the community better connected and richer.
 
 ### Lagos
 
-<img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
-
-Ire Aderinokun  
-Topics: Progressive Web Apps, CSS, Standards  
-https://twitter.com/ireaderinokun  
-
-
 <img src="https://pbs.twimg.com/profile_images/725313461765427204/2Od92RM7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Christian Nwamba  
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, CSS, Standards  
 https://twitter.com/codebeast 
+
+<img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Ire Aderinokun  
+Topics: Progressive Web Apps, CSS, Standards  
+https://twitter.com/ireaderinokun  
 
 
 <img src="https://pbs.twimg.com/profile_images/914668950847463424/vmJGuP5k_400x400.jpg" height="70px" width="auto" align="left" alt="" />
