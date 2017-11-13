@@ -485,6 +485,24 @@ https://twitter.com/mathias
 
 ### Cork
 
+<img src="https://pbs.twimg.com/profile_images/460559220450934784/4OkPtakD_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+
+Dave Jeffery  
+Topics: JavaScript, Electron, Node.js  
+https://twitter.com/DaveJ  
+
+<img src="https://pbs.twimg.com/profile_images/783319823728177152/bh-Au8WQ_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Eoin Shanaghy  
+Topics: Java, Elixir, Node.js  
+https://twitter.com/eoins  
+
+<img src="https://pbs.twimg.com/profile_images/898233245803978754/7Nxde5TI_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+James Sugrue  
+Topics: Swift, JavaScript, Java  
+https://twitter.com/sugrue  
+
 <img src="https://pbs.twimg.com/profile_images/433564450344271872/-HrDlpVt_400x400.png" height="70px" width="auto" align="left" alt="" />
 
 Joe Minichino  
