@@ -403,6 +403,13 @@ Yoshua Wuyts
 Topics: Frameworks, Simplicity, Standards, Libraries  
 https://twitter.com/yoshuawuyts
 
+<img src="https://www.flickr.com/gp/136974235@N05/1pXQGt" height="70px" width="auto" align="left" alt="" />
+
+Srushtika Neelakantam  
+Topics: WebVR, A-Frame, Realtime Web, JS frameworks  
+https://twitter.com/Srushtika
+
+
 ### Düsseldorf
 
 <img src="https://pbs.twimg.com/profile_images/768792268983701504/kIRa8QWM_400x400.jpg" height="70px" width="auto" align="left" alt="" />
