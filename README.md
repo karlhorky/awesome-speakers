@@ -601,10 +601,10 @@ Kacper Sokołowski
 Topics: JavaScript, Security, Service Workers  
 https://twitter.com/kaapa_s
 
-<img src="https://pbs.twimg.com/profile_images/538401368612945921/AvwrMusf_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/538401368612945921/AvwrMusf_400x400.jpeg" height="70px" width="auto" align="left" alt="" />  
 
-Konrad Dzwinel 
-Topics: Developer Tools, JavaScript  
+Konrad Dzwinel   
+Topics: Developer Tools, JavaScript    
 https://twitter.com/kdzwinel
 
 ### Poznań
