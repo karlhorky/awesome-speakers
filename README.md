@@ -487,7 +487,7 @@ https://twitter.com/mathias
 
 <img src="https://pbs.twimg.com/profile_images/433564450344271872/-HrDlpVt_400x400.png" height="70px" width="auto" align="left" alt="" />
 
-Joe minichino  
+Joe Minichino  
 Topics: Artificial Intelligence, Machine Learning, Databases, JavaScript, Python  
 https://twitter.com/tech_fort  
 
@@ -514,7 +514,7 @@ https://twitter.com/augeva
 <img src="https://pbs.twimg.com/profile_images/881161544364687360/mlxHPmjA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Barry O'Sullivan  
-Topics: Php, Testing, DDD, Event Sourcing  
+Topics: PHP, Testing, Domain-Driven Design, Event Sourcing  
 https://twitter.com/barryosull  
 
 <img src="https://pbs.twimg.com/profile_images/886878264110850050/5oKQrMJi_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -544,25 +544,25 @@ https://twitter.com/ingridepure
 <img src="https://pbs.twimg.com/profile_images/897746004996435968/Y6NGgGUz_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 John Brett  
-Topics: JavaScript, HAPI, Nomad Work, Bitcoin  
-https://twitter.com/johnbrett_  
+Topics: JavaScript, hapi, Nomad Work, Bitcoin  
+[https://twitter.com/johnbrett_](https://twitter.com/johnbrett_)
 
 <img src="https://pbs.twimg.com/profile_images/591629212123037696/dCisOhdz_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Luciano Mammino  
-Topics: Node.js, Design Patterns, Serverless, JWT, Universal JavaScript  
+Topics: Node.js, Design Patterns, Serverless, JSON Web Tokens, Universal JavaScript  
 https://twitter.com/loige  
 
 <img src="https://pbs.twimg.com/profile_images/760868419696812032/iPYX4sc7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Mario Casciaro  
-Topics: Node.js, JavaScript, Design patterns, startups  
+Topics: Node.js, JavaScript, Design Patterns, Startups  
 https://twitter.com/mariocasciaro  
 
 <img src="https://pbs.twimg.com/profile_images/748453327298502656/q5N9cMHi_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Michael Flanagan  
-Topics: Php, JavaScript, REST, testing  
+Topics: PHP, JavaScript, REST, Testing  
 https://twitter.com/micflan  
 
 <img src="https://pbs.twimg.com/profile_images/786883621806346241/FjHJiSVF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -612,7 +612,7 @@ https://twitter.com/brikis98
 <img src="https://pbs.twimg.com/profile_images/870687552881209344/GRjHtwPV_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Mark Conroy  
-Topics: Frontend, Drupal, Web development  
+Topics: Frontend, Drupal, Web Development  
 https://twitter.com/markconroy  
 
 ### Waterford
