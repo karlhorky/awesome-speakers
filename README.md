@@ -553,6 +553,12 @@ Claudio Procidia
 Topics: JavaScript, React, Node.js, Diversity  
 https://twitter.com/claudiopro  
 
+<img src="https://pbs.twimg.com/profile_images/798199885061390336/4xcZTE_b_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Donovan Hutchinson  
+Topics: HTML, CSS, JavaScript  
+https://twitter.com/donovanh  
+
 <img src="https://pbs.twimg.com/profile_images/775076695049113600/fTuBJGTA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ingrid Epure  
