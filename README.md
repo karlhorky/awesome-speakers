@@ -595,6 +595,18 @@ Anna Migas
 Topics: HTML, CSS, JavaScript, Web Animations, Web Performance  
 https://twitter.com/szynszyliszys
 
+<img src="https://pbs.twimg.com/profile_images/511776619128578048/IuxvMJj7_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+
+Kacper Sokołowski   
+Topics: JavaScript, Security, Service Workers  
+https://twitter.com/kaapa_s
+
+<img src="https://pbs.twimg.com/profile_images/538401368612945921/AvwrMusf_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+
+Konrad Dzwinel 
+Topics: Developer Tools, JavaScript  
+https://twitter.com/kdzwinel
+
 ### Poznań
 
 <img src="https://pbs.twimg.com/profile_images/858080114197880833/DXeDmf51_400x400.jpg" height="70px" width="auto" align="left" alt="" />
