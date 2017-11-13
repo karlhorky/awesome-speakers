@@ -553,6 +553,12 @@ Luciano Mammino
 Topics: Node.js, Design Patterns, Serverless, JSON Web Tokens, Universal JavaScript  
 https://twitter.com/loige  
 
+<img src="https://pbs.twimg.com/profile_images/734657389782261760/SUIzo2bM_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Lynsey Duncan  
+Topics: UX, UI, Design Systems  
+https://twitter.com/Lynsey_Duncan  
+
 <img src="https://pbs.twimg.com/profile_images/760868419696812032/iPYX4sc7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Mario Casciaro  
