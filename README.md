@@ -627,7 +627,7 @@ https://twitter.com/sericaia
 <img src="https://pbs.twimg.com/profile_images/849780545823195136/afw55D2y_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 David Dias  
-Topics: IPFS, P2P, JavaScript, Node.js  
+Topics: IPFS, Peer to Peer, JavaScript, Node.js  
 https://twitter.com/daviddias
 
 ### Porto
@@ -665,7 +665,7 @@ https://twitter.com/elixir_lang_mos
 <img src="https://avatars3.githubusercontent.com/u/105274" height="70px" width="auto" align="left" alt="" />
 
 Vadim Makeev  
-Topics: HTML, CSS, web standards, a11y  
+Topics: HTML, CSS, Web Standards, Accessibility  
 [https://twitter.com/pepelsbey_](https://twitter.com/pepelsbey_)
 
 
@@ -718,7 +718,7 @@ https://twitter.com/erikras
 <img src="https://pbs.twimg.com/profile_images/772017431376175104/XvIsVuB4_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Martin Splitt  
-Topics: VR, Web Performance  
+Topics: Virtual Reality, Web Performance  
 https://twitter.com/g33konaut
 
 <img src="https://pbs.twimg.com/profile_images/737308641511002113/YB7CH5CE_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -848,7 +848,7 @@ https://twitter.com/bodil
 <img src="https://pbs.twimg.com/profile_images/780901614794178560/XcFiEOAH_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Chris Noring  
-Topics: JS, RXJS, Angular, React  
+Topics: JS, RxJS, Angular, React  
 https://twitter.com/chris_noring  
 
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -866,7 +866,7 @@ https://twitter.com/dan_abramov
 <img src="https://pbs.twimg.com/profile_images/880760574501679105/i_iXmIbn_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Davide 'Folletto' Casali  
-Topics: Design, User Experience, Management, Leadership, Startup  
+Topics: Design, User Experience, Management, Leadership, Startups  
 https://twitter.com/Folletto
 
 <img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -896,13 +896,13 @@ https://twitter.com/_philpl
 <img src="https://pbs.twimg.com/profile_images/848590650349989888/6-cAgkjO_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Sani Yusuf  
-Topics: Ionic, Angular, JS, PWA  
+Topics: Ionic, Angular, JavaScript, Progressive Web Apps  
 https://twitter.com/saniyusuf  
 
 <img src="https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Sebastian Witalec  
-Topics: NativeScript, Angular, BOTS, JS  
+Topics: NativeScript, Angular, Bots, JavaScript  
 https://twitter.com/sebawita  
 
 
