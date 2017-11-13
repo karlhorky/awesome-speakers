@@ -13,24 +13,24 @@ Please add to the list and help make the community better connected and richer.
 
 ### Lagos
 
-<img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ire Aderinokun  
-Topics: Progressive Web Apps, CSS, Standards  
-https://twitter.com/ireaderinokun  
+Topics: Progressive Web Apps, CSS, Standards  
+https://twitter.com/ireaderinokun  
 
 
-<img src="https://pbs.twimg.com/profile_images/725313461765427204/2Od92RM7_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/725313461765427204/2Od92RM7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Christian Nwamba  
-Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, CSS, Standards  
+Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, CSS, Standards  
 https://twitter.com/codebeast 
 
 
-<img src="https://pbs.twimg.com/profile_images/914668950847463424/vmJGuP5k_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/914668950847463424/vmJGuP5k_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Otemuyiwa Prosper   
-Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel  
+Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel  
 https://twitter.com/unicodeveloper    
 
  
@@ -40,7 +40,7 @@ https://twitter.com/unicodeveloper
 
 ### Bangalore
 
-<img src="https://avatars3.githubusercontent.com/u/1382793?s=460&v=4" height="70px" width="auto" align="left" alt="" />  
+<img src="https://avatars3.githubusercontent.com/u/1382793?s=460&v=4" height="70px" width="auto" align="left" alt="" />
 
 Ashrith Kulai  
 Topics: Progressive Web Apps, Polymer, Web Components, Web Performance, Build Tools  
@@ -197,7 +197,7 @@ https://twitter.com/eva_trostlos
 <img src="https://pbs.twimg.com/profile_images/687205014348103680/ZcIXYv4g_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Glenn Reyes  
-Topics: Code Splitting, React  
+Topics: Code Splitting, React  
 https://twitter.com/glnnrys
 
 <img src="https://pbs.twimg.com/profile_images/875719105839603712/_nJ_XRw1_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -209,7 +209,7 @@ https://twitter.com/mrozilla
 <img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Juho Vepsäläinen  
-Topics: 3D Graphics, Business, React, webpack, Writing  
+Topics: 3D Graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
 <img alt="Manuel Matuzović" src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">  
@@ -347,7 +347,7 @@ https://twitter.com/Jhnnns
 <img src="https://pbs.twimg.com/profile_images/608674513241427968/ycianjI2_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ally Long  
-Topics: CSS, Performance  
+Topics: CSS, Performance  
 https://twitter.com/allyelle
 
 <img src="https://pbs.twimg.com/profile_images/770970370409201664/NtuKnExn_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -422,19 +422,19 @@ https://twitter.com/smashingmag
 
 ### Hamburg
 
-<img src="https://avatars3.githubusercontent.com/u/1148334?s=460&v=4" height="70px" width="auto" align="left" alt="" />  
+<img src="https://avatars3.githubusercontent.com/u/1148334?s=460&v=4" height="70px" width="auto" align="left" alt="" />
 
 Gregor Adams  
 Topics: Fractals, CSS, JavaScript, Web Animations  
 https://codepen.io/pixelass/  
 
-<img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="auto" align="left" alt="" />  
+<img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="auto" align="left" alt="" />
 
 Mario Nebl  
 Topics: JavaScript, Node, JS Architecture  
 https://twitter.com/marionebl  
 
-<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Martin Kleppe    
 Topics: Weird JS    
@@ -448,7 +448,7 @@ https://twitter.com/PalmaSwell
 
 ### Höchst (Odenwald)
 
-<img src="https://pbs.twimg.com/profile_images/814107344388890624/_9-miAWs_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/814107344388890624/_9-miAWs_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Tim Pietrusky  
 Topics: JS Art, JS Music, Javascript  
@@ -595,7 +595,7 @@ https://twitter.com/szynszyliszys
 <img src="https://pbs.twimg.com/profile_images/858080114197880833/DXeDmf51_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Tomasz Łakomy  
-Topics: React, Virtual Reality, jQuery  
+Topics: React, Virtual Reality, jQuery  
 https://twitter.com/tlakomy
 
 ### Warsaw
@@ -627,7 +627,7 @@ https://twitter.com/sericaia
 <img src="https://pbs.twimg.com/profile_images/849780545823195136/afw55D2y_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 David Dias  
-Topics: IPFS, Peer to Peer, JavaScript, Node.js  
+Topics: IPFS, Peer to Peer, JavaScript, Node.js  
 https://twitter.com/daviddias
 
 ### Porto
@@ -665,7 +665,7 @@ https://twitter.com/elixir_lang_mos
 <img src="https://avatars3.githubusercontent.com/u/105274" height="70px" width="auto" align="left" alt="" />
 
 Vadim Makeev  
-Topics: HTML, CSS, Web Standards, Accessibility  
+Topics: HTML, CSS, Web Standards, Accessibility  
 [https://twitter.com/pepelsbey_](https://twitter.com/pepelsbey_)
 
 
@@ -689,7 +689,7 @@ Topics: Serverless, Offline Web, Chat Bots
 
 ### Alicante
 
-<img src="https://pbs.twimg.com/profile_images/802102453541933056/wrV0Mml2_400x400.jpg" height="70px" width="auto" align="left" />  
+<img src="https://pbs.twimg.com/profile_images/802102453541933056/wrV0Mml2_400x400.jpg" height="70px" width="auto" align="left" />
 
 Flavio Corpa  
 Topics: JavaScript, Functional Programming  
@@ -718,7 +718,7 @@ https://twitter.com/erikras
 <img src="https://pbs.twimg.com/profile_images/772017431376175104/XvIsVuB4_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Martin Splitt  
-Topics: Virtual Reality, Web Performance  
+Topics: Virtual Reality, Web Performance  
 https://twitter.com/g33konaut
 
 <img src="https://pbs.twimg.com/profile_images/737308641511002113/YB7CH5CE_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -845,10 +845,10 @@ Bodil Stokke
 Topics: Programming, Functional Programming  
 https://twitter.com/bodil
 
-<img src="https://pbs.twimg.com/profile_images/780901614794178560/XcFiEOAH_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/780901614794178560/XcFiEOAH_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Chris Noring  
-Topics: JS, RxJS, Angular, React  
+Topics: JS, RxJS, Angular, React  
 https://twitter.com/chris_noring  
 
 <img src="https://pbs.twimg.com/profile_images/818604518820679683/pJd1hqvC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -866,7 +866,7 @@ https://twitter.com/dan_abramov
 <img src="https://pbs.twimg.com/profile_images/880760574501679105/i_iXmIbn_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Davide 'Folletto' Casali  
-Topics: Design, User Experience, Management, Leadership, Startups  
+Topics: Design, User Experience, Management, Leadership, Startups  
 https://twitter.com/Folletto
 
 <img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -893,16 +893,16 @@ Phil Plückthun
 Topics: React, CSS in JS  
 https://twitter.com/_philpl
 
-<img src="https://pbs.twimg.com/profile_images/848590650349989888/6-cAgkjO_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/848590650349989888/6-cAgkjO_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sani Yusuf  
-Topics: Ionic, Angular, JavaScript, Progressive Web Apps  
+Topics: Ionic, Angular, JavaScript, Progressive Web Apps  
 https://twitter.com/saniyusuf  
 
-<img src="https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sebastian Witalec  
-Topics: NativeScript, Angular, Bots, JavaScript  
+Topics: NativeScript, Angular, Bots, JavaScript  
 https://twitter.com/sebawita  
 
 
