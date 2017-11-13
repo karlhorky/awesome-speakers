@@ -483,19 +483,158 @@ https://twitter.com/mathias
 
 ## Ireland 🇮🇪
 
+### Cork
+
+<img src="https://pbs.twimg.com/profile_images/433564450344271872/-HrDlpVt_400x400.png" height="70px" width="auto" align="left" alt="" />
+
+Joe minichino
+Topics: Artificial Intelligence, Machine Learning, Databases, JavaScript, Python
+https://twitter.com/tech_fort
+
+
+<img src="https://pbs.twimg.com/profile_images/3582649778/43bc67af2bc0b59e0ab361e85901d97c_400x400.png" height="70px" width="auto" align="left" alt="" />
+
+Oscar Brito
+Topics: Linux, Node.js, JavaScript, Python
+https://twitter.com/aetheon
+
+
+
+
 ### Dublin
+
+<img src="https://pbs.twimg.com/profile_images/694329018313744384/A_s1uq_N_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Anton Whalley
+Topics: Node.js, Decentralization, FreeBSD, Open Source
+https://twitter.com/dhigit9
+
+
+<img src="https://pbs.twimg.com/profile_images/866240074807169025/Sh8odzKS_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Augusto Evangelisti
+Topics: Testing, Agile, Bitcoin
+https://twitter.com/augeva
+
+
+<img src="https://pbs.twimg.com/profile_images/881161544364687360/mlxHPmjA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Barry O'Sullivan
+Topics: Php, Testing, DDD, Event Sourcing
+https://twitter.com/barryosull
+
+
+<img src="https://pbs.twimg.com/profile_images/886878264110850050/5oKQrMJi_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Chris Manson
+Topics: JavaScript, Ember, React
+https://twitter.com/real_ate
+
+
+<img src="https://pbs.twimg.com/profile_images/744813351369248769/kQ9PZMpb_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Cian Mac Mahon
+Topics: JavaScript, React
+https://twitter.com/cianmm
+
 
 <img src="https://pbs.twimg.com/profile_images/775076695049113600/fTuBJGTA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
-Ingrid Epure  
-Topics: Security, Psychology  
+Ingrid Epure
+Topics: Security, Psychology
 https://twitter.com/ingridepure
+
+
+<img src="https://pbs.twimg.com/profile_images/897746004996435968/Y6NGgGUz_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+John Brett
+Topics: JavaScript, HAPI, Nomad Work, Bitcoin
+https://twitter.com/johnbrett_
+
+
+<img src="https://pbs.twimg.com/profile_images/591629212123037696/dCisOhdz_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Luciano Mammino
+Topics: Node.js, Design Patterns, Serverless, JWT, Universal JavaScript
+https://twitter.com/loige
+
+
+<img src="https://pbs.twimg.com/profile_images/760868419696812032/iPYX4sc7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Mario Casciaro
+Topics: Node.js, JavaScript, Design patterns, startups
+https://twitter.com/mariocasciaro
+
+
+<img src="https://pbs.twimg.com/profile_images/748453327298502656/q5N9cMHi_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Michael Flanagan
+Topics: Php, JavaScript, REST, testing
+https://twitter.com/micflan
+
+
+<img src="https://pbs.twimg.com/profile_images/786883621806346241/FjHJiSVF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Mustafa Turan
+Topics: Elixir, Ruby, Functional Programming
+https://twitter.com/mustafaturan
+
+
+<img src="https://pbs.twimg.com/profile_images/590251245673263104/Lw3XBG-y_400x400.png" height="70px" width="auto" align="left" alt="" />
+
+Padraig O'Brien
+Topics: Serverless, Big Data, Databases
+https://twitter.com/Podgeypoos79
+
+
+<img src="" height="70px" width="auto" align="left" alt="" />
+
+Pat O'Callaghan
+Topics: JavaScript, Node.js, Ember
+https://twitter.com/patocallaghan
+
+
+<img src="https://pbs.twimg.com/profile_images/378800000202445607/322dc53004d92c103d37afa3bbf1bf96_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+
+Serg Hospodarets
+Topics: JavaScript, CSS, CSS Houdini
+https://twitter.com/malyw
+
 
 <img src="https://s.gravatar.com/avatar/55066ecb49b57ff9531581b8343aa4fa?size=140" height="70px" width="auto" align="left" alt="" />
 
-Serena Fritsch  
-Topics: JavaScript, Ember, Developer Workflows  
+Serena Fritsch
+Topics: JavaScript, Ember, Developer Workflows
 https://twitter.com/serifritsch
+
+
+<img src="https://pbs.twimg.com/profile_images/916668572683948032/BaceJEHt_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Yevgeniy Brikman
+Topics: Terraform, Devops, Scalability
+https://twitter.com/brikis98
+
+
+
+
+### Galway
+
+<img src="https://pbs.twimg.com/profile_images/870687552881209344/GRjHtwPV_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Mark Conroy
+Topics: Frontend, Drupal, Web development
+https://twitter.com/markconroy
+
+
+
+
+### Waterford
+
+<img src="https://pbs.twimg.com/profile_images/1900997386/richard_profile-pic_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Richard Rodger
+Topics: Node.js, Microservices
+https://twitter.com/rjrodger
 
 ## Israel 🇮🇱
 
