@@ -16,21 +16,21 @@ Please add to the list and help make the community better connected and richer.
 <img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Ire Aderinokun  
-Topics: PWA, CSS, Standards  
-https://twitter.com/ireaderinokun  
+Topics: Progressive Web Apps, CSS, Standards  
+https://twitter.com/ireaderinokun  
 
 
 <img src="https://pbs.twimg.com/profile_images/725313461765427204/2Od92RM7_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Christian Nwamba  
-Topics: JavaScript, React, Vue, Angular, PWA, CSS, Standards  
+Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, CSS, Standards  
 https://twitter.com/codebeast 
 
 
 <img src="https://pbs.twimg.com/profile_images/914668950847463424/vmJGuP5k_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Otemuyiwa Prosper   
-Topics: JavaScript, React, Vue, Angular, PWA, PHP, Laravel  
+Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel  
 https://twitter.com/unicodeveloper    
 
  
@@ -43,7 +43,7 @@ https://twitter.com/unicodeveloper
 <img src="https://avatars3.githubusercontent.com/u/1382793?s=460&v=4" height="70px" width="auto" align="left" alt="" />  
 
 Ashrith Kulai  
-Topics: PWA, Polymer, Web Components, Web Performance, Build Tools  
+Topics: Progressive Web Apps, Polymer, Web Components, Web Performance, Build Tools  
 https://twitter.com/ashrith_kulai  
 
 <img src="https://i.imgur.com/OXCWwy7.jpg" height="70px" width="auto" align="left" alt="" />
@@ -63,7 +63,7 @@ https://twitter.com/siddharthkp
 <img src="https://pbs.twimg.com/profile_images/856209876732739585/rQcsMvCa_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Manjula Dube  
-Topics: JavaScript, React, PWA, Node, Testing  
+Topics: JavaScript, React, Progressive Web Apps, Node, Testing  
 https://twitter.com/manjula_dube
 
 <img src="https://pbs.twimg.com/profile_images/890131426217259008/6LEkT3eS_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -75,7 +75,7 @@ https://twitter.com/neeharv
 <img src="https://pbs.twimg.com/profile_images/907656585752842250/PwI99gBG_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sidhartha Chatterjee  
-Topics: React, PWA, Web Performance  
+Topics: React, Progressive Web Apps, Web Performance  
 https://twitter.com/chatsidhartha
 
 ### New Delhi
@@ -197,7 +197,7 @@ https://twitter.com/eva_trostlos
 <img src="https://pbs.twimg.com/profile_images/687205014348103680/ZcIXYv4g_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Glenn Reyes  
-Topics: Code splitting, React  
+Topics: Code Splitting, React  
 https://twitter.com/glnnrys
 
 <img src="https://pbs.twimg.com/profile_images/875719105839603712/_nJ_XRw1_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -209,7 +209,7 @@ https://twitter.com/mrozilla
 <img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Juho Vepsäläinen  
-Topics: 3D graphics, Business, React, webpack, Writing  
+Topics: 3D Graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
 <img alt="Manuel Matuzović" src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">  
@@ -347,7 +347,7 @@ https://twitter.com/Jhnnns
 <img src="https://pbs.twimg.com/profile_images/608674513241427968/ycianjI2_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ally Long  
-Topics: CSS, Performance,  
+Topics: CSS, Performance  
 https://twitter.com/allyelle
 
 <img src="https://pbs.twimg.com/profile_images/770970370409201664/NtuKnExn_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -561,7 +561,7 @@ https://twitter.com/mweststrate
 <img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Narendra Shetty  
-Topics: React, PWA  
+Topics: React, Progressive Web Apps  
 https://twitter.com/narendra_shetty
 
 ### Zwolle
@@ -595,7 +595,7 @@ https://twitter.com/szynszyliszys
 <img src="https://pbs.twimg.com/profile_images/858080114197880833/DXeDmf51_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Tomasz Łakomy  
-Topics: React, VR, jQuery  
+Topics: React, Virtual Reality, jQuery  
 https://twitter.com/tlakomy
 
 ### Warsaw
