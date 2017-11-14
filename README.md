@@ -305,11 +305,11 @@ https://twitter.com/terezk_a
 
 ### Helsinki
 
-<img src="https://pbs.twimg.com/profile_images/875429349574537217/JZi26Mju_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/875429349574537217/JZi26Mju_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Juha Lindstedt  
 Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js  
-https://twitter.com/pakastin
+https://twitter.com/pakastin  
 
 
 <img src="https://pbs.twimg.com/profile_images/914150533820243970/DnBSM3RF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
