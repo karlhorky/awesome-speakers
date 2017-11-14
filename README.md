@@ -556,7 +556,7 @@ https://twitter.com/cianmm
 
 <img src="https://pbs.twimg.com/profile_images/710594207602352128/WrH6M_hm_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
-Claudio Procidia  
+Claudio Procida
 Topics: JavaScript, React, Node.js, Diversity  
 https://twitter.com/claudiopro  
 
