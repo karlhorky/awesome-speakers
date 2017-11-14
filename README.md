@@ -895,7 +895,7 @@ https://twitter.com/javivelasco
 <img src="https://pbs.twimg.com/profile_images/869118794471526401/FlunBeKg_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Vincenzo Chianese  
-Topics: WebAPI, Microservices, Javascript  
+Topics: WebAPI, Microservices, JavaScript  
 https://twitter.com/D3DVincent
 
 ### Santander
