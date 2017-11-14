@@ -890,6 +890,14 @@ Javi Velasco
 Topics: React, CSS in JS, React Toolbox  
 https://twitter.com/javivelasco
 
+### Madrid
+
+<img src="https://pbs.twimg.com/profile_images/869118794471526401/FlunBeKg_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Vincenzo Chianese  
+Topics: WebAPI, Microservices, Javascript  
+https://twitter.com/D3DVincent
+
 ### Santander
 
 <img src="https://pbs.twimg.com/profile_images/1330141226/avatar-500_400x400.png" height="70px" width="auto" align="left" alt="" />
