@@ -795,6 +795,12 @@ Mike Grabowski
 Topics: React Native, JavaScript, Tooling  
 https://twitter.com/grabbou
 
+<img src="https://pbs.twimg.com/profile_images/813866423214870528/ct8REef9_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Michał Pierzchała   
+Topics: React Native, Jest, Testing, CSS  
+https://twitter.com/thymikee  
+
 ## Portugal 🇵🇹
 
 ### Lisbon
