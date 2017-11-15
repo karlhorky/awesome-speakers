@@ -590,6 +590,12 @@ Lynsey Duncan
 Topics: UX, UI, Design Systems  
 https://twitter.com/Lynsey_Duncan  
 
+<img src="https://pbs.twimg.com/profile_images/909344927791947776/hlBr8X_w_400x400.jpg" height="70px" width="auto" align="left" alt="Maja Grubic" />
+
+Maja Grubic  
+Topics: Node.js, JavaScript, React, Monitoring, D3, SVG  
+https://twitter.com/princessmaja  
+
 <img src="https://pbs.twimg.com/profile_images/760868419696812032/iPYX4sc7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Mario Casciaro  
@@ -613,6 +619,12 @@ https://twitter.com/mustafaturan
 Padraig O'Brien  
 Topics: Serverless, Big Data, Databases  
 https://twitter.com/Podgeypoos79  
+
+<img src="https://pbs.twimg.com/profile_images/639176078448328704/1zvrlvm5_400x400.jpg" height="70px" width="auto" align="left" alt="Panpan Lin" />
+
+Panpan Lin  
+Topics: JavaScript, GraphQL, Swift, Hackathons  
+https://twitter.com/CatKlavier  
 
 <img src="https://pbs.twimg.com/profile_images/378800000202445607/322dc53004d92c103d37afa3bbf1bf96_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
 
