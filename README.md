@@ -211,7 +211,7 @@ Juho Vepsäläinen
 Topics: 3D Graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
-<img alt="Manuel Matuzović" src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">  
+<img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">  
 
 Manuel Matuzović  
 Topics: CSS, Accesibility  
@@ -590,7 +590,7 @@ Lynsey Duncan
 Topics: UX, UI, Design Systems  
 https://twitter.com/Lynsey_Duncan  
 
-<img src="https://pbs.twimg.com/profile_images/909344927791947776/hlBr8X_w_400x400.jpg" height="70px" width="auto" align="left" alt="Maja Grubic" />
+<img src="https://pbs.twimg.com/profile_images/909344927791947776/hlBr8X_w_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Maja Grubic  
 Topics: Node.js, JavaScript, React, Monitoring, D3, SVG  
@@ -620,7 +620,7 @@ Padraig O'Brien
 Topics: Serverless, Big Data, Databases  
 https://twitter.com/Podgeypoos79  
 
-<img src="https://pbs.twimg.com/profile_images/639176078448328704/1zvrlvm5_400x400.jpg" height="70px" width="auto" align="left" alt="Panpan Lin" />
+<img src="https://pbs.twimg.com/profile_images/639176078448328704/1zvrlvm5_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Panpan Lin  
 Topics: JavaScript, GraphQL, Swift, Hackathons  
