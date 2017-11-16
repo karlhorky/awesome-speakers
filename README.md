@@ -993,7 +993,7 @@ https://twitter.com/roman01la
 <img src="https://pbs.twimg.com/profile_images/762656563819675648/22TRjn_P_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Artem Denysov  
-Topics: Web Performance, DevTools  
+Topics: Web Performance, Dev Tools  
 https://twitter.com/denar90_  
 
 ## United Kingdom 🇬🇧
