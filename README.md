@@ -1479,6 +1479,14 @@ Raphael Amorim
 Topics: React, JavaScript, jQuery  
 https://twitter.com/raphamundi &bull; https://github.com/raphamorim
 
+### São Paulo
+
+<img src="https://pbs.twimg.com/profile_images/907806024043782145/hPeMEgbG_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Fernanda Bernardo  
+Topics: CSS, JavaScript, HTML  
+https://twitter.com/Feh_Bernardo
+
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
