@@ -936,7 +936,45 @@ https://twitter.com/thefubhy
 
 ## Ukraine 🇺🇦
 
+### Kharkiv
+
+<img src="https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/19417512_1178877772240696_1898437207834210591_o.jpg?oh=287123dcc963ab7a8944c1f5248c9713&oe=5AB0086B" height="70px" width="auto" align="left" alt="" />
+
+Illya Klymov  
+Topics: Teaching, Coaching, JavaScript  
+https://twitter.com/xanf_ua  
+
 ### Kyiv
+
+<img src="https://pbs.twimg.com/profile_images/702144090817896448/DBaTY_X6_400x400.png" height="70px" width="auto" align="left" alt="" />
+
+Aleksey Shvayka  
+Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk  
+https://twitter.com/shvaikalesh_
+
+<img src="https://scontent.fiev4-1.fna.fbcdn.net/v/t1.0-1/c0.121.320.320/p320x320/19420373_10155430400107594_7504485893579067182_n.jpg?oh=b1bd77c04e2a5f1d0238b39768d8fde6&oe=5A905BB8" height="70px" width="auto" align="left" alt="" />
+
+Andrey Listochkin   
+Topics: Rust, JavaScript, Skills, Architecture  
+https://twitter.com/listochkin
+
+<img src="https://eagleeye.github.io/images/avatar.jpg" height="70px" width="auto" align="left" alt="" />
+
+Andrii Shumada   
+Topics: JavaScript, Node.js, Steams  
+https://twitter.com/eagleeye_s
+
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/067/060/2bcec39.jpg" height="70px" width="auto" align="left" alt="" />
+
+Anton Nemtsev  
+Topics: HTML, CSS, Web Standards  
+https://twitter.com/SilentImp
+
+<img src="https://pbs.twimg.com/profile_images/832587216258007041/GmbLAVR6_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Artem Yavorsky  
+Topics: Babel, ECMAScript, Compilers  
+https://twitter.com/yavorsky_
 
 <img src="https://pbs.twimg.com/profile_images/918401186516160512/aTJN_ydF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
@@ -949,6 +987,14 @@ https://twitter.com/AGambit95
 Roman Liutikov  
 Topics: ClojureScript, React, Compilers  
 https://twitter.com/roman01la
+
+### Vinnytsia
+
+<img src="https://pbs.twimg.com/profile_images/762656563819675648/22TRjn_P_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Artem Denysov  
+Topics: Web Performance, DevTools  
+https://twitter.com/denar90_  
 
 ## United Kingdom 🇬🇧
 
