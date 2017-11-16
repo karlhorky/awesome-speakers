@@ -1471,14 +1471,6 @@ Fernando Daciuk
 Topics: React, JavaScript  
 https://twitter.com/fdaciuk
 
-### São Paulo
-
-<img src="https://pbs.twimg.com/profile_images/907806024043782145/hPeMEgbG_400x400.jpg" height="70px" width="auto" align="left" alt="" />
-
-Fernanda Bernardo  
-Topics: CSS, JavaScript, HTML  
-https://twitter.com/Feh_Bernardo
-
 ### Rio de Janeiro
 
 <img src="https://pbs.twimg.com/profile_images/920383009089556480/lOGLUG1g_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -1486,6 +1478,14 @@ https://twitter.com/Feh_Bernardo
 Raphael Amorim  
 Topics: React, JavaScript, jQuery  
 https://twitter.com/raphamundi &bull; https://github.com/raphamorim
+
+### São Paulo
+
+<img src="https://pbs.twimg.com/profile_images/907806024043782145/hPeMEgbG_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Fernanda Bernardo  
+Topics: CSS, JavaScript, HTML  
+https://twitter.com/Feh_Bernardo
 
 # License
 
