@@ -936,6 +936,14 @@ https://twitter.com/thefubhy
 
 ## Ukraine 🇺🇦
 
+### Chernivtsi
+
+<img src="https://pbs.twimg.com/profile_images/798945684703551488/UCIQwHPq_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Denys Dovhan  
+Topics: Bash, VR, JavaScript  
+https://twitter.com/denysdovhan  
+
 ### Kharkiv
 
 <img src="https://scontent-vie1-1.xx.fbcdn.net/v/t31.0-8/19417512_1178877772240696_1898437207834210591_o.jpg?oh=287123dcc963ab7a8944c1f5248c9713&oe=5AB0086B" height="70px" width="auto" align="left" alt="" />
