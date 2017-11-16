@@ -950,7 +950,7 @@ https://twitter.com/xanf_ua
 
 Aleksey Shvayka  
 Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk  
-https://twitter.com/shvaikalesh_
+[https://twitter.com/shvaikalesh_](https://twitter.com/shvaikalesh_)
 
 <img src="https://scontent.fiev4-1.fna.fbcdn.net/v/t1.0-1/c0.121.320.320/p320x320/19420373_10155430400107594_7504485893579067182_n.jpg?oh=b1bd77c04e2a5f1d0238b39768d8fde6&oe=5A905BB8" height="70px" width="auto" align="left" alt="" />
 
@@ -974,7 +974,7 @@ https://twitter.com/SilentImp
 
 Artem Yavorsky  
 Topics: Babel, ECMAScript, Compilers  
-https://twitter.com/yavorsky_
+[https://twitter.com/yavorsky_](https://twitter.com/yavorsky_)
 
 <img src="https://pbs.twimg.com/profile_images/918401186516160512/aTJN_ydF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
@@ -994,7 +994,7 @@ https://twitter.com/roman01la
 
 Artem Denysov  
 Topics: Web Performance, Dev Tools  
-https://twitter.com/denar90_  
+[https://twitter.com/denar90_](https://twitter.com/denar90_)
 
 ## United Kingdom 🇬🇧
 
