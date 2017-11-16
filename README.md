@@ -961,7 +961,7 @@ https://twitter.com/listochkin
 <img src="https://eagleeye.github.io/images/avatar.jpg" height="70px" width="auto" align="left" alt="" />
 
 Andrii Shumada   
-Topics: JavaScript, Node.js, Steams  
+Topics: JavaScript, Node.js, Streams  
 https://twitter.com/eagleeye_s
 
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/5/005/067/060/2bcec39.jpg" height="70px" width="auto" align="left" alt="" />
