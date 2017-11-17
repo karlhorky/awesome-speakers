@@ -811,7 +811,19 @@ https://twitter.com/grabbou
 
 Michał Pierzchała   
 Topics: React Native, Jest, Testing, CSS  
-https://twitter.com/thymikee  
+https://twitter.com/thymikee
+
+<img src="https://pbs.twimg.com/profile_images/905825828373659648/E-9bJd1Q_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Mike Chudziak   
+Topics: React, React Native, iOS/Android Development  
+https://twitter.com/michal_chudziak 
+
+<img src="https://avatars3.githubusercontent.com/u/774577?s=400&v=4" height="70px" width="auto" align="left" alt="" />  
+
+Ferran Negre   
+Topics: React Native, React, Testing, JavaScript, Android  
+https://twitter.com/ferrannp 
 
 ## Portugal 🇵🇹
 
