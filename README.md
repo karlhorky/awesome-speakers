@@ -813,7 +813,7 @@ Michał Pierzchała
 Topics: React Native, Jest, Testing, CSS  
 https://twitter.com/thymikee
 
-<img src="https://pbs.twimg.com/profile_images/905825828373659648/E-9bJd1Q_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://avatars1.githubusercontent.com/u/7837457?s=400&v=4" height="70px" width="auto" align="left" alt="" />  
 
 Mike Chudziak   
 Topics: React, React Native, iOS/Android Development  
