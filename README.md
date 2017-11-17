@@ -232,7 +232,7 @@ https://twitter.com/mxstbr
 <img src="https://pbs.twimg.com/profile_images/814140031237496832/G-OShJRF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Nik Graf  
-Topics: VR, Serverless, React  
+Topics: Virtual Reality, Serverless, React  
 https://twitter.com/nikgraf
 
 <img src="https://pbs.twimg.com/profile_images/506474262278856704/V9E39edd_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
@@ -292,7 +292,7 @@ https://twitter.com/mafintosh
 <img src="https://pbs.twimg.com/profile_images/783752447940497408/R8S23hzW_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Olga Dmitricenko  
-Topics: VR, Web Image Processing  
+Topics: Virtual Reality, Web Image Processing  
 https://twitter.com/enthusiasto
 
 <img src="https://pbs.twimg.com/profile_images/824242201655910400/mY7NMaDE_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -690,7 +690,7 @@ https://twitter.com/nirkaufman
 <img src="https://pbs.twimg.com/profile_images/668125552474062848/pTCvcmC3_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Uri Shaked  
-Topics: Web Bluetooth, Web VR, Angular, Internet of Things with JavaScript  
+Topics: Web Bluetooth, WebVR, Angular, Internet of Things with JavaScript  
 https://twitter.com/UriShaked
 
 ## Italy 🇮🇹
@@ -935,6 +935,14 @@ Topics: React, GraphQL, Tooling
 https://twitter.com/thefubhy
 
 ## Ukraine 🇺🇦
+
+### Chernivtsi
+
+<img src="https://pbs.twimg.com/profile_images/798945684703551488/UCIQwHPq_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Denys Dovhan  
+Topics: Bash, Virtual Reality, JavaScript  
+https://twitter.com/denysdovhan  
 
 ### Kharkiv
 
