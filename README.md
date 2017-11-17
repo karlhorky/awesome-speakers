@@ -801,6 +801,12 @@ https://twitter.com/aganaplocha
 
 ### Wrocław
 
+<img src="https://avatars3.githubusercontent.com/u/774577?s=400&v=4" height="70px" width="auto" align="left" alt="" /> 
+
+Ferran Negre  
+Topics: React Native, React, Testing, JavaScript, Android  
+https://twitter.com/ferrannp
+
 <img src="https://pbs.twimg.com/profile_images/910449258263916545/l0pbXflE_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Mike Grabowski  
@@ -813,17 +819,11 @@ Michał Pierzchała
 Topics: React Native, Jest, Testing, CSS  
 https://twitter.com/thymikee
 
-<img src="https://avatars1.githubusercontent.com/u/7837457?s=400&v=4" height="70px" width="auto" align="left" alt="" />  
+<img src="https://avatars1.githubusercontent.com/u/7837457?s=400&v=4" height="70px" width="auto" align="left" alt="" />
 
-Mike Chudziak   
-Topics: React, React Native, iOS/Android Development  
-https://twitter.com/michal_chudziak 
-
-<img src="https://avatars3.githubusercontent.com/u/774577?s=400&v=4" height="70px" width="auto" align="left" alt="" />  
-
-Ferran Negre   
-Topics: React Native, React, Testing, JavaScript, Android  
-https://twitter.com/ferrannp 
+Mike Chudziak  
+Topics: React, React Native, iOS, Android  
+https://twitter.com/michal_chudziak
 
 ## Portugal 🇵🇹
 
