@@ -859,6 +859,12 @@ Nikita Sobolev
 Topics: Elixir, Python  
 https://twitter.com/elixir_lang_mos
 
+<img src="https://avatars.githubusercontent.com/u/1760346?s=70" height="70px" width="auto" align="left" alt="" />
+
+Oleksii Okhrymenko  
+Topics: Angular, JavaScript, RxJs, i18n, HTML, CSS  
+https://twitter.com/ai_boy
+
 ### St. Petersburg
 
 <img src="https://avatars3.githubusercontent.com/u/105274" height="70px" width="auto" align="left" alt="" />
