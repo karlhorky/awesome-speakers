@@ -662,8 +662,8 @@ https://twitter.com/elixir_lang_mos
 
 <img src="https://avatars.githubusercontent.com/u/1760346?s=70" height="70px" width="auto" align="left" alt="" />
 
-Oleksii Okhrymenko
-Topics: Agnular, JavaScript, RxJs, i18n, HTML, CSS
+Oleksii Okhrymenko  
+Topics: Angular, JavaScript, RxJs, i18n, HTML, CSS  
 https://twitter.com/ai_boy
 
 ### St. Petersburg
