@@ -1257,6 +1257,14 @@ Carin Meier
 Topics: Clojure, Machine Learning, Programming  
 https://twitter.com/gigasquid
 
+## Chicago
+
+<img src="https://pbs.twimg.com/profile_images/858090247518736384/D96X3RtH_400x400.jpg" height="70px" width="auto" align="left" />
+
+Karl Hughes  
+Topics: Microservices, PHP, Javascript, Docker  
+https://twitter.com/KarlLHughes
+
 ### Denver
 
 <img src="https://pbs.twimg.com/profile_images/923079722778505216/qhL5tFpp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
