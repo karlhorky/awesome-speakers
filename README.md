@@ -1281,6 +1281,12 @@ Levi Bostian
 Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
 https://twitter.com/levibostian
 
+<img src="https://pbs.twimg.com/profile_images/827937201426161664/Xet3IO8w_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Courtney Heitman   
+Topics: UX Development, Usability, Accessibility, Scrum, Agile  
+https://twitter.com/courtneyxann  
+
 ### Nashville
 
 <img src="https://pbs.twimg.com/profile_images/899001646679814145/4TU9HfO-_400x400.jpg" height="70px" width="auto" align="left" alt="" />
