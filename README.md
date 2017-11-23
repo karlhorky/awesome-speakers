@@ -922,7 +922,7 @@ https://twitter.com/javivelasco
 
 ### Madrid
 
-<img src="https://pbs.twimg.com/profile_images/869118794471526401/FlunBeKg_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/932249086333464576/DacF9HCu_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Vincenzo Chianese  
 Topics: WebAPI, Microservices, JavaScript  
