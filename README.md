@@ -825,6 +825,12 @@ Mike Chudziak
 Topics: React, React Native, iOS, Android  
 https://twitter.com/michal_chudziak
 
+<img src="https://pbs.twimg.com/profile_images/929582592113774592/NaRfQzCi_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Satyajit Sahoo  
+Topics: React, React Native, CSS in JS, Tooling  
+https://twitter.com/satya164
+
 ## Portugal 🇵🇹
 
 ### Lisbon
