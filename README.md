@@ -1268,7 +1268,7 @@ https://twitter.com/gigasquid
 <img src="https://pbs.twimg.com/profile_images/858090247518736384/D96X3RtH_400x400.jpg" height="70px" width="auto" align="left" />
 
 Karl Hughes  
-Topics: Microservices, PHP, Javascript, Docker  
+Topics: Microservices, PHP, JavaScript, Docker  
 https://twitter.com/KarlLHughes
 
 ### Denver
