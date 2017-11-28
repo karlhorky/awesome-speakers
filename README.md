@@ -1020,6 +1020,12 @@ Roman Liutikov
 Topics: ClojureScript, React, Compilers  
 https://twitter.com/roman01la
 
+<img src="https://pbs.twimg.com/profile_images/880005008749711360/Gu0Uw0no_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Vladimir Agafonkin  
+Topics: Maps, Algorithms  
+https://twitter.com/mourner
+
 ### Vinnytsia
 
 <img src="https://pbs.twimg.com/profile_images/762656563819675648/22TRjn_P_400x400.jpg" height="70px" width="auto" align="left" alt="" />
