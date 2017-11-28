@@ -205,7 +205,7 @@ Jan Hruby
 Topics: React, Redux, CSS in JS, (React Native, Serverless, GraphQL)  
 https://twitter.com/mrozilla  
 
-<img src="https://pbs.twimg.com/profile_images/883661923107180544/OpPpk-Ku_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/931094700592975873/3BHa8NBn_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Juho Vepsäläinen  
 Topics: 3D Graphics, Business, React, webpack, Writing  
@@ -253,7 +253,7 @@ Peter Ferak
 Topics: Functional Programming, Computer Science  
 https://twitter.com/ferakpeter
 
-<img src="https://pbs.twimg.com/profile_images/881236730254434304/JZs8wBHX_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/932346784256610310/rrFQsmPI_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Timo Obereder  
 Topics: React, Composition, Android, RXJava, Kotlin  
@@ -322,7 +322,7 @@ https://twitter.com/varya_en
 
 ### Strasbourg
 
-<img src="https://pbs.twimg.com/profile_images/805046964077400064/TYMf6IWP_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/930419664487960576/SxC1WzYC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sven Sauleau    
 Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science    
@@ -350,7 +350,7 @@ https://twitter.com/Jhnnns
 
 ### Berlin
 
-<img src="https://pbs.twimg.com/profile_images/608674513241427968/ycianjI2_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/928299248021573632/o6s9btR8_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ally Long  
 Topics: CSS, Performance  
@@ -492,7 +492,7 @@ https://twitter.com/mathias
 
 ### Cork
 
-<img src="https://pbs.twimg.com/profile_images/460559220450934784/4OkPtakD_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/930184091563110401/-0N7Get1_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Dave Jeffery  
 Topics: JavaScript, Electron, Node.js  
@@ -727,7 +727,7 @@ Carmen Popoviciu
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
 
-<img src="https://pbs.twimg.com/profile_images/852804703373074432/YVMyqpMW_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/930197309522108416/Yq-a8N63_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Kitze  
 Topics: MobX, State Management, GraphQL, CSS in JS  
@@ -771,7 +771,7 @@ https://twitter.com/kejt_bw
 
 ### Krakow
 
-<img src="https://pbs.twimg.com/profile_images/378800000409145857/2224a7110f583fb0661ca7cfdf01ce76_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/928705324911136770/9mwlXYgA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Anna Migas  
 Topics: HTML, CSS, JavaScript, Web Animations, Web Performance  
@@ -871,7 +871,7 @@ Nikita Prokopov
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar  
 https://twitter.com/nikitonsky
 
-<img src="https://pbs.twimg.com/profile_images/880419066833510400/xJ1uiJUF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/931321740210462720/5Rg6lK-z_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sergey Rubanov  
 Topics: Standards, Web Assembly  
@@ -1184,7 +1184,7 @@ Michele Bertoli
 Topics: React, Testing  
 https://twitter.com/MicheleBertoli
 
-<img src="https://pbs.twimg.com/profile_images/755148129968787457/iQ16fdT9_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/927592446757949440/DE__8sim_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Phil Plückthun  
 Topics: React, CSS in JS  
@@ -1585,7 +1585,7 @@ https://twitter.com/fdaciuk
 
 ### Rio de Janeiro
 
-<img src="https://pbs.twimg.com/profile_images/920383009089556480/lOGLUG1g_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/932359161169481728/3VnTSKkC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Raphael Amorim  
 Topics: React, JavaScript, jQuery  
