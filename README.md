@@ -17,7 +17,7 @@ Please add to the list and help make the community better connected and richer.
 
 Christian Nwamba  
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, CSS, Standards  
-https://twitter.com/codebeast 
+https://twitter.com/codebeast
 
 <img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
@@ -32,7 +32,7 @@ Otemuyiwa Prosper
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel  
 https://twitter.com/unicodeveloper    
 
- 
+
 # Asia
 
 ## India 🇮🇳
@@ -89,7 +89,7 @@ https://twitter.com/amdsouza92
 
 ### Tyre
 
-<img src="https://pbs.twimg.com/profile_images/903537944320987136/wB28L8qd_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/932621760255668224/DoXjPBjw_bigger.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sara Soueidan  
 Topics: Animations, CSS, SVG  
@@ -745,6 +745,12 @@ Narendra Shetty
 Topics: React, Progressive Web Apps  
 https://twitter.com/narendra_shetty
 
+<img src="https://pbs.twimg.com/profile_images/477425031593488384/95qvvrzD_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+
+Peter-Paul Koch  
+Topics: HTML, CSS, JavaScript, and browser compatibility  
+https://twitter.com/ppk  
+
 ### Zwolle
 
 <img src="https://pbs.twimg.com/profile_images/722165598579507205/l4QzAmu8_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -801,7 +807,7 @@ https://twitter.com/aganaplocha
 
 ### Wrocław
 
-<img src="https://avatars3.githubusercontent.com/u/774577?s=400&v=4" height="70px" width="auto" align="left" alt="" /> 
+<img src="https://avatars3.githubusercontent.com/u/774577?s=400&v=4" height="70px" width="auto" align="left" alt="" />
 
 Ferran Negre  
 Topics: React Native, React, Testing, JavaScript, Android  
@@ -1253,6 +1259,14 @@ Lea Verou
 Topics: CSS, HTML  
 https://twitter.com/leaverou
 
+### California
+
+<img src="https://pbs.twimg.com/profile_images/420826194083213312/CP1RmLa3_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+
+Paul Irish  
+Topics: Developer tools  
+https://twitter.com/paul_irish  
+
 ### Carlsbad
 
 <img src="https://pbs.twimg.com/profile_images/902276500107362304/vju-WV1i_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -1553,7 +1567,7 @@ https://twitter.com/evaferreira92
 
 ## Brazil 🇧🇷
 
-### Belo Horizonte 
+### Belo Horizonte
 
 <img src="https://pbs.twimg.com/profile_images/880632277188972544/iHbGo43-_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
