@@ -748,7 +748,7 @@ https://twitter.com/narendra_shetty
 <img src="https://pbs.twimg.com/profile_images/477425031593488384/95qvvrzD_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
 
 Peter-Paul Koch  
-Topics: HTML, CSS, JavaScript, and browser compatibility  
+Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility  
 https://twitter.com/ppk  
 
 ### Zwolle
