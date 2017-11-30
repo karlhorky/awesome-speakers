@@ -1264,7 +1264,7 @@ https://twitter.com/leaverou
 <img src="https://pbs.twimg.com/profile_images/420826194083213312/CP1RmLa3_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
 
 Paul Irish  
-Topics: Developer tools  
+Topics: Developer Tools  
 https://twitter.com/paul_irish  
 
 ### Carlsbad
