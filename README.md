@@ -1259,14 +1259,6 @@ Lea Verou
 Topics: CSS, HTML  
 https://twitter.com/leaverou
 
-### California
-
-<img src="https://pbs.twimg.com/profile_images/420826194083213312/CP1RmLa3_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
-
-Paul Irish  
-Topics: Developer Tools  
-https://twitter.com/paul_irish  
-
 ### Carlsbad
 
 <img src="https://pbs.twimg.com/profile_images/902276500107362304/vju-WV1i_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -1398,6 +1390,14 @@ https://twitter.com/peggyrayzis
 Una Kravets  
 Topics: CSS, Web  
 https://twitter.com/una
+
+### Palo Alto
+
+<img src="https://pbs.twimg.com/profile_images/420826194083213312/CP1RmLa3_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+
+Paul Irish  
+Topics: Developer Tools  
+https://twitter.com/paul_irish
 
 ### Philadelphia
 
