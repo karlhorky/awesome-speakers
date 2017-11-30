@@ -1261,6 +1261,14 @@ Michael Jackson
 Topics: React, JavaScript, React Router  
 https://twitter.com/mjackson
 
+### Cedar Rapids
+
+<img src="https://pbs.twimg.com/profile_images/873189682242367489/ereVA7Ub_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Levi Bostian  
+Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
+https://twitter.com/levibostian
+
 ### Cincinnati
 
 <img src="https://pbs.twimg.com/profile_images/817391213183717376/EtDzr5sO_400x400.jpg" height="70px" width="auto" align="left" alt="">
@@ -1284,20 +1292,6 @@ https://twitter.com/KarlLHughes
 Miriam Suzanne  
 Topics: CSS, Sass, Architecture, Design Systems  
 https://twitter.com/mirisuzanne
-
-### Midwest
-
-<img src="https://pbs.twimg.com/profile_images/873189682242367489/ereVA7Ub_400x400.jpg" height="70px" width="auto" align="left" alt="" />
-
-Levi Bostian  
-Topics: Android, RxJava, Kotlin, Freelancing, Swift, iOS, Productivity, Startups, Bootstrapping
-https://twitter.com/levibostian
-
-<img src="https://pbs.twimg.com/profile_images/827937201426161664/Xet3IO8w_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
-
-Courtney Heitman   
-Topics: UX Development, Usability, Accessibility, Scrum, Agile  
-https://twitter.com/courtneyxann  
 
 ### Nashville
 
@@ -1384,6 +1378,14 @@ https://twitter.com/peggyrayzis
 Una Kravets  
 Topics: CSS, Web  
 https://twitter.com/una
+
+### Omaha
+
+<img src="https://pbs.twimg.com/profile_images/827937201426161664/Xet3IO8w_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Courtney Heitman   
+Topics: UX Development, Usability, Accessibility, Scrum, Agile  
+https://twitter.com/courtneyxann  
 
 ### Philadelphia
 
