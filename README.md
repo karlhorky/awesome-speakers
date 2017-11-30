@@ -865,7 +865,7 @@ Nikita Prokopov
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar  
 https://twitter.com/nikitonsky
 
-<img src="https://pbs.twimg.com/profile_images/880419066833510400/xJ1uiJUF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/936008508763492352/eteR4C4y_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sergey Rubanov  
 Topics: Standards, Web Assembly  
