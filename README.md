@@ -7,6 +7,15 @@ Hi, I'm Karl and I'd like to help make it more transparent and easy to find spea
 
 Please add to the list and help make the community better connected and richer.
 
+## Contents
+
+- [Africa](#africa)
+- [Asia](#asia)
+- [Australia](#australia)
+- [Europe](#europe)
+- [North America](#north-america)
+- [South America](#south-america)
+
 # Africa
 
 ## Nigeria 🇳🇬
@@ -320,15 +329,6 @@ https://twitter.com/varya_en
 
 ## France 🇫🇷
 
-### Strasbourg
-
-<img src="https://pbs.twimg.com/profile_images/930419664487960576/SxC1WzYC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
-
-Sven Sauleau    
-Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science    
-https://twitter.com/svensauleau
-
-
 ### Paris
 
 <img src="https://pbs.twimg.com/profile_images/895370358370557954/JKnsdgkH_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -337,6 +337,13 @@ Wassim Chegham
 Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things  
 https://twitter.com/manekinekko
 
+### Strasbourg
+
+<img src="https://pbs.twimg.com/profile_images/930419664487960576/SxC1WzYC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Sven Sauleau    
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science    
+https://twitter.com/svensauleau
 
 ## Germany 🇩🇪
 
