@@ -1316,7 +1316,7 @@ https://twitter.com/Aimee_Knight
 
 ### New Jersey
 
-<img src="https://pbs.twimg.com/profile_images/918655507698679808/B8xrPFCs_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/934602810720768005/jgyKgkFv_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ken Wheeler  
 Topics: React, React Native, ReasonML  
