@@ -1274,6 +1274,14 @@ Michael Jackson
 Topics: React, JavaScript, React Router  
 https://twitter.com/mjackson
 
+### Cedar Falls
+
+<img src="https://pbs.twimg.com/profile_images/946105300406362113/1mkZ_2Ck_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Mike Cole   
+Topics: .NET, C#, Remote Working, TypeScript  
+https://twitter.com/colemike  
+
 ### Cedar Rapids
 
 <img src="https://pbs.twimg.com/profile_images/873189682242367489/ereVA7Ub_400x400.jpg" height="70px" width="auto" align="left" alt="" />
