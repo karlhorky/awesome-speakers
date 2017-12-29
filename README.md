@@ -1099,6 +1099,14 @@ Caroline Jarrett
 Topics: Forms Usability, User Research  
 https://twitter.com/cjforms
 
+### Leeds
+
+<img src="https://pbs.twimg.com/profile_images/938551358931660801/4ZDGhewH_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Luke Bonaccorsi  
+Topics: Node, JavaScript, Automation  
+https://twitter.com/LukeB_UK
+
 ### London
 
 <img src="https://pbs.twimg.com/profile_images/925719098042052610/y-llZ0AF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -1273,14 +1281,6 @@ https://twitter.com/leaverou
 Michael Jackson  
 Topics: React, JavaScript, React Router  
 https://twitter.com/mjackson
-
-### Cedar Falls
-
-<img src="https://pbs.twimg.com/profile_images/946105300406362113/1mkZ_2Ck_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
-
-Mike Cole   
-Topics: .NET, C#, Remote Working, TypeScript  
-https://twitter.com/colemike  
 
 ### Cedar Rapids
 
