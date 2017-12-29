@@ -44,6 +44,16 @@ https://twitter.com/unicodeveloper
 
 # Asia
 
+## Pakistan 🇵🇰
+
+### Karachi
+
+<img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Mashhood Rastgar
+Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web  
+https://twitter.com/mashhoodr  
+
 ## India 🇮🇳
 
 ### Bangalore
