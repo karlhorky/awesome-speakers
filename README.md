@@ -1244,7 +1244,7 @@ https://twitter.com/yaili
 
 ## Norwich
 
-<img src="https://pbs.twimg.com/profile_images/915986359529111552/G2I0qF5G_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://i.imgur.com/8Gs1jxd.jpg" height="70px" width="auto" align="left" alt="" />
 
 Heydon Pickering  
 Topics: Accessibility, Performance, Web  
