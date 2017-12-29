@@ -1476,6 +1476,12 @@ Micah Godbolt
 Topics: Front-End Architecture, CSS, Design Systems  
 https://twitter.com/micahgodbolt
 
+<img src="https://avatars1.githubusercontent.com/u/1166226?s=460&v=4" height="70px" width="auto" align="left" alt="" />
+
+Violet Peña  
+Topics: React, Socket.IO, Storybook, Accessibility  
+https://violet.is
+
 ### Salt Lake City
 
 <img src="https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg" height="70px" width="auto" align="left" alt="">
