@@ -868,6 +868,14 @@ Sara Vieira
 Topics: Styleguides, React, CSS  
 https://twitter.com/NikkitaFTW
 
+## Romania 🇷🇴
+
+<img src="https://pbs.twimg.com/profile_images/559376288536752129/Oep0ghM2_400x400.png" height="70px" width="auto" align="left" alt="" />
+
+Márton Kodok  
+Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture  
+https://twitter.com/martonkodok &bull; [Slides](https://slideshare.net/martonkodok) &bull; [Speaker Profile](https://eventrix.co/s/marton-kodok-151)
+
 ## Russia 🇷🇺
 
 ### Moscow
