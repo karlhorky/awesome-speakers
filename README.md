@@ -26,16 +26,15 @@ Please add to the list and help make the community better connected and richer.
 
 Christian Nwamba  
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, CSS, Standards  
-https://twitter.com/codebeast
+https://twitter.com/codebeast  
 
 <img src="https://pbs.twimg.com/profile_images/911164658047963136/SLtLXQQp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ire Aderinokun  
 Topics: Progressive Web Apps, CSS, Standards  
-https://twitter.com/ireaderinokun  
+https://twitter.com/ireaderinokun   
 
-
-<img src="https://pbs.twimg.com/profile_images/914668950847463424/vmJGuP5k_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/939824637378224129/he81bbQS_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Otemuyiwa Prosper   
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel  
@@ -43,6 +42,17 @@ https://twitter.com/unicodeveloper
 
 
 # Asia
+
+## Pakistan 🇵🇰
+
+### Karachi
+
+<img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Mashhood Rastgar  
+Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web    
+https://twitter.com/mashhoodr    
+
 
 ## India 🇮🇳
 
