@@ -872,11 +872,11 @@ https://twitter.com/daviddias
 
 ### Porto
 
-<img src="https://pbs.twimg.com/profile_images/825505237926506496/mhpudjxs_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/825505237926506496/mhpudjxs_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
-Miguel Andrade
-Topics: Ember, JavaScript
-https://twitter.com/maskedwarrior
+Miguel Andrade  
+Topics: Ember, JavaScript  
+https://twitter.com/maskedwarrior  
 
 <img src="https://pbs.twimg.com/profile_images/926881997863211008/WMzMYyCe_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
