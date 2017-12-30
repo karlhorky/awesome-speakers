@@ -1640,6 +1640,12 @@ Fernanda Bernardo
 Topics: CSS, JavaScript, HTML  
 https://twitter.com/Feh_Bernardo
 
+<img src="https://pbs.twimg.com/profile_images/780046667366141952/wMdyP7d7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+João Victor Dias  
+Topics: Computer Vision, Keras, CNN, R, Data Science path  
+https://twitter.com/JoaoVictor_AC
+
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
