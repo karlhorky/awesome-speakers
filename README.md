@@ -505,15 +505,15 @@ Mathias Bynens
 Topics: JavaScript (TC39), V8, Chrome  
 https://twitter.com/mathias
 
-## Greece ɢʀ
+## Greece 🇬🇷
 
 ### Athens
 
-<img src="http://mbrace.io/assets/images/people/npal.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="http://mbrace.io/assets/images/people/npal.jpg" height="70px" width="auto" align="left" alt="" />  
 
-Nick Palladinos
-Topics: F#
-https://twitter.com/NickPalladinos
+Nick Palladinos  
+Topics: F#  
+https://twitter.com/NickPalladinos  
 
 ## Ireland 🇮🇪
 
