@@ -141,8 +141,8 @@ https://twitter.com/zellwk
 ## Australia 🇦🇺
 
 Damian Conway  
-Topics: Perl, Perl6, Grammars, Good developpement practices, public speaking
-http://damian.conway.org/
+Topics: Perl, Perl6, Grammars, Good developpement practices, public speaking  
+http://damian.conway.org/  
 
 
 ### Melbourne
@@ -295,17 +295,17 @@ https://twitter.com/sambego
 
 ## Sweden 🇸🇪
 
-<img src="https://pbs.twimg.com/profile_images/460910824387649536/Xxzu5eXA_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/460910824387649536/Xxzu5eXA_400x400.jpeg" height="70px" width="auto" align="left" alt="" />  
 
 Carl Mäsak  
-Topics: Perl6, Bug reporting
-https://twitter.com/carlmasak
+Topics: Perl6, Bug reporting  
+https://twitter.com/carlmasak  
 
-<img src="https://pbs.twimg.com/profile_images/631508398/me2_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/631508398/me2_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Jonathan Worthington  
-Topics: Langage design, Grammars, Perl6, Development techniques
-https://twitter.com/jnthnwrthngtn
+Topics: Langage design, Grammars, Perl6, Development techniques  
+https://twitter.com/jnthnwrthngtn  
 
 ## Bulgaria 🇧🇬
 
@@ -366,11 +366,11 @@ Wassim Chegham
 Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things  
 https://twitter.com/manekinekko
 
-<img src="https://pbs.twimg.com/profile_images/760590433508585472/4062rqec_bigger.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/760590433508585472/4062rqec_bigger.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Cutis "Ovid" Poe  
-Topics: Perl, Perl6, Relational Model (SQL, ORMs), Good Development Practices
-https://twitter.com/OvidPerl
+Topics: Perl, Perl6, Relational Model (SQL, ORMs), Good Development Practices  
+https://twitter.com/OvidPerl  
 
 ### Strasbourg
 
@@ -793,11 +793,11 @@ Peter-Paul Koch
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility  
 https://twitter.com/ppk  
 
-<img src="https://pbs.twimg.com/profile_images/460910824387649536/Xxzu5eXA_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/460910824387649536/Xxzu5eXA_400x400.jpeg" height="70px" width="auto" align="left" alt="" />  
 
 Sawyer X  
-Topics: Web Development, Inspiration, Perl, Dancer (web framework)
-https://twitter.com/PerlSawyer
+Topics: Web Development, Inspiration, Perl, Dancer (web framework)  
+https://twitter.com/PerlSawyer  
 
 ### Zwolle
 
@@ -1098,11 +1098,11 @@ Topics: Web Performance, Dev Tools
 
 ## United Kingdom 🇬🇧
 
-<img src="https://pbs.twimg.com/profile_images/762656563819675648/22TRjn_P_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/762656563819675648/22TRjn_P_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Matt S Trout  
-Topics: Perl, Relational Model (SQL, ORMs), Devops, Good Development Practices
-https://twitter.com/shadowcat_mst
+Topics: Perl, Relational Model (SQL, ORMs), Devops, Good Development Practices  
+https://twitter.com/shadowcat_mst  
 
 ### Birmingham
 
