@@ -298,6 +298,19 @@ Sawyer X
 Topics: Web Development, Inspiration, Perl, Dancer (web framework)
 https://twitter.com/PerlSawyer
 
+## Sweden 🇸🇪
+
+<img src="https://pbs.twimg.com/profile_images/460910824387649536/Xxzu5eXA_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+
+Carl Mäsak  
+Topics: Perl6, Bug reporting
+https://twitter.com/carlmasak
+
+<img src="https://pbs.twimg.com/profile_images/631508398/me2_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Jonathan Worthington  
+Topics: Langage design, Grammars, Perl6, Development techniques
+https://twitter.com/jnthnwrthngtn
 
 ## Bulgaria 🇧🇬
 
