@@ -366,6 +366,12 @@ Wassim Chegham
 Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things  
 https://twitter.com/manekinekko
 
+<img src="https://pbs.twimg.com/profile_images/760590433508585472/4062rqec_bigger.jpg" height="70px" width="auto" align="left" alt="" />
+
+Cutis "Ovid" Poe  
+Topics: Perl, Perl6, Relational Model (SQL, ORMs), Good Development Practices
+https://twitter.com/OvidPerl
+
 ### Strasbourg
 
 <img src="https://pbs.twimg.com/profile_images/930419664487960576/SxC1WzYC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
