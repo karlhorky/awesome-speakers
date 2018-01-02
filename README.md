@@ -140,6 +140,11 @@ https://twitter.com/zellwk
 
 ## Australia 🇦🇺
 
+Damian Conway  
+Topics: Perl, Perl6, Grammars, Good developpement practices, public speaking
+http://damian.conway.org/
+
+
 ### Melbourne
 
 <img src="https://pbs.twimg.com/profile_images/683874690293612545/kDStZOBp_400x400.png" height="70px" width="auto" align="left" alt="" />
