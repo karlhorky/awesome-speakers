@@ -1098,6 +1098,12 @@ Topics: Web Performance, Dev Tools
 
 ## United Kingdom 🇬🇧
 
+<img src="https://pbs.twimg.com/profile_images/762656563819675648/22TRjn_P_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Matt S Trout  
+Topics: Perl, Relational Model (SQL, ORMs), Devops, Good Development Practices
+https://twitter.com/shadowcat_mst
+
 ### Birmingham
 
 <img src="https://pbs.twimg.com/profile_images/807277326539046912/EZR6qL-S_400x400.jpg" height="70px" width="auto" align="left" alt="" />
