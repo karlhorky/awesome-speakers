@@ -301,13 +301,15 @@ Carl Mäsak
 Topics: Perl6, Bug reporting
 https://twitter.com/carlmasak
 
+## Czech Republic 🇨z
+
+### Praha
+
 <img src="https://pbs.twimg.com/profile_images/631508398/me2_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Jonathan Worthington  
 Topics: Langage design, Grammars, Perl6, Development techniques
 https://twitter.com/jnthnwrthngtn
-
-## Bulgaria 🇧🇬
 
 ### Sofia
 
