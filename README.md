@@ -368,7 +368,7 @@ https://twitter.com/manekinekko
 
 <img src="https://pbs.twimg.com/profile_images/760590433508585472/4062rqec_bigger.jpg" height="70px" width="auto" align="left" alt="" />
 
-Cutis "Ovid" Poe  
+Curtis "Ovid" Poe  
 Topics: Perl, Perl6, Relational Model (SQL, ORMs), Good Development Practices
 https://twitter.com/OvidPerl
 
