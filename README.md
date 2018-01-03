@@ -296,6 +296,8 @@ https://twitter.com/sambego
 
 ## Sweden 🇸🇪
 
+### Gothenburg
+
 <img src="https://pbs.twimg.com/profile_images/460910824387649536/Xxzu5eXA_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
 
 Carl Mäsak  
