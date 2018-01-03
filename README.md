@@ -1610,6 +1610,12 @@ Tracy Lee
 Topics: Reactive Programming, Angular, Ember.js  
 https://twitter.com/ladyleet
 
+<img src="https://pbs.twimg.com/profile_images/812595124093874176/QmrpKncp_400x400.jpg" height="70px" width="auto" align="left" alt="Patrick Stapleton" />
+
+Patrick Stapleton  
+Topics: OSS, Serverless, GraphQL, Vue.js, React, Angular, TypeScript  
+https://twitter.com/gdi2290
+
 # South America
 
 ## Argentina 🇦🇷
