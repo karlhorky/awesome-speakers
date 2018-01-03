@@ -745,7 +745,7 @@ Maurizio Mangione
 Topics: Web Components, Polymer, Progressive Web Apps  
 https://twitter.com/granze
 
-## Verona
+### Verona
 
 <img src="https://pbs.twimg.com/profile_images/873084382235418625/qckzbrGr_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
@@ -1279,7 +1279,7 @@ Inayaili de León
 Topics: Design Systems, Responsive Web Design, Design Leadership, UI  
 https://twitter.com/yaili
 
-## Norwich
+### Norwich
 
 <img src="https://i.imgur.com/8Gs1jxd.jpg" height="70px" width="auto" align="left" alt="" />
 
