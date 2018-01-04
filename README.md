@@ -1626,6 +1626,12 @@ Monica Dinculescu
 Topics: Web Components, Polymer, Emoji  
 https://twitter.com/notwaldorf
 
+<img src="https://pbs.twimg.com/profile_images/812595124093874176/QmrpKncp_400x400.jpg" height="70px" width="auto" align="left" alt="Patrick Stapleton" />
+
+Patrick Stapleton  
+Topics: OSS, Serverless, GraphQL, Vue.js, React, Angular, TypeScript  
+https://twitter.com/gdi2290
+
 <img src="https://pbs.twimg.com/profile_images/936972230931574784/2GLuGYUh_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Preethi Kasireddy  
