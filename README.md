@@ -218,7 +218,7 @@ Eva Lettner
 Topics: CSS, Web  
 https://twitter.com/eva_trostlos
 
-<img src="https://pbs.twimg.com/profile_images/687205014348103680/ZcIXYv4g_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/944643389085159425/H3SC26SO_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Glenn Reyes  
 Topics: Code Splitting, React  
