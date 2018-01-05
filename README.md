@@ -1317,11 +1317,11 @@ Topics: CSS, HTML
 https://twitter.com/leaverou
 
 ### California
-<img src="https://pbs.twimg.com/profile_images/944484726739312640/LaUJrclA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/944484726739312640/LaUJrclA_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
-Addy Osmani 
+Addy Osmani  
 Topics: GoogleChrome devtool, TodoMVC, @Yeoman, Material Design Lite  
-https://twitter.com/addyosmani
+https://twitter.com/addyosmani   
 
 
 ### Carlsbad
