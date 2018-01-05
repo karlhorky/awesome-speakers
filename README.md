@@ -1474,6 +1474,12 @@ https://twitter.com/linclark
 
 ### Portland
 
+https://pbs.twimg.com/profile_images/931764813713174528/aVLowei6_400x400.jpg
+
+Scott Hanselman  
+Topics: .NET, Azure 
+https://www.hanselman.com/
+
 <img src="https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Kyle Shevlin  
