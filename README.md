@@ -1292,6 +1292,14 @@ Tiff Nogueira
 Topics: CSS Grids, React, Redux, Firebase, Flexbox   
 https://twitter.com/tiffcodes
 
+### Hamilton
+<img src="https://pbs.twimg.com/profile_images/877525007185858562/7G9vGTca_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Wes Bos  
+Topics: Fullstack Dev , JavaScript, CSS, Node, React  
+https://twitter.com/wesbos
+
+
 ## United States of America 🇺🇸
 
 ### Boston
@@ -1307,6 +1315,14 @@ https://twitter.com/bahmutov &bull; https://slides.com/bahmutov &bull; https://g
 Lea Verou  
 Topics: CSS, HTML  
 https://twitter.com/leaverou
+
+### California
+<img src="https://pbs.twimg.com/profile_images/944484726739312640/LaUJrclA_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+Addy Osmani  
+Topics: GoogleChrome devtool, TodoMVC, @Yeoman, Material Design Lite  
+https://twitter.com/addyosmani   
+
 
 ### Carlsbad
 
