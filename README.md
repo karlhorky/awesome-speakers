@@ -391,6 +391,12 @@ Hernán Magrini
 Topics: Web Performance, Service Workers  
 https://twitter.com/hermagrini
 
+<img src="https://pbs.twimg.com/profile_images/763380328316694528/QI6mgUbU_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Hugo Giraudel  
+Topics: Accessibility, Diversity, Inclusivity  
+https://twitter.com/HugoGiraudel
+
 <img src="https://pbs.twimg.com/profile_images/858703912769081345/edLyRpPr_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Karl Horky  
