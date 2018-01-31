@@ -1676,11 +1676,11 @@ https://twitter.com/fdaciuk
 
 ### Rio de Janeiro
 
-<img src="https://pbs.twimg.com/profile_images/932359161169481728/3VnTSKkC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/957102301914820610/xFmNIdlq_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Raphael Amorim  
 Topics: React, JavaScript, jQuery  
-https://twitter.com/raphamundi &bull; https://github.com/raphamorim
+https://twitter.com/raphamorims &bull; https://github.com/raphamorim
 
 ### São Paulo
 
