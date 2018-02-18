@@ -1247,7 +1247,7 @@ Michele Bertoli
 Topics: React, Testing  
 https://twitter.com/MicheleBertoli
 
-<img src="https://pbs.twimg.com/profile_images/959578176602034176/QTT1llzm_400x400.jpgs" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/959578176602034176/QTT1llzm_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Phil Plückthun  
 Topics: React, CSS in JS  
