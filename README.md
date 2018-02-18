@@ -784,6 +784,15 @@ Peter-Paul Koch
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility  
 https://twitter.com/ppk  
 
+### Gouda
+
+<img src="https://pbs.twimg.com/profile_images/665910124389597184/7nYNsd7U_400x400.jpg" height="70px" width="auto" align="left" alt="Rowdy Rabouw" />
+
+Rowdy Rabouw  
+Topics: NativeScript, Browser APIs  
+https://twitter.com/rowdyrabouw
+https://double-r.nl/speaking/
+
 ### Zwolle
 
 <img src="https://pbs.twimg.com/profile_images/941994430852141056/UEJ-BM2Y_400x400.jpg" height="70px" width="auto" align="left" alt="" />
