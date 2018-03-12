@@ -1485,6 +1485,12 @@ Paul Irish
 Topics: Developer Tools  
 https://twitter.com/paul_irish
 
+<img src="https://avatars3.githubusercontent.com/u/1909539?s=460&v=4" height="70px" width="auto" align="left" alt="" />
+
+Cheng Lou
+Topics: ReasonML, React, Software Philosophy
+https://twitter.com/_chenglou
+
 ### Philadelphia
 
 <img src="https://pbs.twimg.com/profile_images/462071677317160960/fvsOcwr1_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
