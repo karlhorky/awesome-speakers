@@ -256,7 +256,7 @@ https://twitter.com/mxstbr
 <img src="https://pbs.twimg.com/profile_images/814140031237496832/G-OShJRF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Nik Graf  
-Topics: Virtual Reality, Serverless, React  
+Topics: ReasonML, Serverless, Virtual Reality, React  
 https://twitter.com/nikgraf
 
 <img src="https://pbs.twimg.com/profile_images/506474262278856704/V9E39edd_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
