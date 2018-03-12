@@ -1475,6 +1475,12 @@ Una Kravets
 Topics: CSS, Web  
 https://twitter.com/una
 
+<img src="https://pbs.twimg.com/profile_images/892351529348411392/FLQyLnoc_400x400.jpg" height="70px" width="auto" align="left" alt="">
+
+Jared Palmer  
+Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS   
+https://twitter.com/jaredpalmer
+
 ### Omaha
 
 <img src="https://pbs.twimg.com/profile_images/936447300674744320/Y0eqcTp4_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
