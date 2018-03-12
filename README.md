@@ -34,7 +34,7 @@ Ire Aderinokun
 Topics: Progressive Web Apps, CSS, Standards  
 https://twitter.com/ireaderinokun   
 
-<img src="https://pbs.twimg.com/profile_images/939824637378224129/he81bbQS_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/964195433269661696/61un2rFe_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Otemuyiwa Prosper   
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel  
@@ -70,7 +70,7 @@ Kumar Anirudha
 Topics: Python, Node.js, Blockchain, Architecture, Cryptocurrency  
 https://twitter.com/kranirudha
 
-<img src="https://pbs.twimg.com/profile_images/895583823202668544/kFsLGKC3_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/951062734858170368/LwVHq_qL_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Siddharth Kshetrapal  
 Topics: CSS, Web Performance, React, CSS in JS, Node, Testing  
@@ -108,7 +108,7 @@ https://twitter.com/amdsouza92
 
 ### Tyre
 
-<img src="https://pbs.twimg.com/profile_images/938495182563086336/x42XXmRg_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/959357207639937024/h6eFYWcM_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sara Soueidan  
 Topics: Animations, CSS, SVG  
@@ -260,7 +260,7 @@ Oliver Schöndorfer
 Topics: Typography, CSS   
 https://twitter.com/glyphe
 
-<img src="https://pbs.twimg.com/profile_images/923184283367469057/HFTSuBcW_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/958357303627051008/eGdVvPwx_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Patrick Stapfer  
 Topics: ReasonML, Static Typing, Flow  
@@ -272,7 +272,7 @@ Peter Ferak
 Topics: Functional Programming, Computer Science  
 https://twitter.com/ferakpeter
 
-<img src="https://pbs.twimg.com/profile_images/932346784256610310/rrFQsmPI_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/954103907952840704/AQgDgw8R_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Timo Obereder  
 Topics: React, Composition, Android, RXJava, Kotlin  
@@ -349,7 +349,7 @@ https://twitter.com/manekinekko
 
 ### Strasbourg
 
-<img src="https://pbs.twimg.com/profile_images/930419664487960576/SxC1WzYC_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/959737615409967104/JoeGN4Wu_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sven Sauleau    
 Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science    
@@ -373,7 +373,7 @@ Ally Long
 Topics: CSS, Performance  
 https://twitter.com/allyelle
 
-<img src="https://pbs.twimg.com/profile_images/770970370409201664/NtuKnExn_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/947461331933974533/-jOaJuLG_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Artem Sapegin  
 Topics: Styleguides, UI, CSS  
@@ -505,7 +505,7 @@ Franziska Hinkelmann
 Topics: Node, V8  
 https://twitter.com/fhinkel
 
-<img src="https://pbs.twimg.com/profile_images/1255767431/kung-fu_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/952797845534453760/HRhT4f_5_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Mathias Bynens  
 Topics: JavaScript (TC39), V8, Chrome  
@@ -641,7 +641,7 @@ Michael Flanagan
 Topics: PHP, JavaScript, REST, Testing  
 https://twitter.com/micflan  
 
-<img src="https://pbs.twimg.com/profile_images/786883621806346241/FjHJiSVF_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/954956521548300290/7tHhlRF7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Mustafa Turan  
 Topics: Elixir, Ruby, Functional Programming  
@@ -754,7 +754,7 @@ Alexey Kureev
 Topics: React Native  
 https://twitter.com/kureevalexey
 
-<img src="https://pbs.twimg.com/profile_images/734378184918073348/j3bsV9Xk_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/962795502948450306/UocyM3_0_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Carmen Popoviciu  
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
@@ -772,7 +772,7 @@ Michel Weststrate
 Topics: MobX, React, mobx-state-tree, Typescript, Open Source  
 https://twitter.com/mweststrate
 
-<img src="https://pbs.twimg.com/profile_images/859482903763460098/565FGTxs_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/947890699193765888/GIE2iMA5_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Narendra Shetty  
 Topics: React, Progressive Web Apps  
@@ -783,6 +783,14 @@ https://twitter.com/narendra_shetty
 Peter-Paul Koch  
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility  
 https://twitter.com/ppk  
+
+### Gouda
+
+<img src="https://pbs.twimg.com/profile_images/665910124389597184/7nYNsd7U_400x400.jpg" height="70px" width="auto" align="left" alt="Rowdy Rabouw" />
+
+Rowdy Rabouw  
+Topics: NativeScript, Browser APIs  
+https://twitter.com/rowdyrabouw &bull; https://double-r.nl/speaking/
 
 ### Zwolle
 
@@ -832,7 +840,7 @@ https://twitter.com/tlakomy
 
 ### Warsaw
 
-<img src="https://pbs.twimg.com/profile_images/889850940852973568/kqTZlAf5_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/950458278248673281/It1bn5n-_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Aga Naplocha  
 Topics: CSS, Teaching Web Technologies  
@@ -894,7 +902,7 @@ Miguel Andrade
 Topics: Ember, JavaScript  
 https://twitter.com/maskedwarrior  
 
-<img src="https://pbs.twimg.com/profile_images/926881997863211008/WMzMYyCe_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/956950105252401152/SeDjyHfB_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sara Vieira  
 Topics: Styleguides, React, CSS, Preact, CSS-in-JS    
@@ -912,7 +920,7 @@ https://twitter.com/martonkodok &bull; [Slides](https://slideshare.net/martonkod
 
 ### Moscow
 
-<img src="https://pbs.twimg.com/profile_images/486131556675616770/3695qr5w_400x400.png" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/956916519530893313/IjJOE9yi_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Nikita Prokopov  
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar  
@@ -1161,7 +1169,7 @@ Alessandro Cinelli
 Topics: JavaScript  
 https://twitter.com/cirpo
 
-<img src="https://pbs.twimg.com/profile_images/1540939151/whereIsAlexWithGlasses_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/947427749769240576/h6LOU4zh_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Alex Lobera  
 Topics: JavaScript, React, Redux, GraphQL  
@@ -1221,7 +1229,7 @@ Davide 'Folletto' Casali
 Topics: Design, User Experience, Management, Leadership, Startups  
 https://twitter.com/Folletto
 
-<img src="https://pbs.twimg.com/profile_images/796861611030024192/pVl1eq7f_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/953430046915559424/3qUVl6M-_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Gerard Sans  
 Topics: Angular, React, GraphQL, CSS Animations, RxJS  
@@ -1239,7 +1247,7 @@ Michele Bertoli
 Topics: React, Testing  
 https://twitter.com/MicheleBertoli
 
-<img src="https://pbs.twimg.com/profile_images/927592446757949440/DE__8sim_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/959578176602034176/QTT1llzm_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Phil Plückthun  
 Topics: React, CSS in JS  
@@ -1251,7 +1259,7 @@ Sani Yusuf
 Topics: Ionic, Angular, JavaScript, Progressive Web Apps  
 https://twitter.com/saniyusuf  
 
-<img src="https://pbs.twimg.com/profile_images/752636760245534720/aWQ8XKJD_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/955889052259151876/-AaUcCNb_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sebastian Witalec  
 Topics: NativeScript, Angular, Bots, JavaScript  
@@ -1278,7 +1286,7 @@ https://twitter.com/heydonworks
 
 ### Ottawa
 
-<img src="https://pbs.twimg.com/profile_images/937665599932682242/G8dCW3FF_400x400.jpg" height="70px" width="auto" align="left" alt="">
+<img src="https://pbs.twimg.com/profile_images/956068962118356992/Pnx2kuBr_400x400.jpg" height="70px" width="auto" align="left" alt="">
 
 Tanya Janca  
 Topics: InfoSec, Web App Security  
@@ -1356,7 +1364,7 @@ https://twitter.com/gigasquid
 
 ### Chicago
 
-<img src="https://pbs.twimg.com/profile_images/858090247518736384/D96X3RtH_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://pbs.twimg.com/profile_images/949659212493148160/AbjFEpZ__400x400.jpg" height="70px" width="auto" align="left" />
 
 Karl Hughes  
 Topics: Microservices, PHP, JavaScript, Docker  
@@ -1372,7 +1380,7 @@ https://twitter.com/mirisuzanne
 
 ### Nashville
 
-<img src="https://pbs.twimg.com/profile_images/899001646679814145/4TU9HfO-_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/954432943493124096/tG1LSFfY_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Aimee Knight  
 Topics: JavaScript, CSS, Angular, Growing Junior Developers  
@@ -1380,7 +1388,7 @@ https://twitter.com/Aimee_Knight
 
 ### New Jersey
 
-<img src="https://pbs.twimg.com/profile_images/934602810720768005/jgyKgkFv_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/959532961250062341/tlvPlwzE_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Ken Wheeler  
 Topics: React, React Native, ReasonML  
@@ -1432,7 +1440,7 @@ Lara Hogan
 Topics: Design, Performance, Engineering Management, Public Speaking  
 https://twitter.com/lara_hogan
 
-<img src="https://pbs.twimg.com/profile_images/896883376954757120/gXtYevrr_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/961296885968441345/-KOHqhGz_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Kurtis Kemple  
 Topics: React, React Native, GraphQL, Universal Components  
@@ -1502,7 +1510,7 @@ https://twitter.com/linclark
 
 ### Portland
 
-<img src="https://pbs.twimg.com/profile_images/931764813713174528/aVLowei6_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/951729445009637376/0V25QMDk_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Scott Hanselman  
 Topics: .NET, Azure  
@@ -1638,7 +1646,7 @@ Stephanie Rewis
 Topics: Design Systems, CSS  
 https://twitter.com/stefsull
 
-<img src="https://pbs.twimg.com/profile_images/945876515472003072/hTFoBORb_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/954011930942935040/ZG9WZLph_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Tracy Lee  
 Topics: Reactive Programming, Angular, Ember.js  
@@ -1650,7 +1658,7 @@ https://twitter.com/ladyleet
 
 ### Buenos Aires
 
-<img src="https://pbs.twimg.com/profile_images/540127281490845697/_2zxxUOt_400x400.jpeg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/947942132383404034/UASJMdpm_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Evangelina Ferreira   
 Topics: CSS, Animations   
@@ -1676,7 +1684,7 @@ https://twitter.com/fdaciuk
 
 ### Rio de Janeiro
 
-<img src="https://pbs.twimg.com/profile_images/957102301914820610/xFmNIdlq_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/961751357010059265/c5SlTmn6_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Raphael Amorim  
 Topics: React, JavaScript, jQuery  
@@ -1690,7 +1698,7 @@ Fernanda Bernardo
 Topics: CSS, JavaScript, HTML  
 https://twitter.com/Feh_Bernardo
 
-<img src="https://pbs.twimg.com/profile_images/780046667366141952/wMdyP7d7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/962826155203145734/BReLMLmc_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 João Victor Dias  
 Topics: Computer Vision, Keras, CNN, R, Data Science path  
