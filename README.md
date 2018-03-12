@@ -1687,6 +1687,14 @@ Fernando Daciuk
 Topics: React, JavaScript  
 https://twitter.com/fdaciuk
 
+### Joinville
+
+<img src="https://pbs.twimg.com/profile_images/785945345297682432/gwWz1ZPL_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+  
+Marcelo Camargo    
+Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus   
+https://twitter.com/nexwire  
+
 ### Rio de Janeiro
 
 <img src="https://pbs.twimg.com/profile_images/961751357010059265/c5SlTmn6_400x400.jpg" height="70px" width="auto" align="left" alt="" />
