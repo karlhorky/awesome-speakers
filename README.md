@@ -40,6 +40,15 @@ Otemuyiwa Prosper
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel  
 https://twitter.com/unicodeveloper    
 
+## South Africa
+
+### Johannesburg
+
+<img src="https://pbs.twimg.com/profile_images/944146394167894016/LlcJ_NKw_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Rebecca Franks   
+Topics: Android, Android Things, Firebase, IoT             
+https://twitter.com/https://twitter.com/riggaroo    
 
 # Asia
 
