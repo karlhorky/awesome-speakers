@@ -113,7 +113,7 @@ https://twitter.com/amdsouza92
 
 ### Tyre
 
-<img src="https://pbs.twimg.com/profile_images/959357207639937024/h6eFYWcM_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/970682321610465280/6ToReW3K_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sara Soueidan  
 Topics: Animations, CSS, SVG  
@@ -129,7 +129,7 @@ Aysha Anggraini
 Topics: CSS, Animations  
 https://twitter.com/renettarenula
 
-<img src="https://pbs.twimg.com/profile_images/917359648524558336/Zu2sC6Jk_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/964412730894557185/_BxGa8ne_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Chen Hui Jing  
 Topics: CSS  
@@ -474,7 +474,7 @@ Mario Nebl
 Topics: JavaScript, Node, JS Architecture  
 https://twitter.com/marionebl  
 
-<img src="https://pbs.twimg.com/profile_images/2127157281/Martin_Kleppe_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/971269394193141761/4bPlSxyL_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Martin Kleppe    
 Topics: Weird JS    
@@ -568,7 +568,7 @@ Anton Whalley
 Topics: Node.js, Decentralization, FreeBSD, Open Source  
 https://twitter.com/dhigit9  
 
-<img src="https://pbs.twimg.com/profile_images/866240074807169025/Sh8odzKS_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/966600868727545861/R5Cs0sOW_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Augusto Evangelisti  
 Topics: Testing, Agile, Bitcoin  
@@ -765,12 +765,6 @@ Carmen Popoviciu
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components  
 https://twitter.com/carmenpopoviciu
 
-<img src="https://pbs.twimg.com/profile_images/935659648446853122/7DPKTEwT_400x400.jpg" height="70px" width="auto" align="left" alt="" />
-
-Kitze  
-Topics: MobX, State Management, GraphQL, CSS in JS  
-https://twitter.com/thekitze
-
 <img src="https://pbs.twimg.com/profile_images/661253444058005504/uO5nbrTL_bigger.jpg" height="70px" width="auto" align="left" alt="" />
 
 Michel Weststrate  
@@ -815,6 +809,12 @@ Kasia Jastrzębska
 Topics: React, Redux, Async, CSS in JS, ClojureScript  
 https://twitter.com/kejt_bw
 
+<img src="https://pbs.twimg.com/profile_images/935659648446853122/7DPKTEwT_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Kitze  
+Topics: MobX, State Management, GraphQL, CSS in JS  
+https://twitter.com/thekitze
+
 ### Krakow
 
 <img src="https://pbs.twimg.com/profile_images/928705324911136770/9mwlXYgA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -829,7 +829,7 @@ Kacper Sokołowski
 Topics: JavaScript, Security, Service Workers  
 https://twitter.com/kaapa_s
 
-<img src="https://pbs.twimg.com/profile_images/538401368612945921/AvwrMusf_400x400.jpeg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/969155591477309441/lAf6s2t0_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Konrad Dzwinel   
 Topics: Developer Tools, JavaScript    
@@ -1050,7 +1050,7 @@ Aleksey Shvayka
 Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk  
 [https://twitter.com/shvaikalesh_](https://twitter.com/shvaikalesh_)
 
-<img src="https://scontent.fiev4-1.fna.fbcdn.net/v/t1.0-1/c0.121.320.320/p320x320/19420373_10155430400107594_7504485893579067182_n.jpg?oh=b1bd77c04e2a5f1d0238b39768d8fde6&oe=5A905BB8" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/648922939379843076/uPoepv28_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Andrey Listochkin   
 Topics: Rust, JavaScript, Skills, Architecture  
@@ -1210,7 +1210,7 @@ Bodil Stokke
 Topics: Programming, Functional Programming  
 https://twitter.com/bodil
 
-<img src="https://pbs.twimg.com/profile_images/780901614794178560/XcFiEOAH_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/971392167859163137/xSPQCrn1_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Chris Noring  
 Topics: JS, RxJS, Angular, React  
@@ -1291,7 +1291,7 @@ https://twitter.com/heydonworks
 
 ### Ottawa
 
-<img src="https://pbs.twimg.com/profile_images/956068962118356992/Pnx2kuBr_400x400.jpg" height="70px" width="auto" align="left" alt="">
+<img src="https://pbs.twimg.com/profile_images/966603379110592512/YQqhBbUw_400x400.jpg" height="70px" width="auto" align="left" alt="">
 
 Tanya Janca  
 Topics: InfoSec, Web App Security  
@@ -1633,7 +1633,7 @@ Preethi Kasireddy
 Topics: Machine Learning, Natural Language Processing, React  
 https://twitter.com/iam_preethi
 
-<img src="https://pbs.twimg.com/profile_images/856249108885110784/97cssCek_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/967911694457389056/lNnUddRP_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sarah Drasner  
 Topics: CSS, SVG, Animations, Vue.js, React  
