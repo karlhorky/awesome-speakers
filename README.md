@@ -72,7 +72,14 @@ https://twitter.com/smkamranqadri
 
 Nasir Hussain  
 Topics: Open Source Technologies, Linux, Firebase.    
-https://twitter.com/nasirhm1    
+https://twitter.com/nasirhm1   
+
+
+<img src="https://pbs.twimg.com/profile_images/951283304275292160/DeTUsawA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Ahsan Ayaz  
+Topics: JavaScript, Angular, NodeJS, Ionic, Firebase, Stencil, Progressive Web Apps    
+https://twitter.com/ahsan_ayz &bull; [Slides](https://slides.com/ahsanayaz) &bull; [Blog](https://medium.com/@ahsan.ayaz) &bull; [Github](https://github.com/ahsanayaz) 
 
 ## India 🇮🇳
 
