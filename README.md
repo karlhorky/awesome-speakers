@@ -77,7 +77,7 @@ https://twitter.com/nasirhm1
 
 ### Mianwali
 
-<img src="https://pbs.twimg.com/profile_images/963710139537731584/-HZi1FWf_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/974682963727323136/yXpsVTdJ_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Badar Shahzad Khan  
 Topics: Android, Firebase, Python, Flask, HTML, CSS, Java, JavaFx, Git, GitHub,   
