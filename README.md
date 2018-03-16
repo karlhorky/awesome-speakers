@@ -72,7 +72,17 @@ https://twitter.com/smkamranqadri
 
 Nasir Hussain  
 Topics: Open Source Technologies, Linux, Firebase.    
-https://twitter.com/nasirhm1    
+https://twitter.com/nasirhm1     
+
+
+### Mianwali
+
+<img src="https://pbs.twimg.com/profile_images/974682963727323136/yXpsVTdJ_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+Badar Shahzad Khan  
+Topics: Android, Firebase, Python, Flask, HTML, CSS, Java, JavaFx, Git, GitHub,   
+https://twitter.com/badarshahzad54
+
 
 ## India 🇮🇳
 
