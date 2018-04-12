@@ -68,10 +68,10 @@ Muhammad Kamran
 Topics: Angular, Redux, Rxjs, (Flutter, Dart, React Native, Javascript, Typescript, Linux)    
 https://twitter.com/smkamranqadri 
 
-<img src="https://pbs.twimg.com/profile_images/971364308184715264/yaCg3L-t_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/984529303017869313/HQ2uwSKw_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Nasir Hussain  
-Topics: Open Source Technologies, Linux, Firebase.    
+Topics: BlockChain, Smart Contracts, Ethereum, Solidity, Open Source, AI, Linux, Web, Firebase      
 https://twitter.com/nasirhm1    
 
 ## India 🇮🇳
