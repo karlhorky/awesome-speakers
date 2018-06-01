@@ -1451,7 +1451,7 @@ https://twitter.com/left_pad
 <img src="https://pbs.twimg.com/profile_images/765902179660161024/zCC2yj_R_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Jen Simmons  
-Topics: CSS, HTML, Web  
+Topics: Design, CSS, HTML, Web  
 https://twitter.com/jensimmons
 
 <img src="https://pbs.twimg.com/profile_images/849322587909967874/pOMAg5VX_400x400.jpg" height="70px" width="auto" align="left" alt="" />
