@@ -74,6 +74,12 @@ Nasir Hussain
 Topics: BlockChain, Smart Contracts, Ethereum, Solidity, Open Source, AI, Linux, Web, Firebase      
 https://twitter.com/nasirhm1    
 
+<img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="auto" align="left" alt="" />  
+
+[Narain Sagar](https://github.com/narainsagar)  
+Topics: Web, Angular, JavaScript / Typescript, Node.js, Docker, Continuous Integration, Deployments / Tooling, Automation Testing.      
+https://twitter.com/narainsagar 
+
 ## India 🇮🇳
 
 ### Bangalore
