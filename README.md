@@ -62,7 +62,7 @@ Mashhood Rastgar
 Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web    
 https://twitter.com/mashhoodr 
 
-<img src="https://pbs.twimg.com/profile_images/969833946639978498/BZPWIb1e_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/992318761385410560/BKO5V1-j_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 Muhammad Kamran  
 Topics: Angular, Redux, Rxjs, (Flutter, Dart, React Native, Javascript, Typescript, Linux)    
