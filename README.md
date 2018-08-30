@@ -1416,7 +1416,7 @@ https://twitter.com/ken_wheeler
 
 ### New Orleans
 
-<img src="https://pbs.twimg.com/profile_images/1020056413647745024/GqV3B7d8_400x400.png" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1020056413647745024/GqV3B7d8_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Gant Laborde  
 Topics:  JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking  
