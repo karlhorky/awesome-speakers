@@ -1,9 +1,11 @@
 # Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> Awesome speakers in the programming and design communities
 
-**> Awesome speakers in the programming and design communities**  
-**Hi, I'm Karl and I'd like to help make it more transparent and easy to find speakers for meetups and conferences. Below I've started to compile a list of awesome speakers and the topics that they have spoken about (in parentheses are future topics of interest to the speaker).**  
-**Please add to the list and help make the community better connected and richer.**  
+Hi, I'm Karl and I'd like to help make it more transparent and easy to find speakers for meetups and conferences. Below I've started to compile a list of awesome speakers and the topics that they have spoken about (in parentheses are future topics of interest to the speaker).
+
+Please add to the list and help make the community better connected and richer.
+
 ## Contents
 
 - [Africa](#africa)
