@@ -71,7 +71,7 @@ https://twitter.com/smkamranqadri
 
 **Narain Sagar**  
 Topics: Web, Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Deployments, Tooling, Automation Testing  
-https://twitter.com/narainsagar 
+https://twitter.com/narainsagar
 
 <img src="https://pbs.twimg.com/profile_images/984529303017869313/HQ2uwSKw_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
