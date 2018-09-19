@@ -1130,6 +1130,14 @@ https://twitter.com/roman01la
 Topics: Maps, Algorithms  
 https://twitter.com/mourner
 
+### Poltava
+
+<img src="https://pbs.twimg.com/profile_images/1041989573423841280/sit9QAD1_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+**Artem Zakharchenko**  
+Topics: React, Forms, CSS Grid  
+https://twitter.com/kettanaito  
+
 ### Vinnytsia
 
 <img src="https://pbs.twimg.com/profile_images/762656563819675648/22TRjn_P_400x400.jpg" height="70px" width="auto" align="left" alt="" />
