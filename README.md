@@ -479,7 +479,7 @@ https://twitter.com/Srushtika
 <img src="https://avatars1.githubusercontent.com/u/9947422?s=400&u=2e168427f84d2e4e959ca603526bc270e8cf0204&v=4" height="70px" width="auto" align="left" alt="" />
 
 **Tejas Kumar**  
-Topics: [JavaScript](https://www.youtube.com/watch?v=71pKrWWOE0k), React, WebAssembly, Community, Teams, Humanities  
+Topics: JavaScript, React, WebAssembly, Community, Teams, Humanities  
 [https://twitter.com/tejaskumar_](https://twitter.com/tejaskumar_)
 
 <img src="https://pbs.twimg.com/profile_images/991000326500216832/Pq0U8YEm_400x400.jpg" height="70px" width="auto" align="left" alt="" />
