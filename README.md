@@ -464,13 +464,13 @@ https://twitter.com/oleg008
 Topics: Jest, React, AMP, (Elm)  
 https://twitter.com/robinpokorny
 
-<img src="https://pbs.twimg.com/profile_images/1027551460869980160/a_6fy0MP_400x400.jpg" height="70px" width="auto" align="left" alt="" />
-
 <img src="https://pbs.twimg.com/profile_images/1041378294833340416/9NWw-DpP_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Sara Vieira**  
 Topics: Styleguides, React, CSS, Preact, CSS-in-JS    
 https://twitter.com/NikkitaFTW
+
+<img src="https://pbs.twimg.com/profile_images/1027551460869980160/a_6fy0MP_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Srushtika Neelakantam**  
 Topics: WebVR, A-Frame, Realtime Web, JavaScript Frameworks  
