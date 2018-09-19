@@ -1775,6 +1775,12 @@ https://twitter.com/Feh_Bernardo
 Topics: Computer Vision, Keras, CNN, R, Data Science path  
 https://twitter.com/JoaoVictor_AC
 
+<img src="https://pbs.twimg.com/profile_images/734489959885901825/5ZOk8EJ5_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+**Sibelius Seraphini**  
+Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain  
+https://twitter.com/sseraphini
+
 # License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
