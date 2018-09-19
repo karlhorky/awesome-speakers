@@ -244,7 +244,7 @@ Glenn Reyes
 Topics: Code Splitting, React  
 https://twitter.com/glnnrys
 
-<img src="https://pbs.twimg.com/profile_images/875719105839603712/_nJ_XRw1_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1015144323611025409/0cJWAtwM_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Jan Hruby  
 Topics: React, Redux, CSS in JS, (React Native, Serverless, GraphQL)  
@@ -340,7 +340,7 @@ Olga Dmitricenko
 Topics: Virtual Reality, Web Image Processing  
 https://twitter.com/enthusiasto
 
-<img src="https://pbs.twimg.com/profile_images/824242201655910400/mY7NMaDE_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1032272422089764869/R3fzCsxP_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Tereza Sokol  
 Topics: Elm, Visualizations  
@@ -655,7 +655,7 @@ Maja Grubic
 Topics: Node.js, JavaScript, React, Monitoring, D3, SVG  
 https://twitter.com/princessmaja  
 
-<img src="https://pbs.twimg.com/profile_images/760868419696812032/iPYX4sc7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1040621277717954567/Ps_7tUzZ_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Mario Casciaro  
 Topics: Node.js, JavaScript, Design Patterns, Startups  
@@ -703,7 +703,7 @@ Serena Fritsch
 Topics: JavaScript, Ember, Developer Workflows  
 https://twitter.com/serifritsch  
 
-<img src="https://pbs.twimg.com/profile_images/902439603013079040/NG_OdOwh_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1042106549467000835/pXss9cCp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Thomas Shaw  
 Topics: Docker, Jenkins, Devops  
@@ -928,7 +928,7 @@ Miguel Andrade
 Topics: Ember, JavaScript  
 https://twitter.com/maskedwarrior  
 
-<img src="https://pbs.twimg.com/profile_images/993590021276995584/GRGg5x8v_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1041378294833340416/9NWw-DpP_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sara Vieira  
 Topics: Styleguides, React, CSS, Preact, CSS-in-JS    
@@ -1320,7 +1320,7 @@ https://twitter.com/heydonworks
 
 ### Ottawa
 
-<img src="https://pbs.twimg.com/profile_images/1004339049308581888/Ys307Qgi_400x400.jpg" height="70px" width="auto" align="left" alt="">
+<img src="https://pbs.twimg.com/profile_images/1037831206199611393/Zho8LB0C_400x400.jpg" height="70px" width="auto" align="left" alt="">
 
 Tanya Janca  
 Topics: InfoSec, Web App Security  
@@ -1674,7 +1674,7 @@ Preethi Kasireddy
 Topics: Machine Learning, Natural Language Processing, React  
 https://twitter.com/iam_preethi
 
-<img src="https://pbs.twimg.com/profile_images/982796605425303552/phhp5grt_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1039352369232789504/M7tgq-c8_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Sarah Drasner  
 Topics: CSS, SVG, Animations, Vue.js, React  
@@ -1738,7 +1738,7 @@ https://twitter.com/nexwire
 
 ### Rio de Janeiro
 
-<img src="https://pbs.twimg.com/profile_images/1031548596108374017/2rFwmYPS_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/1038538668120723456/vGxq0okc_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 Raphael Amorim  
 Topics: React, JavaScript, jQuery  
