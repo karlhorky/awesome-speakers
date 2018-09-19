@@ -1778,7 +1778,7 @@ https://twitter.com/JoaoVictor_AC
 <img src="https://pbs.twimg.com/profile_images/734489959885901825/5ZOk8EJ5_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Sibelius Seraphini**  
-Topics: JavaScript, React, React Native, NodeJS, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain  
+Topics: React, React Native, Node.js, GraphQL, Relay Modern, Open Source, Machine Learning, Blockchain  
 https://twitter.com/sseraphini
 
 # License
