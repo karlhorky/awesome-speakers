@@ -55,6 +55,12 @@ https://twitter.com/riggaroo
 
 ### Karachi
 
+<img src="https://pbs.twimg.com/profile_images/951283304275292160/DeTUsawA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+**Ahsan Ayaz**  
+Topics: JavaScript, Angular, NodeJS, Ionic, Firebase, Stencil, Progressive Web Apps  
+https://twitter.com/ahsan_ayz &bull; [Slides](https://slides.com/ahsanayaz) &bull; [Blog](https://medium.com/@ahsan.ayaz) &bull; [Github](https://github.com/ahsanayaz)
+
 <img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 **Mashhood Rastgar**  
