@@ -55,6 +55,12 @@ https://twitter.com/riggaroo
 
 ### Karachi
 
+<img src="https://pbs.twimg.com/profile_images/951283304275292160/DeTUsawA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+**Ahsan Ayaz**  
+Topics: JavaScript, Angular, NodeJS, Ionic, Firebase, Stencil, Progressive Web Apps  
+https://twitter.com/ahsan_ayz &bull; [Slides](https://slides.com/ahsanayaz) &bull; [Blog](https://medium.com/@ahsan.ayaz) &bull; [Github](https://github.com/ahsanayaz)
+
 <img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 **Mashhood Rastgar**  
@@ -67,17 +73,17 @@ https://twitter.com/mashhoodr
 Topics: Angular, Redux, Rxjs, (Flutter, Dart, React Native, Javascript, Typescript, Linux)    
 https://twitter.com/smkamranqadri 
 
+<img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="auto" align="left" alt="" />  
+
+**Narain Sagar**  
+Topics: Web, Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Deployments, Tooling, Automation Testing  
+https://twitter.com/narainsagar
+
 <img src="https://pbs.twimg.com/profile_images/984529303017869313/HQ2uwSKw_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 **Nasir Hussain**  
-Topics: BlockChain, Smart Contracts, Ethereum, Solidity, Open Source, AI, Linux, Web, Firebase  
-https://twitter.com/nasirhm1 
-
-<img src="https://pbs.twimg.com/profile_images/951283304275292160/DeTUsawA_400x400.jpg" height="70px" width="auto" align="left" alt="" />
-
-**Ahsan Ayaz**  
-Topics: JavaScript, Angular, NodeJS, Ionic, Firebase, Stencil, Progressive Web Apps  
-https://twitter.com/ahsan_ayz &bull; [Slides](https://slides.com/ahsanayaz) &bull; [Blog](https://medium.com/@ahsan.ayaz) &bull; [Github](https://github.com/ahsanayaz)
+Topics: BlockChain, Smart Contracts, Ethereum, Solidity, Open Source, AI, Linux, Web, Firebase      
+https://twitter.com/nasirhm1
 
 ## India 🇮🇳
 
