@@ -1123,10 +1123,10 @@ Topics: Web Performance, Dev Tools
 
 ### Odessa
 
-<img src="https://pbs.twimg.com/profile_images/1739612633/z_8dbd8d01_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/976789509613506561/OiETwpCp_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
-Timofey Lavrenyuk
-Topics: Progressive Web Apps, Modern Browser APIs
+Timofey Lavrenyuk  
+Topics: Progressive Web Apps, Modern Browser APIs  
 [https://twitter.com/geek_timofey](https://twitter.com/geek_timofey)
 
 ## United Kingdom 🇬🇧
