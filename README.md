@@ -480,7 +480,7 @@ https://twitter.com/Srushtika
 
 **Tejas Kumar**  
 Topics: [JavaScript](https://www.youtube.com/watch?v=71pKrWWOE0k), React, WebAssembly, Community/Teams/Humanities  
-https://twitter.com/tejaskumar_
+[https://twitter.com/tejaskumar_](https://twitter.com/tejaskumar_)
 
 <img src="https://pbs.twimg.com/profile_images/991000326500216832/Pq0U8YEm_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
