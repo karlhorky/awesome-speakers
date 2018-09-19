@@ -100,8 +100,8 @@ https://twitter.com/siddharthkp
 
 <img src="https://jayeshkattar.github.io/images/photo.png" height="70px" width="auto" align="left" alt="" />
 
-Jayesh Katta Ramalingaiah
-Topics: Rust, Android, Angular, React, Web VR, Project Things, Common Voice, Web Compatibility
+Jayesh Katta Ramalingaiah  
+Topics: Rust, Android, Angular, React, Web VR, Project Things, Common Voice, Web Compatibility  
 https://twitter.com/jayeshkattar
 
 <img src="https://pbs.twimg.com/profile_images/997893804643504128/1ogAEFQj_400x400.jpg" height="70px" width="auto" align="left" alt="" />
