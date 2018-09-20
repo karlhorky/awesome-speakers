@@ -79,10 +79,10 @@ https://twitter.com/smkamranqadri
 Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing  
 https://twitter.com/narainsagar
 
-<img src="https://pbs.twimg.com/profile_images/984529303017869313/HQ2uwSKw_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/1042913409635897344/jADDQpz1_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 **Nasir Hussain**  
-Topics: BlockChain, Smart Contracts, JavaScript, MongoDB, SQL, Firebase, Python, Arduino, Continous Integration. IBM Certified BlockChain Developer. 
+Topics: BlockChain, Smart Contracts, JavaScript, MongoDB, SQL, Firebase, Python, Arduino, Continous Integration. IBM Certified BlockChain Developer.                                                                                             
 https://twitter.com/i_am_the_dev
 
 
