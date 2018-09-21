@@ -2,7 +2,7 @@
 
 > Awesome speakers in the programming and design communities
 
-Hi, I'm Karl and I'd like to help make it more transparent and easy to find speakers for meetups and conferences. Below I've started to compile a list of awesome speakers and the topics that they have spoken about (in parentheses are future topics of interest to the speaker).
+Hi, I'm Karl and I'd like to help make it more transparent and easy to find speakers for meetups and conferences. Below I've started to compile a list of awesome speakers and the topics that they have spoken about.
 
 Please add to the list and help make the community better connected and richer.
 
@@ -70,7 +70,7 @@ https://twitter.com/mashhoodr
 <img src="https://pbs.twimg.com/profile_images/1013094947388641284/Ym7b696E_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 **Muhammad Kamran**  
-Topics: Angular, Redux, Rxjs, (Flutter, Dart, React Native, Javascript, Typescript, Linux)    
+Topics: Angular, Redux, Rxjs, Flutter, Dart, React Native, Javascript, Typescript, Linux  
 https://twitter.com/smkamranqadri 
 
 <img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="auto" align="left" alt="" />  
@@ -259,7 +259,7 @@ https://twitter.com/glnnrys
 <img src="https://pbs.twimg.com/profile_images/1015144323611025409/0cJWAtwM_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Jan Hruby**  
-Topics: React, Redux, CSS in JS, (React Native, Serverless, GraphQL)  
+Topics: React, Redux, CSS in JS, React Native, Serverless, GraphQL  
 https://twitter.com/mrozilla  
 
 <img src="https://pbs.twimg.com/profile_images/931094700592975873/3BHa8NBn_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -438,7 +438,7 @@ https://twitter.com/HugoGiraudel
 <img src="https://pbs.twimg.com/profile_images/858703912769081345/edLyRpPr_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Karl Horky**  
-Topics: Tooling, Standards, (OSS), (Psychology)  
+Topics: Tooling, Standards, Intersectionality, OSS, Psychology  
 https://twitter.com/karlhorky
 
 <img src="https://pbs.twimg.com/profile_images/908054663483838464/KFIQs9d3_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -462,7 +462,7 @@ https://twitter.com/oleg008
 <img src="https://pbs.twimg.com/profile_images/1001729903392411648/sOCR656e_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Robin Pokorny**  
-Topics: Jest, React, AMP, (Elm)  
+Topics: Jest, React, AMP, Elm  
 https://twitter.com/robinpokorny
 
 <img src="https://pbs.twimg.com/profile_images/1041378294833340416/9NWw-DpP_400x400.jpg" height="70px" width="auto" align="left" alt="" />
@@ -531,12 +531,12 @@ https://twitter.com/aemkei
 Topics: CSS, JavaScript  
 https://twitter.com/PalmaSwell
 
-### Höchst (Odenwald)
+### Höchst im Odenwald
 
 <img src="https://pbs.twimg.com/profile_images/937110056222552064/v9g3VFjO_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Tim Pietrusky**  
-Topics: JS Art, JS Music, Javascript  
+Topics: JS Art, JS Music, JavaScript  
 https://twitter.com/TimPietrusky  
 
 ### Karlsruhe
