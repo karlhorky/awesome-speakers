@@ -82,7 +82,7 @@ https://twitter.com/narainsagar
 <img src="https://pbs.twimg.com/profile_images/1042913409635897344/jADDQpz1_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
 
 **Nasir Hussain**  
-Topics: BlockChain, Smart Contracts, JavaScript, MongoDB, SQL, Firebase, Python, Arduino, Continous Integration. IBM Certified BlockChain Developer.                                                                                             
+Topics: Blockchain, Smart Contracts, JavaScript, Databases, Python, Arduino, Continous Integration  
 https://twitter.com/i_am_the_dev
 
 
