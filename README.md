@@ -382,7 +382,7 @@ https://twitter.com/varya_en
 <img src="https://pbs.twimg.com/profile_images/799175687097688064/Y2TWhwYL_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Emmanuel Demey**  
-Topics: Angular, JavaScript, Progressive Web Apps, VueJS, ReactJS, Elasticsearch  
+Topics: Angular, JavaScript, Progressive Web Apps, Vue, React, Elasticsearch  
 https://twitter.com/EmmanuelDemey
 
 ### Paris
