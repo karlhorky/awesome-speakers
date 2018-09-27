@@ -377,6 +377,14 @@ https://twitter.com/varya_en
 
 ## France 🇫🇷
 
+### Lille
+
+<img src="https://pbs.twimg.com/profile_images/799175687097688064/Y2TWhwYL_400x400.jpg" height="70px" width="auto" align="left" alt="" />
+
+**Emmanuel Demey**  
+Topics: Angular, JavaScript, Progressive Web Apps, VueJS, ReactJS, Elasticsearch  
+https://twitter.com/EmmanuelDemey
+
 ### Paris
 
 <img src="https://pbs.twimg.com/profile_images/895370358370557954/JKnsdgkH_400x400.jpg" height="70px" width="auto" align="left" alt="" />
