@@ -1352,6 +1352,14 @@ https://twitter.com/heydonworks
 
 ## Canada 🇨🇦
 
+### Montréal
+
+<img src="http://www.gravatar.com/avatar/0750b9a387f278e1dbc39c49b99becda?s=400" height="70px" width="auto" align="left" alt="">
+
+**Aurélien Loyer**  
+Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT
+https://twitter.com/AurelienLoyer
+
 ### Ottawa
 
 <img src="https://pbs.twimg.com/profile_images/1037831206199611393/Zho8LB0C_400x400.jpg" height="70px" width="auto" align="left" alt="">
