@@ -1354,11 +1354,12 @@ https://twitter.com/heydonworks
 
 ### Montréal
 
-<img src="http://www.gravatar.com/avatar/0750b9a387f278e1dbc39c49b99becda?s=400" height="70px" width="auto" align="left" alt="">
+<img src="https://s.gravatar.com/avatar/0750b9a387f278e1dbc39c49b99becda?s=400" height="70px" width="auto" align="left" alt="">
 
 **Aurélien Loyer**  
 Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT
 https://twitter.com/AurelienLoyer
+
 
 ### Ottawa
 
