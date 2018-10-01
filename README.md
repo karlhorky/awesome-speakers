@@ -1345,10 +1345,10 @@ https://twitter.com/heydonworks
 
 ## Oxford
 
-<img src="https://pbs.twimg.com/profile_images/800395176023826432/oeYLdWOO_400x400.jpg" height="70px" width="auto" align="left" />
+<img src="https://twitter.com/ninjanails/profile_image?size=original" height="70px" width="auto" align="left" />
 
 **Seren Davies**\
-Topics: Accessibility
+Topics: Accessibility\
 https://twitter.com/ninjanails
 
 # North America
