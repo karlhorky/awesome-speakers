@@ -519,7 +519,7 @@ https://twitter.com/smashingmag
 Topics: Fractals, CSS, JavaScript, Web Animations  
 https://codepen.io/pixelass/
 
-<img src="https://twitter.com/marionebl/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="70px" align="left" alt="" />
 
 **Mario Nebl**  
 Topics: JavaScript, Node, JS Architecture  
@@ -703,7 +703,7 @@ https://twitter.com/micflan
 Topics: Elixir, Ruby, Functional Programming  
 https://twitter.com/mustafaturan
 
-<img src="https://twitter.com/Podgeypoos79/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://pbs.twimg.com/profile_images/590251245673263104/Lw3XBG-y_400x400.png" height="70px" width="70px" align="left" alt="" />
 
 **Padraig O'Brien**  
 Topics: Serverless, Big Data, Databases  
@@ -921,7 +921,7 @@ https://twitter.com/grabbou
 Topics: React Native, Jest, Testing, CSS  
 https://twitter.com/thymikee
 
-<img src="https://twitter.com/michal_chudziak/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://avatars1.githubusercontent.com/u/7837457?s=400&v=4" height="70px" width="70px" align="left" alt="" />
 
 **Mike Chudziak**  
 Topics: React, React Native, iOS, Android  
