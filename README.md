@@ -1481,7 +1481,7 @@ https://twitter.com/thegreengreek
 
 ### New York
 
-<img src="https://twitter.com/sitnikcode/profile_image?size=original" height="70px" width="70px" align="left" alt="">
+<img src="https://twitter.com/andrey_sitnik/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
 **Andrey Sitnik**\
 Topics: PostCSS, CRDT\
