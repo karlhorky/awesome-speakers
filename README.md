@@ -25,19 +25,19 @@ Please add to the list and help make the community better connected and richer.
 
 **Christian Nwamba**  
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, CSS, Standards  
-https://twitter.com/codebeast  
+https://twitter.com/codebeast
 
 <img src="https://twitter.com/ireaderinokun/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Ire Aderinokun**  
 Topics: Progressive Web Apps, CSS, Standards  
-https://twitter.com/ireaderinokun   
+https://twitter.com/ireaderinokun
 
 <img src="https://twitter.com/unicodeveloper/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Otemuyiwa Prosper**  
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel  
-https://twitter.com/unicodeveloper    
+https://twitter.com/unicodeveloper
 
 ## South Africa
 
@@ -46,8 +46,8 @@ https://twitter.com/unicodeveloper
 <img src="https://twitter.com/riggaroo/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Rebecca Franks**  
-Topics: Android, Android Things, Firebase, IoT             
-https://twitter.com/riggaroo    
+Topics: Android, Android Things, Firebase, IoT  
+https://twitter.com/riggaroo
 
 # Asia
 
@@ -61,30 +61,29 @@ https://twitter.com/riggaroo
 Topics: JavaScript, Angular, NodeJS, Ionic, Firebase, Stencil, Progressive Web Apps  
 https://twitter.com/ahsan_ayz &bull; [Slides](https://slides.com/ahsanayaz) &bull; [Blog](https://medium.com/@ahsan.ayaz) &bull; [Github](https://github.com/ahsanayaz)
 
-<img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Mashhood Rastgar**  
-Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web    
-https://twitter.com/mashhoodr 
+Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web  
+https://twitter.com/mashhoodr
 
-<img src="https://pbs.twimg.com/profile_images/1013094947388641284/Ym7b696E_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/1013094947388641284/Ym7b696E_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Muhammad Kamran**  
 Topics: Angular, Redux, Rxjs, Flutter, Dart, React Native, Javascript, Typescript, Linux  
-https://twitter.com/smkamranqadri 
+https://twitter.com/smkamranqadri
 
-<img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="auto" align="left" alt="" />  
+<img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="auto" align="left" alt="" />
 
 **Narain Sagar**  
 Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing  
 https://twitter.com/narainsagar
 
-<img src="https://pbs.twimg.com/profile_images/1042913409635897344/jADDQpz1_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/1042913409635897344/jADDQpz1_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Nasir Hussain**  
 Topics: Blockchain, Smart Contracts, JavaScript, Databases, Python, Arduino, Continous Integration  
 https://twitter.com/i_am_the_dev
-
 
 ## India 🇮🇳
 
@@ -94,7 +93,7 @@ https://twitter.com/i_am_the_dev
 
 **Ashrith Kulai**  
 Topics: Progressive Web Apps, Polymer, Web Components, Web Performance, Build Tools  
-https://twitter.com/ashrith_kulai  
+https://twitter.com/ashrith_kulai
 
 <img src="https://twitter.com/kranirudha/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -260,7 +259,7 @@ https://twitter.com/glnnrys
 
 **Jan Hruby**  
 Topics: React, Redux, CSS in JS, React Native, Serverless, GraphQL  
-https://twitter.com/mrozilla  
+https://twitter.com/mrozilla
 
 <img src="https://twitter.com/bebraw/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -268,11 +267,11 @@ https://twitter.com/mrozilla
 Topics: 3D Graphics, Business, React, webpack, Writing  
 https://twitter.com/bebraw
 
-<img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">  
+<img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">
 
 **Manuel Matuzović**  
 Topics: CSS, Accesibility  
-https://twitter.com/mmatuzo  
+https://twitter.com/mmatuzo
 
 <img src="https://twitter.com/mxbck/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -295,7 +294,7 @@ https://twitter.com/nikgraf
 <img src="https://twitter.com/glyphe/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Oliver Schöndorfer**  
-Topics: Typography, CSS   
+Topics: Typography, CSS  
 https://twitter.com/glyphe
 
 <img src="https://twitter.com/ryyppy/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
@@ -362,12 +361,11 @@ https://twitter.com/terezk_a
 
 ### Helsinki
 
-<img src="https://pbs.twimg.com/profile_images/875429349574537217/JZi26Mju_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/875429349574537217/JZi26Mju_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Juha Lindstedt**  
 Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js  
-https://twitter.com/pakastin  
-
+https://twitter.com/pakastin
 
 <img src="https://twitter.com/varya_en/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -398,7 +396,7 @@ https://twitter.com/manekinekko
 <img src="https://twitter.com/svensauleau/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Sven Sauleau**  
-Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science    
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science  
 https://twitter.com/svensauleau
 
 ## Germany 🇩🇪
@@ -476,7 +474,7 @@ https://twitter.com/robinpokorny
 <img src="https://twitter.com/NikkitaFTW/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Sara Vieira**  
-Topics: Styleguides, React, CSS, Preact, CSS-in-JS    
+Topics: Styleguides, React, CSS, Preact, CSS-in-JS  
 https://twitter.com/NikkitaFTW
 
 <img src="https://twitter.com/Srushtika/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
@@ -489,7 +487,7 @@ https://twitter.com/Srushtika
 
 **Tejas Kumar**  
 Topics: JavaScript, React, WebAssembly, Community, Teams, Humanities  
-[https://twitter.com/tejaskumar_](https://twitter.com/tejaskumar_)
+[https://twitter.com/tejaskumar\_](https://twitter.com/tejaskumar_)
 
 <img src="https://twitter.com/yoshuawuyts/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -519,19 +517,19 @@ https://twitter.com/smashingmag
 
 **Gregor Adams**  
 Topics: Fractals, CSS, JavaScript, Web Animations  
-https://codepen.io/pixelass/  
+https://codepen.io/pixelass/
 
 <img src="https://twitter.com/marionebl/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Mario Nebl**  
 Topics: JavaScript, Node, JS Architecture  
-https://twitter.com/marionebl  
+https://twitter.com/marionebl
 
 <img src="https://twitter.com/aemkei/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Martin Kleppe**  
-Topics: Weird JS    
-https://twitter.com/aemkei  
+Topics: Weird JS  
+https://twitter.com/aemkei
 
 <img src="https://twitter.com/PalmaSwell/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -545,7 +543,7 @@ https://twitter.com/PalmaSwell
 
 **Tim Pietrusky**  
 Topics: JS Art, JS Music, JavaScript  
-https://twitter.com/TimPietrusky  
+https://twitter.com/TimPietrusky
 
 ### Karlsruhe
 
@@ -573,11 +571,11 @@ https://twitter.com/mathias
 
 ### Athens
 
-<img src="http://mbrace.io/assets/images/people/npal.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="http://mbrace.io/assets/images/people/npal.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Nick Palladinos**  
 Topics: F#  
-https://twitter.com/NickPalladinos  
+https://twitter.com/NickPalladinos
 
 ## Ireland 🇮🇪
 
@@ -587,31 +585,31 @@ https://twitter.com/NickPalladinos
 
 **Dave Jeffery**  
 Topics: JavaScript, Electron, Node.js  
-https://twitter.com/DaveJ  
+https://twitter.com/DaveJ
 
 <img src="https://twitter.com/eoins/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Eoin Shanaghy**  
 Topics: Java, Elixir, Node.js  
-https://twitter.com/eoins  
+https://twitter.com/eoins
 
 <img src="https://twitter.com/sugrue/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **James Sugrue**  
 Topics: Swift, JavaScript, Java  
-https://twitter.com/sugrue  
+https://twitter.com/sugrue
 
 <img src="https://twitter.com/tech_fort/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Joe Minichino**  
 Topics: Artificial Intelligence, Machine Learning, Databases, JavaScript, Python  
-https://twitter.com/tech_fort  
+https://twitter.com/tech_fort
 
 <img src="https://twitter.com/aetheon/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Oscar Brito**  
 Topics: Linux, Node.js, JavaScript, Python  
-https://twitter.com/aetheon  
+https://twitter.com/aetheon
 
 ### Dublin
 
@@ -619,133 +617,133 @@ https://twitter.com/aetheon
 
 **Anton Whalley**  
 Topics: Node.js, Decentralization, FreeBSD, Open Source  
-https://twitter.com/dhigit9  
+https://twitter.com/dhigit9
 
 <img src="https://twitter.com/augeva/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Augusto Evangelisti**  
 Topics: Testing, Agile, Bitcoin  
-https://twitter.com/augeva  
+https://twitter.com/augeva
 
 <img src="https://twitter.com/barryosull/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Barry O'Sullivan**  
 Topics: PHP, Testing, Domain-Driven Design, Event Sourcing  
-https://twitter.com/barryosull  
+https://twitter.com/barryosull
 
 <img src="https://twitter.com/real_ate/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Chris Manson**  
 Topics: JavaScript, Ember, React  
-https://twitter.com/real_ate  
+https://twitter.com/real_ate
 
 <img src="https://twitter.com/cianmm/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Cian Mac Mahon**  
 Topics: JavaScript, React  
-https://twitter.com/cianmm  
+https://twitter.com/cianmm
 
 <img src="https://twitter.com/claudiopro/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Claudio Procida**  
 Topics: JavaScript, React, Node.js, Diversity  
-https://twitter.com/claudiopro  
+https://twitter.com/claudiopro
 
 <img src="https://twitter.com/donovanh/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Donovan Hutchinson**  
 Topics: HTML, CSS, JavaScript  
-https://twitter.com/donovanh  
+https://twitter.com/donovanh
 
 <img src="https://twitter.com/ingridepure/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Ingrid Epure**  
 Topics: Security, Psychology  
-https://twitter.com/ingridepure  
+https://twitter.com/ingridepure
 
 <img src="https://pbs.twimg.com/profile_images/897746004996435968/Y6NGgGUz_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **John Brett**  
 Topics: JavaScript, hapi, Nomad Work, Bitcoin  
-[https://twitter.com/johnbrett_](https://twitter.com/johnbrett_)
+[https://twitter.com/johnbrett\_](https://twitter.com/johnbrett_)
 
 <img src="https://twitter.com/loige/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Luciano Mammino**  
 Topics: Node.js, Design Patterns, Serverless, JSON Web Tokens, Universal JavaScript  
-https://twitter.com/loige  
+https://twitter.com/loige
 
 <img src="https://twitter.com/Lynsey_Duncan/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Lynsey Duncan**  
 Topics: UX, UI, Design Systems  
-https://twitter.com/Lynsey_Duncan  
+https://twitter.com/Lynsey_Duncan
 
 <img src="https://twitter.com/princessmaja/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Maja Grubic**  
 Topics: Node.js, JavaScript, React, Monitoring, D3, SVG  
-https://twitter.com/princessmaja  
+https://twitter.com/princessmaja
 
 <img src="https://twitter.com/mariocasciaro/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Mario Casciaro**  
 Topics: Node.js, JavaScript, Design Patterns, Startups  
-https://twitter.com/mariocasciaro  
+https://twitter.com/mariocasciaro
 
 <img src="https://twitter.com/micflan/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Michael Flanagan**  
 Topics: PHP, JavaScript, REST, Testing  
-https://twitter.com/micflan  
+https://twitter.com/micflan
 
 <img src="https://twitter.com/mustafaturan/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Mustafa Turan**  
 Topics: Elixir, Ruby, Functional Programming  
-https://twitter.com/mustafaturan  
+https://twitter.com/mustafaturan
 
 <img src="https://twitter.com/Podgeypoos79/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Padraig O'Brien**  
 Topics: Serverless, Big Data, Databases  
-https://twitter.com/Podgeypoos79  
+https://twitter.com/Podgeypoos79
 
 <img src="https://twitter.com/CatKlavier/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Panpan Lin**  
 Topics: JavaScript, GraphQL, Swift, Hackathons  
-https://twitter.com/CatKlavier  
+https://twitter.com/CatKlavier
 
 <img src="https://twitter.com/patocallaghan/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Pat O'Callaghan**  
 Topics: JavaScript, Node.js, Ember  
-https://twitter.com/patocallaghan  
+https://twitter.com/patocallaghan
 
 <img src="https://twitter.com/malyw/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Serg Hospodarets**  
 Topics: JavaScript, CSS, CSS Houdini  
-https://twitter.com/malyw  
+https://twitter.com/malyw
 
 <img src="https://twitter.com/serifritsch/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Serena Fritsch**  
 Topics: JavaScript, Ember, Developer Workflows  
-https://twitter.com/serifritsch  
+https://twitter.com/serifritsch
 
 <img src="https://twitter.com/tomwillfixit/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Thomas Shaw**  
 Topics: Docker, Jenkins, Devops  
-https://twitter.com/tomwillfixit  
+https://twitter.com/tomwillfixit
 
 <img src="https://twitter.com/brikis98/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Yevgeniy Brikman**  
 Topics: Terraform, Devops, Scalability  
-https://twitter.com/brikis98  
+https://twitter.com/brikis98
 
 ### Galway
 
@@ -753,7 +751,7 @@ https://twitter.com/brikis98
 
 **Mark Conroy**  
 Topics: Frontend, Drupal, Web Development  
-https://twitter.com/markconroy  
+https://twitter.com/markconroy
 
 ### Waterford
 
@@ -761,8 +759,7 @@ https://twitter.com/markconroy
 
 **Richard Rodger**  
 Topics: Node.js, Microservices  
-https://twitter.com/rjrodger  
-
+https://twitter.com/rjrodger
 
 ## Israel 🇮🇱
 
@@ -834,7 +831,7 @@ https://twitter.com/narendra_shetty
 
 **Peter-Paul Koch**  
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility  
-https://twitter.com/ppk  
+https://twitter.com/ppk
 
 ### Gouda
 
@@ -882,10 +879,10 @@ https://twitter.com/szynszyliszys
 Topics: JavaScript, Security, Service Workers  
 https://twitter.com/kaapa_s
 
-<img src="https://pbs.twimg.com/profile_images/969155591477309441/lAf6s2t0_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/969155591477309441/lAf6s2t0_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Konrad Dzwinel**  
-Topics: Developer Tools, JavaScript    
+Topics: Developer Tools, JavaScript  
 https://twitter.com/kdzwinel
 
 ### Poznań
@@ -918,7 +915,7 @@ https://twitter.com/ferrannp
 Topics: React Native, JavaScript, Tooling  
 https://twitter.com/grabbou
 
-<img src="https://pbs.twimg.com/profile_images/813866423214870528/ct8REef9_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/813866423214870528/ct8REef9_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Michał Pierzchała**  
 Topics: React Native, Jest, Testing, CSS  
@@ -954,11 +951,11 @@ https://twitter.com/daviddias
 
 ### Porto
 
-<img src="https://pbs.twimg.com/profile_images/825505237926506496/mhpudjxs_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/825505237926506496/mhpudjxs_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Miguel Andrade**  
 Topics: Ember, JavaScript  
-https://twitter.com/maskedwarrior  
+https://twitter.com/maskedwarrior
 
 ## Romania 🇷🇴
 
@@ -1002,8 +999,7 @@ https://twitter.com/ai_boy
 
 **Vadim Makeev**  
 Topics: HTML, CSS, Web Standards, Accessibility  
-[https://twitter.com/pepelsbey_](https://twitter.com/pepelsbey_)
-
+[https://twitter.com/pepelsbey\_](https://twitter.com/pepelsbey_)
 
 ## Serbia 🇷🇸
 
@@ -1019,7 +1015,7 @@ https://twitter.com/simalexan
 
 **Slobodan Stojanović**  
 Topics: Serverless, Offline Web, Chat Bots  
-[https://twitter.com/slobodan_](https://twitter.com/slobodan_)
+[https://twitter.com/slobodan\_](https://twitter.com/slobodan_)
 
 ## Spain 🇪🇸
 
@@ -1029,7 +1025,7 @@ Topics: Serverless, Offline Web, Chat Bots
 
 **Flavio Corpa**  
 Topics: JavaScript, Functional Programming  
-https://twitter.com/flaviocorpa  
+https://twitter.com/flaviocorpa
 
 ### Córdoba
 
@@ -1079,7 +1075,7 @@ https://twitter.com/thefubhy
 
 **Denys Dovhan**  
 Topics: Bash, Virtual Reality, JavaScript  
-https://twitter.com/denysdovhan  
+https://twitter.com/denysdovhan
 
 ### Kharkiv
 
@@ -1087,7 +1083,7 @@ https://twitter.com/denysdovhan
 
 **Illya Klymov**  
 Topics: Teaching, Coaching, JavaScript  
-https://twitter.com/xanf_ua  
+https://twitter.com/xanf_ua
 
 ### Kyiv
 
@@ -1095,7 +1091,7 @@ https://twitter.com/xanf_ua
 
 **Aleksey Shvayka**  
 Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk  
-[https://twitter.com/shvaikalesh_](https://twitter.com/shvaikalesh_)
+[https://twitter.com/shvaikalesh\_](https://twitter.com/shvaikalesh_)
 
 <img src="https://twitter.com/listochkin/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -1119,7 +1115,7 @@ https://twitter.com/SilentImp
 
 **Artem Yavorsky**  
 Topics: Babel, ECMAScript, Compilers  
-[https://twitter.com/yavorsky_](https://twitter.com/yavorsky_)
+[https://twitter.com/yavorsky\_](https://twitter.com/yavorsky_)
 
 <img src="https://twitter.com/AGambit95/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -1145,7 +1141,7 @@ https://twitter.com/mourner
 
 **Artem Zakharchenko**  
 Topics: React, Forms, CSS Grid  
-https://twitter.com/kettanaito  
+https://twitter.com/kettanaito
 
 ### Vinnytsia
 
@@ -1153,7 +1149,7 @@ https://twitter.com/kettanaito
 
 **Artem Denysov**  
 Topics: Web Performance, Dev Tools  
-[https://twitter.com/denar90_](https://twitter.com/denar90_)
+[https://twitter.com/denar90\_](https://twitter.com/denar90_)
 
 ### Odessa
 
@@ -1241,7 +1237,7 @@ https://twitter.com/cirpo
 
 **Alex Lobera**  
 Topics: JavaScript, React, Redux, GraphQL  
-https://twitter.com/alex_lobera  
+https://twitter.com/alex_lobera
 
 <img src="https://twitter.com/iotwatch/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -1277,7 +1273,7 @@ https://twitter.com/bodil
 
 **Chris Noring**  
 Topics: JS, RxJS, Angular, React  
-https://twitter.com/chris_noring  
+https://twitter.com/chris_noring
 
 <img src="https://twitter.com/areaweb/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -1325,14 +1321,13 @@ https://twitter.com/_philpl
 
 **Sani Yusuf**  
 Topics: Ionic, Angular, JavaScript, Progressive Web Apps  
-https://twitter.com/saniyusuf  
+https://twitter.com/saniyusuf
 
 <img src="https://twitter.com/sebawita/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Sebastian Witalec**  
 Topics: NativeScript, Angular, Bots, JavaScript  
-https://twitter.com/sebawita  
-
+https://twitter.com/sebawita
 
 <img src="https://twitter.com/yaili/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -1360,7 +1355,6 @@ https://twitter.com/heydonworks
 Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT
 https://twitter.com/AurelienLoyer
 
-
 ### Ottawa
 
 <img src="https://twitter.com/shehackspurple/profile_image?size=original" height="70px" width="auto" align="left" alt="">
@@ -1380,16 +1374,16 @@ https://twitter.com/brnnbrn
 <img src="https://twitter.com/tiffcodes/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Tiff Nogueira**  
-Topics: CSS Grids, React, Redux, Firebase, Flexbox   
+Topics: CSS Grids, React, Redux, Firebase, Flexbox  
 https://twitter.com/tiffcodes
 
 ### Hamilton
+
 <img src="https://twitter.com/wesbos/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Wes Bos**  
 Topics: Fullstack Dev , JavaScript, CSS, Node, React  
 https://twitter.com/wesbos
-
 
 ## United States of America 🇺🇸
 
@@ -1408,12 +1402,12 @@ Topics: CSS, HTML
 https://twitter.com/leaverou
 
 ### California
-<img src="https://pbs.twimg.com/profile_images/1028519480412884992/o5vdCry7_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+
+<img src="https://pbs.twimg.com/profile_images/1028519480412884992/o5vdCry7_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Addy Osmani**  
 Topics: GoogleChrome devtool, TodoMVC, @Yeoman, Material Design Lite  
-https://twitter.com/addyosmani   
-
+https://twitter.com/addyosmani
 
 ### Carlsbad
 
@@ -1476,7 +1470,7 @@ https://twitter.com/ken_wheeler
 <img src="https://twitter.com/GantLaborde/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Gant Laborde**  
-Topics:  JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking  
+Topics: JavaScript, React Native, Leadership, Redux, Open Source, Tooling, Public Speaking  
 https://twitter.com/GantLaborde
 
 <img src="https://twitter.com/thegreengreek/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
@@ -1544,12 +1538,12 @@ https://twitter.com/una
 <img src="https://twitter.com/jaredpalmer/profile_image?size=original" height="70px" width="auto" align="left" alt="">
 
 **Jared Palmer**  
-Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS   
+Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS  
 https://twitter.com/jaredpalmer
 
 ### Omaha
 
-<img src="https://pbs.twimg.com/profile_images/936447300674744320/Y0eqcTp4_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/936447300674744320/Y0eqcTp4_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Courtney Heitman**  
 Topics: UX Development, Usability, Accessibility, Scrum, Agile  
@@ -1567,7 +1561,7 @@ https://twitter.com/paul_irish
 
 **Cheng Lou**  
 Topics: ReasonML, React, Software Philosophy  
-https://twitter.com/_chenglou  
+https://twitter.com/_chenglou
 
 ### Philadelphia
 
@@ -1599,11 +1593,11 @@ https://twitter.com/linclark
 
 ### Portland
 
-<img src="https://pbs.twimg.com/profile_images/951729445009637376/0V25QMDk_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/951729445009637376/0V25QMDk_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Scott Hanselman**  
 Topics: .NET, Azure  
-https://www.hanselman.com/  
+https://www.hanselman.com/
 
 <img src="https://twitter.com/kyleshevlin/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
@@ -1750,7 +1744,7 @@ https://twitter.com/ladyleet
 <img src="https://twitter.com/evaferreira92/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
 **Evangelina Ferreira**  
-Topics: CSS, Animations   
+Topics: CSS, Animations  
 https://twitter.com/evaferreira92
 
 ## Brazil 🇧🇷
@@ -1773,7 +1767,7 @@ https://twitter.com/fdaciuk
 
 ### Joinville
 
-<img src="https://pbs.twimg.com/profile_images/785945345297682432/gwWz1ZPL_400x400.jpg" height="70px" width="auto" align="left" alt="" />  
+<img src="https://pbs.twimg.com/profile_images/785945345297682432/gwWz1ZPL_400x400.jpg" height="70px" width="auto" align="left" alt="" />
 
 **Marcelo Camargo**  
 Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus  
@@ -1793,7 +1787,7 @@ https://twitter.com/raphamorims &bull; https://github.com/raphamorim
 
 **Caroline Soares**  
 Topics: Frontend development, woman's inspiration, JavaScript, CSS  
-https://twitter.com/carolcode  
+https://twitter.com/carolcode
 
 <img src="https://twitter.com/Feh_Bernardo/profile_image?size=original" height="70px" width="auto" align="left" alt="" />
 
