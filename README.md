@@ -1481,6 +1481,12 @@ https://twitter.com/thegreengreek
 
 ### New York
 
+<img src="https://twitter.com/sitnikcode/profile_image?size=original" height="70px" width="70px" align="left" alt="">
+
+**Andrey Sitnik**\
+Topics: PostCSS, CRDT\
+https://twitter.com/sitnikco
+
 <img src="https://twitter.com/swannodette/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **David Nolen**\
@@ -1540,12 +1546,6 @@ https://twitter.com/una
 **Jared Palmer**\
 Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS\
 https://twitter.com/jaredpalmer
-
-<img src="https://twitter.com/sitnikcode/profile_image?size=original" height="70px" width="70px" align="left" alt="">
-
-**Andrey Sitnik**\
-Topics: PostCSS, CRDT\
-https://twitter.com/sitnikcode
 
 ### Omaha
 
