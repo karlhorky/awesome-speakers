@@ -1343,6 +1343,14 @@ https://twitter.com/yaili
 Topics: Accessibility, Performance, Web\
 https://twitter.com/heydonworks
 
+## Oxford
+
+<img src="https://twitter.com/ninjanails/profile_image?size=original" height="70px" width="auto" align="left" />
+
+**Seren Davies**\
+Topics: Accessibility\
+https://twitter.com/ninjanails
+
 # North America
 
 ## Canada 🇨🇦
@@ -1352,7 +1360,7 @@ https://twitter.com/heydonworks
 <img src="https://twitter.com/AurelienLoyer/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
 **Aurélien Loyer**\
-Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT
+Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT\
 https://twitter.com/AurelienLoyer
 
 ### Ottawa
