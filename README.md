@@ -1360,7 +1360,7 @@ https://twitter.com/ninjanails
 <img src="https://twitter.com/AurelienLoyer/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
 **Aurélien Loyer**\
-Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT
+Topics: JavaScript, Angular, Vue.js, Node.js, TypeScript, IoT\
 https://twitter.com/AurelienLoyer
 
 ### Ottawa
