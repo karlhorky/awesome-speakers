@@ -1343,6 +1343,14 @@ https://twitter.com/yaili
 Topics: Accessibility, Performance, Web\
 https://twitter.com/heydonworks
 
+## Oxford
+
+<img src="https://pbs.twimg.com/profile_images/800395176023826432/oeYLdWOO_400x400.jpg" height="70px" width="auto" align="left" />
+
+**Seren Davies**\
+Topics: Accessibility
+https://twitter.com/ninjanails
+
 # North America
 
 ## Canada 🇨🇦
