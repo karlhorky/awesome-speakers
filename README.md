@@ -1485,7 +1485,7 @@ https://twitter.com/thegreengreek
 
 **Andrey Sitnik**\
 Topics: PostCSS, CRDT\
-https://twitter.com/sitnikco
+https://twitter.com/sitnikcode
 
 <img src="https://twitter.com/swannodette/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
