@@ -1074,7 +1074,7 @@ https://twitter.com/thefubhy
 <img src="https://twitter.com/denysdovhan/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Denys Dovhan**\
-Topics: Bash, Virtual Reality, JavaScript\
+Topics: JavaScript, DevTools, Shell scripting\
 https://twitter.com/denysdovhan
 
 ### Kharkiv
