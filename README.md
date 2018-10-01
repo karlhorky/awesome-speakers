@@ -70,7 +70,7 @@ https://twitter.com/mashhoodr
 <img src="https://pbs.twimg.com/profile_images/1013094947388641284/Ym7b696E_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
 **Muhammad Kamran**\
-Topics: Angular, Redux, Rxjs, Flutter, Dart, React Native, Javascript, Typescript, Linux\
+Topics: Angular, Redux, RxJS, Flutter, Dart, React Native, JavaScript, TypeScript, Linux\
 https://twitter.com/smkamranqadri
 
 <img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="70px" align="left" alt="" />
@@ -990,7 +990,7 @@ https://twitter.com/elixir_lang_mos
 <img src="https://twitter.com/ai_boy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Oleksii Okhrymenko**\
-Topics: Angular, JavaScript, RxJs, i18n, HTML, CSS\
+Topics: Angular, JavaScript, RxJS, i18n, HTML, CSS\
 https://twitter.com/ai_boy
 
 ### St. Petersburg
@@ -1272,7 +1272,7 @@ https://twitter.com/bodil
 <img src="https://twitter.com/chris_noring/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Chris Noring**\
-Topics: JS, RxJS, Angular, React\
+Topics: JavaScript, RxJS, Angular, React\
 https://twitter.com/chris_noring
 
 <img src="https://twitter.com/areaweb/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
