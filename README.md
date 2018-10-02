@@ -1749,6 +1749,14 @@ https://twitter.com/stefsull
 Topics: Reactive Programming, Angular, Ember.js\
 https://twitter.com/ladyleet
 
+### Seattle
+
+<img src="https://twitter.com/DevWithTheHair/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Jaime Lopez**\
+Topics: iOS, Swift, Software Architecture, Development Processes\
+https://twitter.com/DevWithTheHair
+
 # South America
 
 ## Argentina 🇦🇷
