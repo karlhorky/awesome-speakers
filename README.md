@@ -270,7 +270,7 @@ https://twitter.com/bebraw
 <img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">
 
 **Manuel Matuzović**\
-Topics: CSS, Accesibility\
+Topics: CSS, Grid, Accessibility\
 https://twitter.com/mmatuzo
 
 <img src="https://twitter.com/mxbck/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -833,6 +833,14 @@ https://twitter.com/narendra_shetty
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 https://twitter.com/ppk
 
+### Breda
+
+<img src="https://twitter.com/detonite/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Job van Achterberg**\
+Topics: Accessibility\
+https://twitter.com/detonite/
+
 ### Gouda
 
 <img src="https://twitter.com/rowdyrabouw/profile_image?size=original" height="70px" width="70px" align="left" alt="Rowdy Rabouw" />
@@ -1355,6 +1363,14 @@ https://twitter.com/ninjanails
 
 ## Canada 🇨🇦
 
+### Kingston
+
+<img src="https://twitter.com/svinkle/profile_image?size=original" height="70px" width="70px" align="left" alt="">
+
+**Scott Vinkle**\
+Topics: Accessibility\
+https://twitter.com/svinkle
+
 ### Montréal
 
 <img src="https://twitter.com/AurelienLoyer/profile_image?size=original" height="70px" width="70px" align="left" alt="">
@@ -1379,6 +1395,12 @@ https://twitter.com/shehackspurple
 Topics: Motivation, Psychology, Developer Culture, Public Speaking\
 https://twitter.com/brnnbrn
 
+<img src="https://twitter.com/halathinkeths/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Hala Anwar**\
+Topics: Accessibility\
+https://twitter.com/halathinkeths
+
 <img src="https://twitter.com/tiffcodes/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Tiff Nogueira**\
@@ -1396,6 +1418,12 @@ https://twitter.com/wesbos
 ## United States of America 🇺🇸
 
 ### Boston
+
+<img src="https://twitter.com/ericwbailey/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Eric Bailey**\
+Topics: Accessibility\
+https://twitter.com/ericwbailey
 
 <img src="https://twitter.com/bahmutov/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1441,6 +1469,14 @@ https://twitter.com/levibostian
 Topics: Clojure, Machine Learning, Programming\
 https://twitter.com/gigasquid
 
+### Chapel Hill
+
+<img src="https://twitter.com/shepazu/profile_image?size=original" height="70px" width="70px" align="left" />
+
+**Doug Schepers**\
+Topics: Data visualization, Accessibility, SVG\
+https://twitter.com/shepazu
+
 ### Chicago
 
 <img src="https://twitter.com/KarlLHughes/profile_image?size=original" height="70px" width="70px" align="left" />
@@ -1456,6 +1492,14 @@ https://twitter.com/KarlLHughes
 **Miriam Suzanne**\
 Topics: CSS, Sass, Architecture, Design Systems\
 https://twitter.com/mirisuzanne
+
+### Madison
+
+<img src="https://twitter.com/cariefisher/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Carie Fisher**\
+Topics: Accessibility\
+https://twitter.com/cariefisher
 
 ### Nashville
 
@@ -1631,6 +1675,14 @@ https://twitter.com/micahgodbolt
 Topics: React, Socket.IO, Storybook, Accessibility\
 https://violet.is
 
+### Redwood City
+
+<img src="https://twitter.com/jessebeach/profile_image?size=original" height="70px" width="70px" align="left" alt="">
+
+**Jesse Beach**\
+Topics: Accessibility, React\
+https://twitter.com/jessebeach
+
 ### Salt Lake City
 
 <img src="https://twitter.com/kentcdodds/profile_image?size=original" height="70px" width="70px" align="left" alt="">
@@ -1671,6 +1723,12 @@ https://twitter.com/bcherny
 Topics: Design, Management\
 https://twitter.com/brynn
 
+<img src="https://twitter.com/cordeliadillon/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Cordelia Dillon**\
+Topics: Accessibility\
+https://twitter.com/cordeliadillon
+
 <img src="https://twitter.com/standardista/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Estelle Weyl**\
@@ -1682,6 +1740,12 @@ https://twitter.com/standardista
 **Jafar Husain**\
 Topics: JavaScript, ES7, Observables, Reactive Programming, Falcor\
 https://twitter.com/jhusain
+
+<img src="https://twitter.com/mybluewristband/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Jennifer Wong**\
+Topics: Design Systems\
+https://twitter.com/mybluewristband
 
 <img src="https://twitter.com/jongold/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1756,6 +1820,12 @@ https://twitter.com/ladyleet
 **Jaime Lopez**\
 Topics: iOS, Swift, Software Architecture, Development Processes\
 https://twitter.com/DevWithTheHair
+
+<img src="https://twitter.com/ShellELittle/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Shell Little**\
+Topics: Accessibility\
+https://twitter.com/ShellELittle
 
 # South America
 
