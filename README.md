@@ -1437,6 +1437,14 @@ https://twitter.com/bahmutov &bull; https://slides.com/bahmutov &bull; https://g
 Topics: CSS, HTML\
 https://twitter.com/leaverou
 
+### Buffalo
+
+<img src="https://twitter.com/aardrian/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Adrian Roselli**\
+Topics: Accessibility\
+https://twitter.com/aardrian
+
 ### California
 
 <img src="https://pbs.twimg.com/profile_images/1028519480412884992/o5vdCry7_400x400.jpg" height="70px" width="70px" align="left" alt="" />
