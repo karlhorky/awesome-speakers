@@ -1125,12 +1125,6 @@ https://twitter.com/SilentImp
 Topics: Babel, ECMAScript, Compilers\
 [https://twitter.com/yavorsky\_](https://twitter.com/yavorsky_)
 
-<img src="https://twitter.com/AGambit95/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Gregory Shehet**\
-Topics: Functional Reactive Programming, MobX, CSS in JS, React\
-https://twitter.com/AGambit95
-
 <img src="https://twitter.com/roman01la/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Roman Liutikov**\
@@ -1742,6 +1736,12 @@ https://twitter.com/cordeliadillon
 **Estelle Weyl**\
 Topics: CSS, Performance, Responsive Web Design\
 https://twitter.com/standardista
+
+<img src="https://twitter.com/AGambit95/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Gregory Shehet**\
+Topics: Functional Reactive Programming, MobX, CSS in JS, React\
+https://twitter.com/AGambit95
 
 <img src="https://twitter.com/jhusain/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
