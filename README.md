@@ -1131,17 +1131,17 @@ Topics: Babel, ECMAScript, Compilers\
 Topics: ClojureScript, React, Compilers\
 https://twitter.com/roman01la
 
-<img src="https://twitter.com/akella/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Yuri Artyukh**\
-Topics: HTML, CSS, JavaScript, WebGL\
-https://twitter.com/akella
-
 <img src="https://twitter.com/mourner/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Vladimir Agafonkin**\
 Topics: Maps, Algorithms\
 https://twitter.com/mourner
+
+<img src="https://twitter.com/akella/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Yuri Artyukh**\
+Topics: HTML, CSS, JavaScript, WebGL\
+https://twitter.com/akella
 
 ### Poltava
 
