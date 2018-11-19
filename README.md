@@ -517,7 +517,7 @@ https://twitter.com/smashingmag
 
 **Gregor Adams**\
 Topics: Fractals, CSS, JavaScript, Web Animations\
-https://codepen.io/pixelass/
+https://github.com/pixelass
 
 <img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="70px" align="left" alt="" />
 
