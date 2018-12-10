@@ -1613,6 +1613,12 @@ https://twitter.com/jaredpalmer
 Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 https://twitter.com/bitandbang
 
+<img src="https://twitter.com/joe_sepi/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Joe Sepi**\
+Topics: Open Source, Community, Node.js, JavaScript\
+https://twitter.com/joe_sepi
+
 ### Omaha
 
 <img src="https://pbs.twimg.com/profile_images/936447300674744320/Y0eqcTp4_400x400.jpg" height="70px" width="70px" align="left" alt="" />
