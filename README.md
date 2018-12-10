@@ -1607,6 +1607,12 @@ https://twitter.com/una
 Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS\
 https://twitter.com/jaredpalmer
 
+<img src="https://twitter.com/bitandbang/profile_image?size=original" height="70px" width="70px" align="left" alt="">
+
+**Tierney Cyren**\
+Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
+https://twitter.com/bitandbang
+
 ### Omaha
 
 <img src="https://pbs.twimg.com/profile_images/936447300674744320/Y0eqcTp4_400x400.jpg" height="70px" width="70px" align="left" alt="" />
