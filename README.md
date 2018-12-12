@@ -822,6 +822,12 @@ https://twitter.com/kureevalexey
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components\
 https://twitter.com/carmenpopoviciu
 
+<img src="https://twitter.com/JoubranJad/profile_image?size=original" height="70px" width="70px" align="left" alt="" />  
+
+**Jad Joubran**\
+Topics: Progressive Web Apps, Web Performance, JavaScript\
+https://twitter.com/JoubranJad
+
 <img src="https://twitter.com/mweststrate/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Michel Weststrate**\
@@ -839,12 +845,6 @@ https://twitter.com/narendra_shetty
 **Peter-Paul Koch**\
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 https://twitter.com/ppk
-
-<img src="https://twitter.com/JoubranJad/profile_image?size=original" height="70px" width="70px" align="left" alt="" />  
-
-**Jad Joubran**\
-Topics: Progressive Web Apps, Web Performance, JavaScript\
-https://twitter.com/JoubranJad &bull; https://jadjoubran.io/
 
 
 ### Breda
