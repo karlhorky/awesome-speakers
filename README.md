@@ -840,6 +840,13 @@ https://twitter.com/narendra_shetty
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 https://twitter.com/ppk
 
+<img src="https://twitter.com/JoubranJad/profile_image?size=original" height="70px" width="70px" align="left" alt="" />  
+
+**Jad Joubran**\
+Topics: Progressive Web Apps, Web Performance, JavaScript\
+https://twitter.com/JoubranJad &bull; https://jadjoubran.io/
+
+
 ### Breda
 
 <img src="https://twitter.com/detonite/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
