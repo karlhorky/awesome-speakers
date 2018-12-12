@@ -781,6 +781,13 @@ https://twitter.com/nirkaufman
 Topics: Web Bluetooth, WebVR, Angular, Internet of Things with JavaScript\
 https://twitter.com/UriShaked
 
+
+<img src="https://twitter.com/yoniweisbrod/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Yoni Weisbrod**\
+Topics: React, MobX, MobX State Tree, React-Native\
+https://twitter.com/yoniweisbrod
+
 ## Italy 🇮🇹
 
 ### Milan
