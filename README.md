@@ -950,6 +950,14 @@ https://twitter.com/satya164
 
 ## Portugal 🇵🇹
 
+### Aveiro
+
+<img src="https://twitter.com/FilipaLacerda/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Filipa Lacerda**\
+Topics: Vue, Vuex\
+https://twitter.com/FilipaLacerda
+
 ### Lisbon
 
 <img src="https://twitter.com/sericaia/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
