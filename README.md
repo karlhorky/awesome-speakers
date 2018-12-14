@@ -99,7 +99,7 @@ https://twitter.com/ashrith_kulai
 
 **Bapusaheb Patil**\
 Topics: Android, Kotlin, Java, Asynchronous Programming, Mobile UX Design, Mobile Performance\
-https://twitter.com/baps_patil &bull; https://bapspatil.com/talks
+https://twitter.com/baps_patil
 
 <img src="https://twitter.com/kranirudha/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
