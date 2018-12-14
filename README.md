@@ -141,6 +141,12 @@ https://twitter.com/chatsidhartha
 Topics: webpack, React, ES6, Tooling, CSS\
 https://twitter.com/amdsouza92
 
+<img src="https://twitter.com/aviaryan123/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Avi Aryan**\
+Topics: Mobile Web, PWAs, Flask, Blockchain\
+https://twitter.com/aviaryan123
+
 ## Lebanon 🇱🇧
 
 ### Tyre
