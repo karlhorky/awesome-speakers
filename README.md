@@ -95,6 +95,12 @@ https://twitter.com/i_am_the_dev
 Topics: Progressive Web Apps, Polymer, Web Components, Web Performance, Build Tools\
 https://twitter.com/ashrith_kulai
 
+<img src="https://twitter.com/baps_patil/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Bapusaheb Patil**\
+Topics: Android, Kotlin, Java, Asynchronous Programming, Mobile UX Design, Mobile Performance\
+https://twitter.com/baps_patil
+
 <img src="https://twitter.com/kranirudha/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Kumar Anirudha**\
