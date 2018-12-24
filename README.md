@@ -59,7 +59,7 @@ https://twitter.com/riggaroo
 
 **Ahsan Ayaz**\
 Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
-https://twitter.com/ahsan_ayz &bull; [Slides](https://slides.com/ahsanayaz) &bull; [Blog](https://medium.com/@ahsan.ayaz) &bull; [Github](https://github.com/ahsanayaz)
+https://twitter.com/ahsan_ayz
 
 <img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
@@ -94,6 +94,12 @@ https://twitter.com/i_am_the_dev
 **Ashrith Kulai**\
 Topics: Progressive Web Apps, Polymer, Web Components, Web Performance, Build Tools\
 https://twitter.com/ashrith_kulai
+
+<img src="https://twitter.com/baps_patil/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Bapusaheb Patil**\
+Topics: Android, Kotlin, Java, Asynchronous Programming, Mobile UX Design, Mobile Performance\
+https://twitter.com/baps_patil
 
 <img src="https://twitter.com/kranirudha/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -140,6 +146,12 @@ https://twitter.com/chatsidhartha
 **Arun Michael Dsouza**\
 Topics: webpack, React, ES6, Tooling, CSS\
 https://twitter.com/amdsouza92
+
+<img src="https://twitter.com/aviaryan123/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Avi Aryan**\
+Topics: Mobile Web, PWAs, Flask, Blockchain\
+https://twitter.com/aviaryan123
 
 ## Lebanon 🇱🇧
 
@@ -517,7 +529,7 @@ https://twitter.com/smashingmag
 
 **Gregor Adams**\
 Topics: Fractals, CSS, JavaScript, Web Animations\
-https://github.com/pixelass
+[https://github.com/pixelass](https://github.com/pixelass)
 
 <img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="70px" align="left" alt="" />
 
@@ -781,6 +793,13 @@ https://twitter.com/nirkaufman
 Topics: Web Bluetooth, WebVR, Angular, Internet of Things with JavaScript\
 https://twitter.com/UriShaked
 
+
+<img src="https://twitter.com/yoniweisbrod/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Yoni Weisbrod**\
+Topics: React, MobX, MobX State Tree, React-Native\
+https://twitter.com/yoniweisbrod
+
 ## Italy 🇮🇹
 
 ### Milan
@@ -815,6 +834,12 @@ https://twitter.com/kureevalexey
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components\
 https://twitter.com/carmenpopoviciu
 
+<img src="https://twitter.com/JoubranJad/profile_image?size=original" height="70px" width="70px" align="left" alt="" />  
+
+**Jad Joubran**\
+Topics: Progressive Web Apps, Web Performance, JavaScript\
+https://twitter.com/JoubranJad
+
 <img src="https://twitter.com/mweststrate/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Michel Weststrate**\
@@ -833,6 +858,7 @@ https://twitter.com/narendra_shetty
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 https://twitter.com/ppk
 
+
 ### Breda
 
 <img src="https://twitter.com/detonite/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -847,7 +873,7 @@ https://twitter.com/detonite/
 
 **Rowdy Rabouw**\
 Topics: NativeScript, Browser APIs\
-https://twitter.com/rowdyrabouw &bull; https://double-r.nl/speaking/
+https://twitter.com/rowdyrabouw
 
 ### Zwolle
 
@@ -943,6 +969,14 @@ https://twitter.com/satya164
 
 ## Portugal 🇵🇹
 
+### Aveiro
+
+<img src="https://twitter.com/FilipaLacerda/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Filipa Lacerda**\
+Topics: Vue, Vuex\
+https://twitter.com/FilipaLacerda
+
 ### Lisbon
 
 <img src="https://twitter.com/sericaia/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -971,7 +1005,7 @@ https://twitter.com/maskedwarrior
 
 **Márton Kodok**\
 Topics: BigQuery, Databases, Voice Based Interfaces, Cloud, Architecture\
-https://twitter.com/martonkodok &bull; [Slides](https://slideshare.net/martonkodok) &bull; [Speaker Profile](https://eventrix.co/s/marton-kodok-151)
+https://twitter.com/martonkodok
 
 ## Russia 🇷🇺
 
@@ -1165,7 +1199,7 @@ Topics: Web Performance, Dev Tools\
 
 **Timofey Lavrenyuk**\
 Topics: Progressive Web Apps, Modern Browser APIs\
-[https://twitter.com/geek_timofey](https://twitter.com/geek_timofey)
+https://twitter.com/geek_timofey
 
 ## United Kingdom 🇬🇧
 
@@ -1429,7 +1463,7 @@ https://twitter.com/ericwbailey
 
 **Gleb Bahmutov**\
 Topics: Computer Science, JavaScript, Reactive Programming\
-https://twitter.com/bahmutov &bull; https://slides.com/bahmutov &bull; https://glebbahmutov.com/videos
+https://twitter.com/bahmutov
 
 <img src="https://twitter.com/leaverou/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1675,7 +1709,7 @@ https://twitter.com/linclark
 
 **Scott Hanselman**\
 Topics: .NET, Azure\
-https://www.hanselman.com/
+https://twitter.com/shanselman
 
 <img src="https://twitter.com/kyleshevlin/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1693,7 +1727,7 @@ https://twitter.com/micahgodbolt
 
 **Violet Peña**\
 Topics: React, Socket.IO, Storybook, Accessibility\
-https://violet.is
+[https://github.com/vgpena](https://github.com/vgpena)
 
 ### Redwood City
 
@@ -1729,7 +1763,7 @@ https://twitter.com/bethdean
 
 **Adam Menges**\
 Topics: Artificial Intelligence, Design, Computer Science\
-https://twitter.com/adammenges &bull; https://instagram.com/adammenges
+https://twitter.com/adammenges
 
 <img src="https://twitter.com/bcherny/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1789,7 +1823,7 @@ https://twitter.com/lisaychuang
 
 **Mike Matas**\
 Topics: Human Interface Design\
-https://twitter.com/mike_matas &bull; https://instagram.com/mike_matas
+https://twitter.com/mike_matas
 
 <img src="https://twitter.com/MinaMarkham/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1897,7 +1931,7 @@ https://twitter.com/nexwire
 
 **Raphael Amorim**\
 Topics: React, JavaScript, jQuery\
-https://twitter.com/raphamorims &bull; https://github.com/raphamorim
+https://twitter.com/raphamorims
 
 ### São Paulo
 
