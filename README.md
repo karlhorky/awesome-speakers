@@ -39,6 +39,12 @@ https://twitter.com/ireaderinokun
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel\
 https://twitter.com/unicodeveloper
 
+<img src="https://twitter.com/onejsninja/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Adebayo Opesanya**\
+Topics: JavaScript, Node.js, Typescript, Testing,  Community,\
+https://twitter.com/onejsninja
+
 ## South Africa
 
 ### Johannesburg
