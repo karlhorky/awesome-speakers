@@ -739,17 +739,17 @@ https://twitter.com/CatKlavier
 Topics: JavaScript, Node.js, Ember\
 https://twitter.com/patocallaghan
 
-<img src="https://twitter.com/malyw/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Serg Hospodarets**\
-Topics: JavaScript, CSS, CSS Houdini\
-https://twitter.com/malyw
-
 <img src="https://twitter.com/serifritsch/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Serena Fritsch**\
 Topics: JavaScript, Ember, Developer Workflows\
 https://twitter.com/serifritsch
+
+<img src="https://twitter.com/malyw/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Serg Hospodarets**\
+Topics: JavaScript, CSS, CSS Houdini\
+https://twitter.com/malyw
 
 <img src="https://twitter.com/tomwillfixit/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
