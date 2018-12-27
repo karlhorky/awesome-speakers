@@ -1023,11 +1023,11 @@ https://twitter.com/martonkodok
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
 https://twitter.com/nikitonsky
 
-<img src="https://twitter.com/chicoxyzzy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/nikitonsky/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Sergey Rubanov**\
-Topics: Standards, Web Assembly\
-https://twitter.com/chicoxyzzy
+**Nikita Prokopov**\
+Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
+https://twitter.com/nikitonsky
 
 <img src="https://twitter.com/elixir_lang_mos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1040,6 +1040,12 @@ https://twitter.com/elixir_lang_mos
 **Oleksii Okhrymenko**\
 Topics: Angular, JavaScript, RxJS, i18n, HTML, CSS\
 https://twitter.com/ai_boy
+
+<img src="https://twitter.com/chicoxyzzy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Sergey Rubanov**\
+Topics: Standards, Web Assembly\
+https://twitter.com/chicoxyzzy
 
 ### St. Petersburg
 
