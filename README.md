@@ -1023,12 +1023,6 @@ https://twitter.com/martonkodok
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
 https://twitter.com/nikitonsky
 
-<img src="https://twitter.com/nikitonsky/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Nikita Prokopov**\
-Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
-https://twitter.com/nikitonsky
-
 <img src="https://twitter.com/elixir_lang_mos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Nikita Sobolev**\
