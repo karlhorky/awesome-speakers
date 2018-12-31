@@ -864,6 +864,11 @@ https://twitter.com/narendra_shetty
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 https://twitter.com/ppk
 
+<img src="https://twitter.com/udezekene/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Kene Udeze**\
+Topics: Design, CSS, Accessibility, Inclusive Design\
+https://twitter.com/udezekene
 
 ### Breda
 
