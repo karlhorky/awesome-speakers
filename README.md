@@ -535,7 +535,7 @@ https://twitter.com/smashingmag
 
 **Gregor Adams**\
 Topics: Fractals, CSS, JavaScript, Web Animations\
-[https://github.com/pixelass](https://github.com/pixelass)
+[github.com/pixelass](https://github.com/pixelass)
 
 <img src="https://avatars0.githubusercontent.com/u/4248851?s=460&v=4" height="70px" width="70px" align="left" alt="" />
 
@@ -1738,7 +1738,7 @@ https://twitter.com/micahgodbolt
 
 **Violet Peña**\
 Topics: React, Socket.IO, Storybook, Accessibility\
-[https://github.com/vgpena](https://github.com/vgpena)
+[github.com/vgpena](https://github.com/vgpena)
 
 ### Redwood City
 
