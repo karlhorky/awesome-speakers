@@ -846,6 +846,12 @@ https://twitter.com/carmenpopoviciu
 Topics: Progressive Web Apps, Web Performance, JavaScript\
 https://twitter.com/JoubranJad
 
+<img src="https://twitter.com/udezekene/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Kene Udeze**\
+Topics: Design, CSS, Accessibility, Inclusive Design\
+https://twitter.com/udezekene
+
 <img src="https://twitter.com/mweststrate/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Michel Weststrate**\
@@ -863,7 +869,6 @@ https://twitter.com/narendra_shetty
 **Peter-Paul Koch**\
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 https://twitter.com/ppk
-
 
 ### Breda
 
