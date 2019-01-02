@@ -285,6 +285,12 @@ https://twitter.com/mrozilla
 Topics: 3D Graphics, Business, React, webpack, Writing\
 https://twitter.com/bebraw
 
+<img src="https://twitter.com/karlhorky/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Karl Horky**\
+Topics: Tooling, Standards, Intersectionality, OSS, Psychology\
+https://twitter.com/karlhorky
+
 <img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">
 
 **Manuel Matuzović**\
@@ -458,12 +464,6 @@ https://twitter.com/hermagrini
 **Hugo Giraudel**\
 Topics: Accessibility, Diversity, Inclusivity\
 https://twitter.com/HugoGiraudel
-
-<img src="https://twitter.com/karlhorky/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Karl Horky**\
-Topics: Tooling, Standards, Intersectionality, OSS, Psychology\
-https://twitter.com/karlhorky
 
 <img src="https://twitter.com/Lugotype/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
