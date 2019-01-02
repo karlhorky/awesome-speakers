@@ -1198,7 +1198,7 @@ https://twitter.com/kettanaito
 
 ### Vinnytsia
 
-<img src="https://pbs.twimg.com/profile_images/762656563819675648/22TRjn_P_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/denar90_/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Artem Denysov**\
 Topics: Web Performance, Dev Tools\
@@ -1206,7 +1206,7 @@ Topics: Web Performance, Dev Tools\
 
 ### Odessa
 
-<img src="https://pbs.twimg.com/profile_images/976789509613506561/OiETwpCp_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/geek_timofey/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Timofey Lavrenyuk**\
 Topics: Progressive Web Apps, Modern Browser APIs\
@@ -1446,11 +1446,11 @@ https://twitter.com/brnnbrn
 Topics: Accessibility\
 https://twitter.com/halathinkeths
 
-<img src="https://twitter.com/tiffcodes/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/tiffhaxell/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Tiff Nogueira**\
 Topics: CSS Grids, React, Redux, Firebase, Flexbox\
-https://twitter.com/tiffcodes
+https://twitter.com/tiffhaxell
 
 ### Hamilton
 
