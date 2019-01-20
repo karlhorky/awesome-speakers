@@ -124,7 +124,7 @@ https://twitter.com/siddharthkp
 <img src="https://twitter.com/MohitRajput987/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Mohit Rajput**\
-Topics: Android, SDK, Java, Kotlin, Flutter, Blockchain\
+Topics: Android, Java, Kotlin, Flutter, Blockchain\
 https://twitter.com/MohitRajput987
 
 ### Mumbai
