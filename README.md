@@ -119,6 +119,14 @@ https://twitter.com/kranirudha
 Topics: CSS, Web Performance, React, CSS in JS, Node, Testing\
 https://twitter.com/siddharthkp
 
+### Indore
+
+<img src="https://twitter.com/MohitRajput987/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Mohit Rajput**\
+Topics: Android, SDK, Java, Kotlin, Flutter, Blockchain\
+https://twitter.com/MohitRajput987
+
 ### Mumbai
 
 <img src="https://twitter.com/jayeshkattar/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -158,12 +166,6 @@ https://twitter.com/amdsouza92
 **Avi Aryan**\
 Topics: Mobile Web, PWAs, Flask, Blockchain\
 https://twitter.com/aviaryan123
-
-### Madhya Pradesh
-<img src="https://pbs.twimg.com/profile_images/871279458132668417/OocCrpEW_400x400.jpg" height="70px" width="auto" align="left" />
-Mohit Rajput  
-Topics: Android, SDK, Java, Kotlin, Flutter, Blockchain  
-https://twitter.com/MohitRajput987
 
 ## Lebanon 🇱🇧
 
