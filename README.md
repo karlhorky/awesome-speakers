@@ -1592,7 +1592,7 @@ https://twitter.com/GantLaborde
 Topics: React, JavaScript, React Native, Front-End Performance\
 https://twitter.com/thegreengreek
 
-### New York
+### New York City
 
 <img src="https://twitter.com/andrey_sitnik/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
@@ -1618,23 +1618,35 @@ https://twitter.com/broccolini
 Topics: Open Source, Babel\
 https://twitter.com/left_pad
 
+<img src="https://twitter.com/jaredpalmer/profile_image?size=original" height="70px" width="70px" align="left" alt="">
+
+**Jared Palmer**\
+Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS\
+https://twitter.com/jaredpalmer
+
 <img src="https://twitter.com/jensimmons/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Jen Simmons**\
 Topics: Design, CSS, HTML, Web\
 https://twitter.com/jensimmons
 
-<img src="https://twitter.com/lara_hogan/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/joe_sepi/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Lara Hogan**\
-Topics: Design, Performance, Engineering Management, Public Speaking\
-https://twitter.com/lara_hogan
+**Joe Sepi**\
+Topics: Open Source, Community, Node.js, JavaScript\
+https://twitter.com/joe_sepi
 
 <img src="https://twitter.com/kurtiskemple/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Kurtis Kemple**\
 Topics: React, React Native, GraphQL, Universal Components\
 https://twitter.com/kurtiskemple
+
+<img src="https://twitter.com/lara_hogan/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Lara Hogan**\
+Topics: Design, Performance, Engineering Management, Public Speaking\
+https://twitter.com/lara_hogan
 
 <img src="https://twitter.com/kosamari/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -1648,29 +1660,23 @@ https://twitter.com/kosamari
 Topics: React, React Native, GraphQL\
 https://twitter.com/peggyrayzis
 
+<img src="https://twitter.com/swyx/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Shawn Wang**\
+Topics: React, Serverless, JAMstack\
+https://twitter.com/swyx
+
 <img src="https://twitter.com/una/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
 **Una Kravets**\
 Topics: CSS, Web\
 https://twitter.com/una
 
-<img src="https://twitter.com/jaredpalmer/profile_image?size=original" height="70px" width="70px" align="left" alt="">
-
-**Jared Palmer**\
-Topics: React, React Native, Developer Tools, Forms, TypeScript, CSS\
-https://twitter.com/jaredpalmer
-
 <img src="https://twitter.com/bitandbang/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
 **Tierney Cyren**\
 Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 https://twitter.com/bitandbang
-
-<img src="https://twitter.com/joe_sepi/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Joe Sepi**\
-Topics: Open Source, Community, Node.js, JavaScript\
-https://twitter.com/joe_sepi
 
 ### Omaha
 
