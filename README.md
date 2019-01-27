@@ -954,6 +954,12 @@ https://twitter.com/tlakomy
 Topics: CSS, Teaching Web Technologies\
 https://twitter.com/aganaplocha
 
+<img src="https://twitter.com/tomasz_ducin/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Tomasz Ducin**\
+Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
+https://twitter.com/tomasz_ducin &bull; [slides](http://slides.com/ducin) &bull; [videos](https://www.youtube.com/watch?v=IYikhsDVvic&list=PLr2xHVWDKMvywT9iZRtATXh_e9E9XbIl4) &bull; [home](http://ducin.it)
+
 ### Wrocław
 
 <img src="https://twitter.com/ferrannp/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
