@@ -958,7 +958,7 @@ https://twitter.com/aganaplocha
 
 **Tomasz Ducin**\
 Topics: JavaScript, TypeScript, React, Angular, RxJS, Async, Architecture\
-https://twitter.com/tomasz_ducin &bull; [slides](http://slides.com/ducin) &bull; [videos](https://www.youtube.com/watch?v=IYikhsDVvic&list=PLr2xHVWDKMvywT9iZRtATXh_e9E9XbIl4) &bull; [home](http://ducin.it)
+https://twitter.com/tomasz_ducin
 
 ### Wrocław
 
