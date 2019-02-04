@@ -1778,6 +1778,12 @@ https://twitter.com/kentcdodds
 
 ### San Francisco
 
+<img src="https://twitter.com/adammenges/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Adam Menges**\
+Topics: Artificial Intelligence, Design, Computer Science\
+https://twitter.com/adammenges
+
 <img src="https://twitter.com/AnjanaVakil/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Anjana Vakil**\
@@ -1789,12 +1795,6 @@ https://twitter.com/AnjanaVakil
 **Beth Dean**\
 Topics: Design, Illustration\
 https://twitter.com/bethdean
-
-<img src="https://twitter.com/adammenges/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Adam Menges**\
-Topics: Artificial Intelligence, Design, Computer Science\
-https://twitter.com/adammenges
 
 <img src="https://twitter.com/bcherny/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
