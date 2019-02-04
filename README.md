@@ -1820,6 +1820,12 @@ https://twitter.com/cordeliadillon
 Topics: CSS, Performance, Responsive Web Design\
 https://twitter.com/standardista
 
+<img src="https://twitter.com/fvcproductions/profile_image?size=original" height="70px" width="70px" align="left" alt="Frances Coronel" />
+
+**Frances Coronel**\
+Topics: Progressive Web Apps, TypeScript, Web Design, Open Source\
+https://twitter.com/fvcproductions
+
 <img src="https://twitter.com/AGambit95/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Gregory Shehet**\
