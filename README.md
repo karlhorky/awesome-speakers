@@ -1042,13 +1042,13 @@ https://twitter.com/martonkodok
 Topics: Clojure, DataScript, Rum, FiraCode, AnyBar\
 https://twitter.com/nikitonsky
 
-<img src="https://twitter.com/elixir_lang_mos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://avatars3.githubusercontent.com/u/4660275?s=460&v=4" height="70px" width="70px" align="left" alt="" />
 
 **Nikita Sobolev**\
 Topics: Elixir, Python, JavaScript, Management, RSDP\
 https://twitter.com/elixir_lang_mos
 
-<img src="https://avatars3.githubusercontent.com/u/4660275?s=460&v=4" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/ai_boy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Oleksii Okhrymenko**\
 Topics: Angular, JavaScript, RxJS, i18n, HTML, CSS\
