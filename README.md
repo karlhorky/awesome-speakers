@@ -48,7 +48,7 @@ https://twitter.com/unicodeveloper
 <img src="https://twitter.com/developerayo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Shodipo Ayomide**\
-Topics: PHP, Javascript, React, Vue, Progressive Web Apps, Testing, Open-Source, Web Performance\
+Topics: PHP, JavaScript, React, Vue.js, Progressive Web Apps, Testing, Open Source, Web Performance\
 https://twitter.com/developerayo
 
 
