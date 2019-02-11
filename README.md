@@ -45,6 +45,13 @@ https://twitter.com/ireaderinokun
 Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel\
 https://twitter.com/unicodeveloper
 
+<img src="https://twitter.com/developerayo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Shodipo Ayomide**\
+Topics: PHP, Javascript, React, Vue, Progressive Web Apps, Testing, Open-Source, Web Performance, Building Communities\
+https://twitter.com/developerayo
+
+
 ## South Africa
 
 ### Johannesburg
