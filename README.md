@@ -908,6 +908,16 @@ https://twitter.com/rowdyrabouw
 Topics: Component Libraries, React, Storybook, Open Source, Communities\
 https://twitter.com/NorbertdeLangen
 
+## Norway 🇳🇴
+
+### Oslo
+
+<img src="https://twitter.com/antonbabenko/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Anton Babenko**\
+Topics: Terraform, AWS, Devops\
+https://twitter.com/antonbabenko
+
 ## Poland 🇵🇱
 
 ### Gdańsk
