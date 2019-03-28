@@ -884,6 +884,14 @@ https://twitter.com/narendra_shetty
 Topics: HTML, CSS, JavaScript, Cross-Browser Compatibility\
 https://twitter.com/ppk
 
+### Bergambacht
+
+<img src="https://twitter.com/stefannhs/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Stefan Nieuwenhuis**\
+Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos, Design Systems\
+https://twitter.com/stefannhs
+
 ### Breda
 
 <img src="https://twitter.com/detonite/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
