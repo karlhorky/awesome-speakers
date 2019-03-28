@@ -2002,11 +2002,11 @@ https://twitter.com/raphamorims
 Topics: Frontend development, woman's inspiration, JavaScript, CSS\
 https://twitter.com/carolcode
 
-<img src="https://twitter.com/Feh_Bernardo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/fembernardo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Fernanda Bernardo**\
 Topics: CSS, JavaScript, HTML\
-https://twitter.com/Feh_Bernardo
+https://twitter.com/fembernardo
 
 <img src="https://twitter.com/JoaoVictor_AC/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
