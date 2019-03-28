@@ -886,11 +886,11 @@ https://twitter.com/ppk
 
 ### Bergambacht
 
-**Stefan Nieuwenhuis**\
-Topics: Angular, Web Components, Frontend architecture, Micro services, Mono repositories, Design Systems\
-https://twitter.com/stefannhs
-
 <img src="https://twitter.com/stefannhs/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Stefan Nieuwenhuis**\
+Topics: Angular, Web Components, Frontend Architecture, Microservices, Monorepos, Design Systems\
+https://twitter.com/stefannhs
 
 ### Breda
 
