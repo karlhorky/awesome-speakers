@@ -1446,6 +1446,14 @@ https://twitter.com/ninjanails
 
 ## Canada 🇨🇦
 
+### Hamilton
+
+<img src="https://twitter.com/wesbos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Wes Bos**\
+Topics: JavaScript, CSS, Tooling\
+https://twitter.com/wesbos
+
 ### Kingston
 
 <img src="https://twitter.com/svinkle/profile_image?size=original" height="70px" width="70px" align="left" alt="">
@@ -1490,14 +1498,6 @@ https://twitter.com/halathinkeths
 Topics: CSS Grids, React, Redux, Firebase, Flexbox\
 https://twitter.com/tiffhaxell
 
-### Hamilton
-
-<img src="https://twitter.com/wesbos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Wes Bos**\
-Topics: Fullstack Dev , JavaScript, CSS, Node, React\
-https://twitter.com/wesbos
-
 ## United States of America 🇺🇸
 
 ### Boston
@@ -1527,14 +1527,6 @@ https://twitter.com/leaverou
 **Adrian Roselli**\
 Topics: Accessibility\
 https://twitter.com/aardrian
-
-### California
-
-<img src="https://pbs.twimg.com/profile_images/1028519480412884992/o5vdCry7_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Addy Osmani**\
-Topics: GoogleChrome devtool, TodoMVC, @Yeoman, Material Design Lite\
-https://twitter.com/addyosmani
 
 ### Carlsbad
 
@@ -1707,6 +1699,14 @@ https://twitter.com/una
 **Tierney Cyren**\
 Topics: Node.js, JavaScript, CLI tools, Developer Tools, Open Source, Community\
 https://twitter.com/bitandbang
+
+### Mountain View
+
+<img src="https://twitter.com/addyosmani/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Addy Osmani**\
+Topics: Chrome DevTools, Performance\
+https://twitter.com/addyosmani
 
 ### Omaha
 
