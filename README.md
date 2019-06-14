@@ -854,6 +854,12 @@ https://twitter.com/kureevalexey
 Topics: Angular, JavaScript, Machine Learning, Neural Networks, Polymer, Web Components\
 https://twitter.com/carmenpopoviciu
 
+<img src="https://twitter.com/chidinmako/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Chidinma Kalu**\
+Topics: JavaScript, Typescript, Python, Machine Learning\
+https://twitter.com/chidinmako
+
 <img src="https://twitter.com/JoubranJad/profile_image?size=original" height="70px" width="70px" align="left" alt="" />  
 
 **Jad Joubran**\
