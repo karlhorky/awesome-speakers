@@ -857,7 +857,7 @@ https://twitter.com/carmenpopoviciu
 <img src="https://twitter.com/chidinmako/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Chidinma Kalu**\
-Topics: JavaScript, Typescript, Python, Machine Learning\
+Topics: JavaScript, TypeScript, Python, Machine Learning\
 https://twitter.com/chidinmako
 
 <img src="https://twitter.com/JoubranJad/profile_image?size=original" height="70px" width="70px" align="left" alt="" />  
