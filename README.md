@@ -1048,7 +1048,7 @@ https://twitter.com/daviddias
 
 ### Porto
 
-<img src="https://pbs.twimg.com/profile_images/825505237926506496/mhpudjxs_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/maskedwarrior/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Miguel Andrade**\
 Topics: Ember, JavaScript\
