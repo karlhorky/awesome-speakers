@@ -467,11 +467,11 @@ https://twitter.com/iamsapegin
 Topics: CSS, Accessibility\
 https://twitter.com/sonniesedge
 
-<img src="https://twitter.com/hermagrini/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/magrini_h/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Hernán Magrini**\
 Topics: Web Performance, Service Workers\
-https://twitter.com/hermagrini
+https://twitter.com/magrini_h
 
 <img src="https://twitter.com/HugoGiraudel/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
