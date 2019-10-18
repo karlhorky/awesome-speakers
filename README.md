@@ -579,11 +579,11 @@ https://twitter.com/TimPietrusky
 
 ### Karlsruhe
 
-<img src="https://twitter.com/rofrischmann/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/robinweser/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Robin Frischmann**\
+**Robin Weser**\
 Topics: CSS, CSS in JS, React\
-https://twitter.com/rofrischmann
+https://twitter.com/robinweser
 
 ### Munich
 
