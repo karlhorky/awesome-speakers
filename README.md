@@ -1220,11 +1220,11 @@ Topics: Babel, ECMAScript, Compilers\
 Topics: ClojureScript, React, Compilers\
 https://twitter.com/roman01la
 
-<img src="https://twitter.com/ImpressAppSrv/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/tshemsedinov/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Timur Shemsedinov**\
 Topics: Node.js, Programming, JavaScript, Highload\
-https://twitter.com/ImpressAppSrv
+https://twitter.com/tshemsedinov
 
 <img src="https://twitter.com/mourner/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
