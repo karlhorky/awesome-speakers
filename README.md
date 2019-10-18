@@ -399,7 +399,7 @@ https://twitter.com/terezk_a
 
 ### Helsinki
 
-<img src="https://pbs.twimg.com/profile_images/875429349574537217/JZi26Mju_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/pakastin/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Juha Lindstedt**\
 Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js\
@@ -529,11 +529,11 @@ https://twitter.com/yoshuawuyts
 
 ### Düsseldorf
 
-<img src="https://twitter.com/iamjoyclark/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/iamjoyheron/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Joy Clark**\
+**Joy Heron**\
 Topics: Clojure, Web Apps, Security\
-https://twitter.com/iamjoyclark
+https://twitter.com/iamjoyheron
 
 ### Freiburg
 
