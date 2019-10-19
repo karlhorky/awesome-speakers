@@ -1820,6 +1820,12 @@ https://twitter.com/kentcdodds
 Topics: Artificial Intelligence, Design, Computer Science\
 https://twitter.com/adammenges
 
+<img src="https://twitter.com/slightlylate/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Alex Russell**\
+Topics: Performance, Mobile Web, Progressive Web Apps, Web Standards\
+https://twitter.com/slightlylate
+
 <img src="https://twitter.com/AnjanaVakil/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Anjana Vakil**\
