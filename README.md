@@ -139,6 +139,16 @@ https://twitter.com/amdsouza92
 Topics: Mobile Web, PWAs, Flask, Blockchain\
 https://twitter.com/aviaryan123
 
+## Indonesia 🇮🇩
+
+### Jakarta
+
+<img src="https://twitter.com/fransallen/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Frans Allen**\
+Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security\
+https://twitter.com/fransallen
+
 ## Lebanon 🇱🇧
 
 ### Tyre
@@ -182,16 +192,6 @@ https://twitter.com/narainsagar
 **Nasir Hussain**\
 Topics: Blockchain, Smart Contracts, JavaScript, Databases, Python, Arduino, Continous Integration\
 https://twitter.com/i_am_the_dev
-
-## Indonesia 🇮🇩
-
-### Jakarta
-
-<img src="https://twitter.com/fransallen/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Frans Allen**\
-Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security\
-https://twitter.com/fransallen
 
 ## Singapore 🇸🇬
 
