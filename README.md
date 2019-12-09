@@ -399,11 +399,11 @@ https://twitter.com/mafintosh
 Topics: Virtual Reality, Web Image Processing\
 https://twitter.com/enthusiasto
 
-<img src="https://twitter.com/terezk_a/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/tereza_sokol/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Tereza Sokol**\
 Topics: Elm, Visualizations\
-https://twitter.com/terezk_a
+https://twitter.com/tereza_sokol
 
 ## Finland 🇫🇮
 
