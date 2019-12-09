@@ -697,11 +697,11 @@ https://twitter.com/claudiopro
 Topics: HTML, CSS, JavaScript\
 https://twitter.com/donovanh
 
-<img src="https://twitter.com/ingridepure/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/opinionatedpie/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Ingrid Epure**\
 Topics: Security, Psychology\
-https://twitter.com/ingridepure
+https://twitter.com/opinionatedpie
 
 <img src="https://pbs.twimg.com/profile_images/897746004996435968/Y6NGgGUz_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
