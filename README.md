@@ -187,7 +187,7 @@ https://twitter.com/sarasoueidan
 
 ### Jakarta
 
-<img src="https://cdn.statically.io/img/github.com/fransallen.png?w=140" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/fransallen/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Frans Allen**\
 Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security\
