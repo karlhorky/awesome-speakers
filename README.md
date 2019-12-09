@@ -183,6 +183,16 @@ https://twitter.com/aviaryan123
 Topics: Animations, CSS, SVG\
 https://twitter.com/sarasoueidan
 
+## Indonesia 🇮🇩
+
+### Jakarta
+
+<img src="https://twitter.com/fransallen/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Frans Allen**\
+Topics: CDN, Cloud, SaaS, DNS, Web Performance & Security\
+https://twitter.com/fransallen
+
 ## Singapore 🇸🇬
 
 ### Singapore
