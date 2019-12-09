@@ -63,40 +63,6 @@ https://twitter.com/riggaroo
 
 # Asia
 
-## Pakistan 🇵🇰
-
-### Karachi
-
-<img src="https://twitter.com/ahsan_ayz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Ahsan Ayaz**\
-Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
-https://twitter.com/ahsan_ayz
-
-<img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Mashhood Rastgar**\
-Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web\
-https://twitter.com/mashhoodr
-
-<img src="https://pbs.twimg.com/profile_images/1013094947388641284/Ym7b696E_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Muhammad Kamran**\
-Topics: Angular, Redux, RxJS, Flutter, Dart, React Native, JavaScript, TypeScript, Linux\
-https://twitter.com/smkamranqadri
-
-<img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="70px" align="left" alt="" />
-
-**Narain Sagar**\
-Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
-https://twitter.com/narainsagar
-
-<img src="https://pbs.twimg.com/profile_images/1042913409635897344/jADDQpz1_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-**Nasir Hussain**\
-Topics: Blockchain, Smart Contracts, JavaScript, Databases, Python, Arduino, Continous Integration\
-https://twitter.com/i_am_the_dev
-
 ## India 🇮🇳
 
 ### Bangalore
@@ -182,6 +148,40 @@ https://twitter.com/aviaryan123
 **Sara Soueidan**\
 Topics: Animations, CSS, SVG\
 https://twitter.com/sarasoueidan
+
+## Pakistan 🇵🇰
+
+### Karachi
+
+<img src="https://twitter.com/ahsan_ayz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Ahsan Ayaz**\
+Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
+https://twitter.com/ahsan_ayz
+
+<img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Mashhood Rastgar**\
+Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web\
+https://twitter.com/mashhoodr
+
+<img src="https://pbs.twimg.com/profile_images/1013094947388641284/Ym7b696E_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Muhammad Kamran**\
+Topics: Angular, Redux, RxJS, Flutter, Dart, React Native, JavaScript, TypeScript, Linux\
+https://twitter.com/smkamranqadri
+
+<img src="https://avatars1.githubusercontent.com/u/13800762" height="70px" width="70px" align="left" alt="" />
+
+**Narain Sagar**\
+Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
+https://twitter.com/narainsagar
+
+<img src="https://pbs.twimg.com/profile_images/1042913409635897344/jADDQpz1_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Nasir Hussain**\
+Topics: Blockchain, Smart Contracts, JavaScript, Databases, Python, Arduino, Continous Integration\
+https://twitter.com/i_am_the_dev
 
 ## Indonesia 🇮🇩
 
