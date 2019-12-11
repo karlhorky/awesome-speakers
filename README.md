@@ -187,11 +187,11 @@ https://twitter.com/smkamranqadri
 Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
 https://twitter.com/narainsagar
 
-<img src="https://twitter.com/i_am_the_dev/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/_dev_nasir_/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Nasir Hussain**\
-Topics: Blockchain, Smart Contracts, JavaScript, Databases, Python, Arduino, Continous Integration\
-https://twitter.com/i_am_the_dev
+Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ecosystems\
+[https://twitter.com/\_dev_nasir_](https://twitter.com/_dev_nasir_)
 
 ## Singapore 🇸🇬
 
@@ -529,7 +529,7 @@ https://twitter.com/Srushtika
 
 **Tejas Kumar**\
 Topics: JavaScript, React, WebAssembly, Community, Teams, Humanities\
-[https://twitter.com/tejaskumar\_](https://twitter.com/tejaskumar_)
+[https://twitter.com/tejaskumar_](https://twitter.com/tejaskumar_)
 
 <img src="https://twitter.com/yoshuawuyts/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
