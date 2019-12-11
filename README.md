@@ -498,7 +498,7 @@ https://twitter.com/Lugotype
 <img src="https://twitter.com/ManuelBieh/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Manuel Bieh**\
-Topics: React, Tooling, Developer Experience\
+Topics: React, JavaScript, Code Quality, Clean Code, Leadership, Developer Experience\
 https://twitter.com/ManuelBieh
 
 <img src="https://twitter.com/nataliepis/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
