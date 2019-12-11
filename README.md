@@ -190,7 +190,7 @@ https://twitter.com/narainsagar
 <img src="https://twitter.com/_dev_nasir_/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Nasir Hussain**\
-Topics: Web Designing, BlockChain, Python, IoT, Continous Integration, Developer Ecosystems\
+Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ecosystems\
 [https://twitter.com/\_dev_nasir_](https://twitter.com/_dev_nasir_)
 
 ## Singapore 🇸🇬
