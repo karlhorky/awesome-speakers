@@ -930,6 +930,14 @@ https://twitter.com/detonite/
 Topics: NativeScript, Browser APIs\
 https://twitter.com/rowdyrabouw
 
+### Papendrecht
+
+<img src="https://twitter.com/gklijs/profile_image?size=original" height="70px" width="70px" align="left" alt="Gerard Klijs" />
+
+**Gerard Klijs**\
+Topics: Clojure, Rust, GraphQL, Apache Kafka\
+https://twitter.com/gklijs
+
 ### Zwolle
 
 <img src="https://twitter.com/NorbertdeLangen/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
