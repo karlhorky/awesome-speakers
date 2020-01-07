@@ -163,11 +163,23 @@ https://twitter.com/sarasoueidan
 
 ### Karachi
 
+<img src="https://twitter.com/ArbazPirwani/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Arbaz Pirwani**\
+Topics: Android, Kotlin, Java\
+https://twitter.com/ArbazPirwani
+
 <img src="https://twitter.com/ahsan_ayz/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Ahsan Ayaz**\
 Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
 https://twitter.com/ahsan_ayz
+
+<img src="https://twitter.com/bhattieric/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Eric Bhatti**\
+Topics: Android, Java, Kotlin, Firebase. \
+https://twitter.com/bhattieric
 
 <img src="https://twitter.com/mashhoodr/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
@@ -192,6 +204,12 @@ https://twitter.com/narainsagar
 **Nasir Hussain**\
 Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ecosystems\
 [https://twitter.com/\_dev_nasir_](https://twitter.com/_dev_nasir_)
+
+<img src="https://twitter.com/WajahatKarim/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Wajahat Karim**\
+Topics: Android Developer, Open Source, Java, Kotlin\
+[https://twitter.com/\_dev_nasir_](https://twitter.com/WajahatKarim)
 
 ## Singapore 🇸🇬
 
