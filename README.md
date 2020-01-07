@@ -209,7 +209,7 @@ Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ec
 
 **Wajahat Karim**\
 Topics: Android Developer, Open Source, Java, Kotlin\
-[https://twitter.com/\_dev_nasir_](https://twitter.com/WajahatKarim)
+https://twitter.com/WajahatKarim
 
 ## Singapore 🇸🇬
 
