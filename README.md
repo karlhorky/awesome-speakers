@@ -381,6 +381,12 @@ https://twitter.com/ferakpeter
 Topics: React, Composition, Android, RXJava, Kotlin\
 https://twitter.com/defuex
 
+<img src="https://twitter.com/bolonio/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Adrián Bolonio**\
+Topics: React, JavaScript, Accessibility\
+https://twitter.com/bolonio
+
 ## Belgium 🇧🇪
 
 ### Hasselt
