@@ -184,7 +184,7 @@ https://twitter.com/bhattieric
 <img src="https://twitter.com/mashhoodr/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Mashhood Rastgar**\
-Topics: Progressive Web Apps, Angular, Firebase, Google Developer Expert Web\
+Topics: Progressive Web Apps, Angular, Firebase\
 https://twitter.com/mashhoodr
 
 <img src="https://twitter.com/smkamranqadri/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -208,7 +208,7 @@ Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ec
 <img src="https://twitter.com/WajahatKarim/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Wajahat Karim**\
-Topics: Android Developer, Open Source, Java, Kotlin\
+Topics: Android, Open Source, Java, Kotlin\
 https://twitter.com/WajahatKarim
 
 ## Singapore 🇸🇬
