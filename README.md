@@ -285,6 +285,12 @@ https://twitter.com/lisi_linhart
 
 ### Vienna
 
+<img src="https://twitter.com/bolonio/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Adrián Bolonio**\
+Topics: React, JavaScript, Accessibility\
+https://twitter.com/bolonio
+
 <img src="https://twitter.com/sharifsbeat/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Ali Sharif**\
@@ -380,12 +386,6 @@ https://twitter.com/ferakpeter
 **Timo Obereder**\
 Topics: React, Composition, Android, RXJava, Kotlin\
 https://twitter.com/defuex
-
-<img src="https://twitter.com/bolonio/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-**Adrián Bolonio**\
-Topics: React, JavaScript, Accessibility\
-https://twitter.com/bolonio
 
 ## Belgium 🇧🇪
 
