@@ -178,13 +178,13 @@ https://twitter.com/ahsan_ayz
 <img src="https://twitter.com/bhattieric/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Eric Bhatti**\
-Topics: Android, Java, Kotlin, Firebase. \
+Topics: Android, Java, Kotlin, Firebase\
 https://twitter.com/bhattieric
 
 <img src="https://twitter.com/mashhoodr/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Mashhood Rastgar**\
-Topics: Progressive Web Apps, Angular, Firebase. Google Developer Expert Web\
+Topics: Progressive Web Apps, Angular, Firebase, Google Developer Expert Web\
 https://twitter.com/mashhoodr
 
 <img src="https://twitter.com/smkamranqadri/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
