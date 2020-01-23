@@ -1095,7 +1095,7 @@ https://twitter.com/FilipaLacerda
 <img src="https://twitter.com/sericaia/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Daniela Matos de Carvalho**\
-Topics: HTTP/2, JavaScript, React, Offline First\
+Topics: Web protocols, Web security, JavaScript, React, Node.js, Offline First\
 https://twitter.com/sericaia
 
 <img src="https://twitter.com/daviddias/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
