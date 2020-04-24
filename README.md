@@ -24,8 +24,14 @@ Please add to the list and help make the community better connected and richer.
 <img src="https://twitter.com/onejsninja/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Adebayo Opesanya**\
-Topics: JavaScript, Node.js, Typescript, Testing,  Community,\
+Topics: JavaScript, Node.js, TypeScript, Testing,  Community,\
 https://twitter.com/onejsninja
+
+<img src="https://twitter.com/AnayoOleru/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Anayo Oleru**\
+Topics: JavaScript, Node.js, TypeScript, Testing, React, Redux, React Native, Open Source, Dialogflow, PWA\
+https://twitter.com/AnayoOleru
 
 <img src="https://twitter.com/codebeast/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
