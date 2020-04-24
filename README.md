@@ -27,6 +27,12 @@ Please add to the list and help make the community better connected and richer.
 Topics: JavaScript, Node.js, Typescript, Testing,  Community,\
 https://twitter.com/onejsninja
 
+<img src="https://twitter.com/AnayoOleru/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Anayo Oleru**\
+Topics: JavaScript, Node.js, Typescript, Testing, React, Redux, React-Native, Open Source, Dialogflow, PWA\
+https://twitter.com/AnayoOleru
+
 <img src="https://twitter.com/codebeast/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Christian Nwamba**\
