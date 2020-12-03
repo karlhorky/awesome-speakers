@@ -345,7 +345,7 @@ https://twitter.com/bebraw
 Topics: Tooling, Standards, Intersectionality, OSS, Psychology\
 https://twitter.com/karlhorky
 
-<img src="https://pbs.twimg.com/profile_images/707504523678523392/Uasvv2C4_400x400.jpg" height="70" align="left" alt="">
+<img src="https://unavatar.now.sh/twitter/mmatuzo" height="70" align="left" alt="">
 
 **Manuel Matuzović**\
 Topics: CSS, Grid, Accessibility\
@@ -749,7 +749,7 @@ https://twitter.com/donovanh
 Topics: Security, Psychology\
 https://twitter.com/opinionatedpie
 
-<img src="https://pbs.twimg.com/profile_images/897746004996435968/Y6NGgGUz_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/johnbrett_" height="70px" width="70px" align="left" alt="" />
 
 **John Brett**\
 Topics: JavaScript, hapi, Nomad Work, Bitcoin\
@@ -791,7 +791,7 @@ https://twitter.com/micflan
 Topics: Elixir, Ruby, Functional Programming\
 https://twitter.com/mustafaturan
 
-<img src="https://pbs.twimg.com/profile_images/590251245673263104/Lw3XBG-y_400x400.png" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/Podgeypoos79" height="70px" width="70px" align="left" alt="" />
 
 **Padraig O'Brien**\
 Topics: Serverless, Big Data, Databases\
@@ -1025,7 +1025,7 @@ https://twitter.com/szynszyliszys
 Topics: JavaScript, Security, Service Workers\
 https://twitter.com/kaapa_s
 
-<img src="https://pbs.twimg.com/profile_images/969155591477309441/lAf6s2t0_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/kdzwinel" height="70px" width="70px" align="left" alt="" />
 
 **Konrad Dzwinel**\
 Topics: Developer Tools, JavaScript\
@@ -1067,7 +1067,7 @@ https://twitter.com/ferrannp
 Topics: React Native, JavaScript, Tooling\
 https://twitter.com/grabbou
 
-<img src="https://pbs.twimg.com/profile_images/813866423214870528/ct8REef9_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/thymikee" height="70px" width="70px" align="left" alt="" />
 
 **Michał Pierzchała**\
 Topics: React Native, Jest, Testing, CSS\
@@ -1171,7 +1171,7 @@ Topics: HTML, CSS, Web Standards, Accessibility\
 Topics: Serverless\
 https://twitter.com/simalexan
 
-<img src="https://pbs.twimg.com/profile_images/858708563488845829/bfs-19gk_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/slobodan_" height="70px" width="70px" align="left" alt="" />
 
 **Slobodan Stojanović**\
 Topics: Serverless, Offline Web, Chat Bots\
@@ -1247,7 +1247,7 @@ https://twitter.com/xanf_ua
 
 ### Kyiv
 
-<img src="https://pbs.twimg.com/profile_images/702144090817896448/DBaTY_X6_400x400.png" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/shvaikalesh_" height="70px" width="70px" align="left" alt="" />
 
 **Aleksey Shvayka**\
 Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk\
@@ -1271,7 +1271,7 @@ https://twitter.com/eagleeye_s
 Topics: HTML, CSS, Web Standards\
 https://twitter.com/SilentImp
 
-<img src="https://pbs.twimg.com/profile_images/977986397415108608/Qnyz13mB_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/yavorsky_" height="70px" width="70px" align="left" alt="" />
 
 **Artem Yavorsky**\
 Topics: Babel, ECMAScript, Compilers\
@@ -1777,7 +1777,7 @@ https://twitter.com/addyosmani
 
 ### Omaha
 
-<img src="https://pbs.twimg.com/profile_images/936447300674744320/Y0eqcTp4_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/courtneyxann" height="70px" width="70px" align="left" alt="" />
 
 **Courtney Heitman**\
 Topics: UX Development, Usability, Accessibility, Scrum, Agile\
@@ -2053,7 +2053,7 @@ https://twitter.com/fdaciuk
 
 ### Joinville
 
-<img src="https://pbs.twimg.com/profile_images/785945345297682432/gwWz1ZPL_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/nexwire" height="70px" width="70px" align="left" alt="" />
 
 **Marcelo Camargo**\
 Topics: Functional Programming, Compilers, Type Theory, Category Theory, Lambda Calculus\
