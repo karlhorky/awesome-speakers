@@ -1851,6 +1851,12 @@ https://twitter.com/micahgodbolt
 Topics: React, Socket.IO, Storybook, Accessibility\
 [github.com/vgpena](https://github.com/vgpena)
 
+<img src="https://avatars3.githubusercontent.com/u/764006?s=460&v=4" height="70px" width="70px" align="left" alt="" />
+
+**Joe Seifi**\
+Topics: CSSinJS, JavaScript, React\
+[github.com/joeshub](https://github.com/joeshub)
+
 ### Redwood City
 
 <img src="https://unavatar.now.sh/twitter/jessebeach" height="70px" width="70px" align="left" alt="">
