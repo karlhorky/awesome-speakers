@@ -1827,11 +1827,11 @@ https://twitter.com/linclark
 
 ### Portland
 
-<img src="https://unavatar.now.sh/twitter/shanselman" height="70px" width="70px" align="left" alt="" />
+<img src="https://unavatar.now.sh/twitter/joeseifi" height="70px" width="70px" align="left" alt="" />
 
-**Scott Hanselman**\
-Topics: .NET, Azure\
-https://twitter.com/shanselman
+**Joe Seifi**\
+Topics: CSS-in-JS, JavaScript, React\
+https://twitter.com/joeseifi
 
 <img src="https://unavatar.now.sh/twitter/kyleshevlin" height="70px" width="70px" align="left" alt="" />
 
@@ -1842,20 +1842,20 @@ https://twitter.com/kyleshevlin
 <img src="https://unavatar.now.sh/twitter/micahgodbolt" height="70px" width="70px" align="left" alt="" />
 
 **Micah Godbolt**\
-Topics: Front-End Architecture, CSS, Design Systems\
+Topics: Frontend Architecture, CSS, Design Systems\
 https://twitter.com/micahgodbolt
+
+<img src="https://unavatar.now.sh/twitter/shanselman" height="70px" width="70px" align="left" alt="" />
+
+**Scott Hanselman**\
+Topics: .NET, Azure\
+https://twitter.com/shanselman
 
 <img src="https://avatars1.githubusercontent.com/u/1166226?s=460&v=4" height="70px" width="70px" align="left" alt="" />
 
 **Violet Peña**\
 Topics: React, Socket.IO, Storybook, Accessibility\
 [github.com/vgpena](https://github.com/vgpena)
-
-<img src="https://avatars3.githubusercontent.com/u/764006?s=460&v=4" height="70px" width="70px" align="left" alt="" />
-
-**Joe Seifi**\
-Topics: CSSinJS, JavaScript, React\
-[github.com/joeshub](https://github.com/joeshub)
 
 ### Redwood City
 
