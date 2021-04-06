@@ -1211,7 +1211,7 @@ https://twitter.com/erikras
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="" />
 
-**Ahsan Ayaz**\
+**Muhammad Ahsan Ayaz**\
 Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
 https://twitter.com/muhd_ahsanayaz
 
