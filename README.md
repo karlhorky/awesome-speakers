@@ -381,6 +381,12 @@ https://twitter.com/ryyppy
 Topics: Functional Programming, Computer Science\
 https://twitter.com/ferakpeter
 
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thefubhy" height="70px" width="70px" align="left" alt="" />
+
+**Sebastian Siemssen**\
+Topics: React, GraphQL, Tooling\
+https://twitter.com/thefubhy
+
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thecurlydev" height="70px" width="70px" align="left" alt="" />
 
 **Timo Obereder**\
@@ -1224,12 +1230,6 @@ https://twitter.com/muhd_ahsanayaz
 **Martin Splitt**\
 Topics: Virtual Reality, Web Performance\
 https://twitter.com/g33konaut
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thefubhy" height="70px" width="70px" align="left" alt="" />
-
-**Sebastian Siemssen**\
-Topics: React, GraphQL, Tooling\
-https://twitter.com/thefubhy
 
 ## Ukraine 🇺🇦
 
