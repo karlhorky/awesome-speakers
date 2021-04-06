@@ -1327,6 +1327,10 @@ https://twitter.com/geek_timofey
 Topics: Standards, Performance\
 https://twitter.com/brucel
 
+**Stuart Langridge**\
+Topics: JavaScript, HTML, Open Source\
+https://twitter.com/sil
+
 ### Brighton
 
 <img src="https://api.microlink.io/?url=https://twitter.com/adactio&embed=image.url" height="70px" width="70px" align="left" alt="" />
