@@ -1327,6 +1327,8 @@ https://twitter.com/geek_timofey
 Topics: Standards, Performance\
 https://twitter.com/brucel
 
+<img src="https://api.microlink.io/?url=https://twitter.com/sil&embed=image.url" height="70px" width="70px" align="left" alt="" />
+
 **Stuart Langridge**\
 Topics: JavaScript, HTML, Open Source\
 https://twitter.com/sil
