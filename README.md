@@ -21,11 +21,11 @@ Please add to the list and help make the community better connected and richer.
 
 ### Lagos
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/onejsninja" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/mazibayo" height="70px" width="70px" align="left" alt="" />
 
 **Adebayo Opesanya**\
-Topics: JavaScript, Node.js, TypeScript, Testing, Community,\
-https://twitter.com/onejsninja
+Topics: JavaScript, Node.js, TypeScript, Testing, Community\
+https://twitter.com/mazibayo
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AnayoOleru" height="70px" width="70px" align="left" alt="" />
 
@@ -175,12 +175,6 @@ https://twitter.com/sarasoueidan
 Topics: Android, Kotlin, Java\
 https://twitter.com/ArbazPirwani
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ahsan_ayz" height="70px" width="70px" align="left" alt="" />
-
-**Ahsan Ayaz**\
-Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
-https://twitter.com/ahsan_ayz
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bhattieric" height="70px" width="70px" align="left" alt="" />
 
 **Eric Bhatti**\
@@ -205,11 +199,11 @@ https://twitter.com/smkamranqadri
 Topics: Angular, JavaScript, TypeScript, Node.js, Docker, Continuous Integration, Tooling, Automation Testing\
 https://twitter.com/narainsagar
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_dev_nasir_" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/_nasirhm_" height="70px" width="70px" align="left" alt="" />
 
 **Nasir Hussain**\
 Topics: Web Design, Blockchain, Python, IoT, Continous Integration, Developer Ecosystems\
-[https://twitter.com/\_dev*nasir*](https://twitter.com/_dev_nasir_)
+[https://twitter.com/\_nasirhm\_](https://twitter.com/_nasirhm_)
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/WajahatKarim" height="70px" width="70px" align="left" alt="" />
 
@@ -387,11 +381,11 @@ https://twitter.com/ryyppy
 Topics: Functional Programming, Computer Science\
 https://twitter.com/ferakpeter
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/defuex" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/thecurlydev" height="70px" width="70px" align="left" alt="" />
 
 **Timo Obereder**\
 Topics: React, Composition, Android, RXJava, Kotlin\
-https://twitter.com/defuex
+https://twitter.com/thecurlydev
 
 ## Belgium 🇧🇪
 
@@ -517,11 +511,11 @@ https://twitter.com/iamsapegin
 Topics: CSS, Accessibility\
 https://twitter.com/sonniesedge
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/magrini_h" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/HernanMagrini" height="70px" width="70px" align="left" alt="" />
 
 **Hernán Magrini**\
 Topics: Web Performance, Service Workers\
-https://twitter.com/magrini_h
+https://twitter.com/HernanMagrini
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/HugoGiraudel" height="70px" width="70px" align="left" alt="" />
 
@@ -791,11 +785,11 @@ https://twitter.com/micflan
 Topics: Elixir, Ruby, Functional Programming\
 https://twitter.com/mustafaturan
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Podgeypoos79" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/PadraigOBrien" height="70px" width="70px" align="left" alt="" />
 
 **Padraig O'Brien**\
 Topics: Serverless, Big Data, Databases\
-https://twitter.com/Podgeypoos79
+https://twitter.com/PadraigOBrien
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/CatKlavier" height="70px" width="70px" align="left" alt="" />
 
@@ -1211,6 +1205,16 @@ https://twitter.com/D3DVincent
 Topics: React, Redux, Redux-Form, Forms\
 https://twitter.com/erikras
 
+## Sweden
+
+### Stockholm
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/muhd_ahsanayaz" height="70px" width="70px" align="left" alt="" />
+
+**Ahsan Ayaz**\
+Topics: JavaScript, Angular, Node.js, Ionic, Firebase, Stencil, Progressive Web Apps\
+https://twitter.com/muhd_ahsanayaz
+
 ## Switzerland 🇨🇭
 
 ### Zurich
@@ -1247,11 +1251,11 @@ https://twitter.com/xanf_ua
 
 ### Kyiv
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shvaikalesh_" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/shvaikalesh" height="70px" width="70px" align="left" alt="" />
 
 **Aleksey Shvayka**\
 Topics: Browsers, Web Standards, Open Source, Front End, Smalltalk\
-[https://twitter.com/shvaikalesh\_](https://twitter.com/shvaikalesh_)
+[https://twitter.com/shvaikalesh\_](https://twitter.com/shvaikalesh)
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/listochkin" height="70px" width="70px" align="left" alt="" />
 
@@ -1783,11 +1787,11 @@ https://twitter.com/addyosmani
 
 ### Omaha
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/courtneyxann" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/courtneyheitman" height="70px" width="70px" align="left" alt="" />
 
 **Courtney Heitman**\
 Topics: UX Development, Usability, Accessibility, Scrum, Agile\
-https://twitter.com/courtneyxann
+https://twitter.com/courtneyheitman
 
 ### Palo Alto
 
