@@ -1929,11 +1929,11 @@ https://twitter.com/cordeliadillon
 Topics: CSS, Performance, Responsive Web Design\
 https://twitter.com/standardista
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/fvcproductions" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/FrancesCoronel" height="70px" width="70px" align="left" alt="" />
 
 **Frances Coronel**\
 Topics: Progressive Web Apps, TypeScript, Web Design, Open Source\
-https://twitter.com/fvcproductions
+https://twitter.com/FrancesCoronel
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AGambit95" height="70px" width="70px" align="left" alt="" />
 
