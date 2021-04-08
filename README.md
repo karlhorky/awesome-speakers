@@ -30,13 +30,13 @@ https://twitter.com/mazibayo
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/AnayoOleru" height="70px" width="70px" align="left" alt="" />
 
 **Anayo Oleru**\
-Topics: JavaScript, Node.js, TypeScript, Testing, React, Redux, React Native, Open Source, Dialogflow, PWA\
+Topics: JavaScript, Node.js, TypeScript, Testing, React, Redux, React Native, Open Source, PWAs\
 https://twitter.com/AnayoOleru
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/codebeast" height="70px" width="70px" align="left" alt="" />
 
 **Christian Nwamba**\
-Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, CSS, Standards\
+Topics: JavaScript, React, Vue, Angular, PWAs, CSS, Standards\
 https://twitter.com/codebeast
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/ireaderinokun" height="70px" width="70px" align="left" alt="" />
@@ -48,13 +48,13 @@ https://twitter.com/ireaderinokun
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/unicodeveloper" height="70px" width="70px" align="left" alt="" />
 
 **Otemuyiwa Prosper**\
-Topics: JavaScript, React, Vue, Angular, Progressive Web Apps, PHP, Laravel\
+Topics: JavaScript, React, Vue, Angular, PWAs, PHP, Laravel\
 https://twitter.com/unicodeveloper
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/developerayo" height="70px" width="70px" align="left" alt="" />
 
 **Shodipo Ayomide**\
-Topics: PHP, JavaScript, React, Vue.js, Progressive Web Apps, Testing, Open Source, Web Performance\
+Topics: PHP, JavaScript, React, Vue.js, PWAs, Testing, Open Source, Performance\
 https://twitter.com/developerayo
 
 ## South Africa 🇿🇦
