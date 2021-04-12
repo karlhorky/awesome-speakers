@@ -461,17 +461,17 @@ https://twitter.com/pakastin
 Topics: React Native, TypeScript, GraphQL\
 https://twitter.com/plrdev
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="" />
-
-**Maaret Pyhäjärvi**\
-Topics: Testing\
-https://twitter.com/maaretp
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hamatti" height="70px" width="70px" align="left" alt="" />
 
 **Juha-Matti Santala**\
 Topics: Community building, Documentation, JavaScript, Programming\
 https://twitter.com/Hamatti
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="" />
+
+**Maaret Pyhäjärvi**\
+Topics: Testing\
+https://twitter.com/maaretp
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/varya_en" height="70px" width="70px" align="left" alt="" />
 
