@@ -327,12 +327,6 @@ https://twitter.com/glnnrys
 Topics: React, Redux, CSS in JS, React Native, Serverless, GraphQL\
 https://twitter.com/mrozilla
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bebraw" height="70px" width="70px" align="left" alt="" />
-
-**Juho Vepsäläinen**\
-Topics: 3D Graphics, Business, React, webpack, Writing\
-https://twitter.com/bebraw
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/karlhorky" height="70px" width="70px" align="left" alt="" />
 
 **Karl Horky**\
@@ -449,17 +443,49 @@ https://twitter.com/tereza_sokol
 
 ### Helsinki
 
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/eemeli_aro" height="70px" width="70px" align="left" alt="" />
+
+**Eemeli Aro**\
+Topics: Open Source, React, YAML\
+https://twitter.com/eemeli_aro
+
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/pakastin" height="70px" width="70px" align="left" alt="" />
 
 **Juha Lindstedt**\
 Topics: JavaScript, RE:DOM, Progressive Web Apps, Performance, Standards, CSS, Node.js\
 https://twitter.com/pakastin
 
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/plrdev" height="70px" width="70px" align="left" alt="" />
+
+**Juha Linnanen**\
+Topics: React Native, TypeScript, GraphQL\
+https://twitter.com/plrdev
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/hamatti" height="70px" width="70px" align="left" alt="" />
+
+**Juha-Matti Santala**\
+Topics: Community building, Documentation, JavaScript, Programming\
+https://twitter.com/Hamatti
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maaretp" height="70px" width="70px" align="left" alt="" />
+
+**Maaret Pyhäjärvi**\
+Topics: Testing\
+https://twitter.com/maaretp
+
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/varya_en" height="70px" width="70px" align="left" alt="" />
 
 **Varya Stepanova**\
 Topics: CSS in JS, Style Guides, Visual Regression Testing\
 https://twitter.com/varya_en
+
+### Rautalampi
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bebraw" height="70px" width="70px" align="left" alt="" />
+
+**Juho Vepsäläinen**\
+Topics: 3D Graphics, Business, JavaScript, React, webpack, Writing\
+https://twitter.com/bebraw
 
 ## France 🇫🇷
 
@@ -1472,6 +1498,12 @@ https://twitter.com/gerardsans
 **Gojko Adzic**\
 Topics: Testing, Requirements, Serverless\
 https://twitter.com/gojkoadzic
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jevakallio" height="70px" width="70px" align="left" alt="" />
+
+**Jani Eväkallio**\
+Topics: Self-Development, Programming\
+https://twitter.com/jevakallio
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/MicheleBertoli" height="70px" width="70px" align="left" alt="" />
 
