@@ -549,11 +549,11 @@ https://twitter.com/sonniesedge
 Topics: Web Performance, Service Workers\
 https://twitter.com/HernanMagrini
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/HugoGiraudel" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/KittyGiraudel" height="70px" width="70px" align="left" alt="" />
 
-**Hugo Giraudel**\
+**Kitty Giraudel**\
 Topics: Accessibility, Diversity, Inclusivity\
-https://twitter.com/HugoGiraudel
+https://twitter.com/KittyGiraudel
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/Lugotype" height="70px" width="70px" align="left" alt="" />
 
