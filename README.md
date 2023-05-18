@@ -1047,11 +1047,11 @@ https://twitter.com/szynszyliszys
 Topics: JavaScript, Security, Service Workers\
 https://twitter.com/kaapa_s
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kdzwinel" height="70px" width="70px" align="left" alt="" />
+<img src="https://assets.toot.cafe/accounts/avatars/000/000/504/original/e66815e29f46a5d5.jpg" height="70px" width="70px" align="left" alt="" />
 
 **Konrad Dzwinel**\
 Topics: Developer Tools, JavaScript\
-https://twitter.com/kdzwinel
+https://toot.cafe/@kdzwinel
 
 ### Poznań
 
