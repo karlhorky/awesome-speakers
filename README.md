@@ -1095,11 +1095,11 @@ https://twitter.com/grabbou
 Topics: React Native, Jest, Testing, CSS\
 https://twitter.com/thymikee
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michal_chudziak" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/michalchudziak" height="70px" width="70px" align="left" alt="" />
 
-**Mike Chudziak**\
+**Michał Chudziak**\
 Topics: React, React Native, iOS, Android\
-https://twitter.com/michal_chudziak
+https://twitter.com/michalchudziak
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/satya164" height="70px" width="70px" align="left" alt="" />
 
