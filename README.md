@@ -1197,6 +1197,14 @@ https://twitter.com/simalexan
 Topics: Serverless, Offline Web, Chat Bots\
 [https://twitter.com/slobodan\_](https://twitter.com/slobodan_)
 
+### Novi Sad
+
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stn1slv" height="70px" width="70px" align="left" alt="" />
+
+**Stanislav Deviatov**\
+Topics: Kafka, Mulesoft, API Management, Integration Platforms\
+https://twitter.com/stn1slv
+
 ## Spain 🇪🇸
 
 ### Alicante
