@@ -263,6 +263,14 @@ https://twitter.com/markdalgleish
 Topics: JavaScript, Web Development, Progressive Web Apps\
 https://twitter.com/philnash
 
+### Sydney
+
+<img src="https://s3.amazonaws.com/keybase_processed_uploads/8a4739ccde11be8cd6d020ffaf61e005_360_360.jpg" height="70px" width="70px" align="left" alt="" />
+
+**Mario Nebl**\
+Topics: JavaScript, Node.js, JS Architecture\
+https://www.linkedin.com/in/mario-nebl-62b6b3187
+
 # Europe
 
 ## Austria 🇦🇹
@@ -626,12 +634,6 @@ Topics: Web Design, Web Development, Responsive Web Design\
 https://twitter.com/smashingmag
 
 ### Hamburg
-
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/marionebl" height="70px" width="70px" align="left" alt="" />
-
-**Mario Nebl**\
-Topics: JavaScript, Node, JS Architecture\
-https://twitter.com/marionebl
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/aemkei" height="70px" width="70px" align="left" alt="" />
 
