@@ -1199,7 +1199,7 @@ Topics: Serverless, Offline Web, Chat Bots\
 
 ### Novi Sad
 
-<img src="https://avatars.githubusercontent.com/u/20664330?v=4" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/stn1slv" height="70px" width="70px" align="left" alt="" />
 
 **Stanislav Deviatov**\
 Topics: Kafka, Mulesoft, API Management, Integration Platforms\
