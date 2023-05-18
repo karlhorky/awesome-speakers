@@ -4,7 +4,7 @@
 
 Let's make it more transparent and easy to find awesome speakers for meetups and conferences! This list of speakers, their contact details and the topics they talk about is a start towards this goal.
 
-Please add to the list and help make the community better connected and richer.
+Please add to the list and help make a better-connected, richer community.
 
 ## Contents
 
