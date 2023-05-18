@@ -1987,12 +1987,6 @@ https://twitter.com/jhusain
 Topics: Design Systems\
 https://twitter.com/mybluewristband
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/jongold" height="70px" width="70px" align="left" alt="" />
-
-**Jon Gold**\
-Topics: Design, Design Systems, React, Artificial Intelligence\
-https://twitter.com/jongold
-
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lisaychuang" height="70px" width="70px" align="left" alt="" />
 
 **Lisa Huang**\
