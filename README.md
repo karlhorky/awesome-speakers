@@ -1771,11 +1771,11 @@ https://twitter.com/jensimmons
 Topics: Open Source, Community, Node.js, JavaScript\
 https://twitter.com/joe_sepi
 
-<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/kurtiskemple" height="70px" width="70px" align="left" alt="" />
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/bytes__" height="70px" width="70px" align="left" alt="" />
 
 **Kurtis Kemple**\
 Topics: React, React Native, GraphQL, Universal Components\
-https://twitter.com/kurtiskemple
+[https://twitter.com/bytes__](https://twitter.com/bytes__)
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/lara_hogan" height="70px" width="70px" align="left" alt="" />
 
