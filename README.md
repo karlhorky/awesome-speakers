@@ -1203,7 +1203,7 @@ Topics: Serverless, Offline Web, Chat Bots\
 
 **Stanislav Deviatov**\
 Topics: Kafka, Mulesoft, API Management, Integration Platforms\
-[https://github.com/stn1slv](https://github.com/stn1slv)
+https://twitter.com/stn1slv
 
 ## Spain 🇪🇸
 
