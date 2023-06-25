@@ -1139,6 +1139,10 @@ https://twitter.com/daviddias
 Topics: Ember, JavaScript\
 https://twitter.com/maskedwarrior
 
+**Luis Pereira**\
+Topics: SSDLC, Web Security, Pentesting, Social Engineering, Security Awareness\
+https://twitter.com/luisabrpereira
+
 ## Romania 🇷🇴
 
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/martonkodok" height="70px" width="70px" align="left" alt="" />
