@@ -1133,15 +1133,17 @@ https://twitter.com/daviddias
 
 ### Porto
 
+<img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/luisabrpereira" height="70px" width="70px" align="left" alt="" />
+
+**Luis Pereira**\
+Topics: SSDLC, Web Security, Pentesting, Social Engineering, Security Awareness\
+https://twitter.com/luisabrpereira
+
 <img src="https://res.cloudinary.com/dsscw65fc/image/twitter_name/maskedwarrior" height="70px" width="70px" align="left" alt="" />
 
 **Miguel Andrade**\
 Topics: Ember, JavaScript\
 https://twitter.com/maskedwarrior
-
-**Luis Pereira**\
-Topics: SSDLC, Web Security, Pentesting, Social Engineering, Security Awareness\
-https://twitter.com/luisabrpereira
 
 ## Romania 🇷🇴
 
