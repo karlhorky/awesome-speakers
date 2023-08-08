@@ -1,0 +1,20 @@
+{
+  "name": "awesome-speakers",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Karl Horky",
+  "type": "module",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "tsx": "3.12.7"
+  },
+  "devDependencies": {
+    "eslint-config-upleveled": "^5.0.4",
+    "typescript": "^5.1.6"
+  }
+}
