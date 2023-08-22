@@ -677,6 +677,14 @@ https://twitter.com/fhinkel
 Topics: JavaScript (TC39), V8, Chrome\
 https://twitter.com/mathias
 
+### Saarbrücken
+
+<img src="https://avatars.githubusercontent.com/u/357884?v=4" height="70px" width="70px" align="left" alt="" />
+
+**Thorsten Hans**\
+Topics: Containers, Azure, Kubernetes, Rust, Wasm\
+https://twitter.com/ThorstenHans
+
 ## Greece 🇬🇷
 
 ### Athens
