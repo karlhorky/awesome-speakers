@@ -513,14 +513,6 @@ https://twitter.com/EmmanuelDemey
 Topics: Angular, JavaScript, Progressive Web Apps, Chatbots, Firebase, Cloud, Internet of Things\
 https://twitter.com/manekinekko
 
-### Strasbourg
-
-<img src="./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
-
-**Sven Sauleau**\
-Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
-https://twitter.com/svensauleau
-
 ## Germany 🇩🇪
 
 ### Augsburg
@@ -1546,6 +1538,12 @@ https://twitter.com/saniyusuf
 **Sebastian Witalec**\
 Topics: NativeScript, Angular, Bots, JavaScript\
 https://twitter.com/sebawita
+
+<img src="./avatars/svensauleau" height="70px" width="70px" align="left" alt="" />
+
+**Sven Sauleau**\
+Topics: JavaScript (Babel), Artificial Intelligence, Linux, Cloud, Ops, Computer Science\
+https://twitter.com/svensauleau
 
 <img src="./avatars/yaili" height="70px" width="70px" align="left" alt="" />
 
